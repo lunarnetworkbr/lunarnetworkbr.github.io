@@ -2,6 +2,8 @@
   "shadow": true,
   "main": "#FF00D9",
   "mainText": "#ffffff",
+  "secondary": "#E879F9",
+  "tertiary": "#3B0764",
   "currency": "$",
   "items": {
     "markers": {
