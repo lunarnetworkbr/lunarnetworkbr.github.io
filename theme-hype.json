@@ -1,6 +1,6 @@
 {
   "shadow": true,
-  "main": "#5865f2",
+  "main": "#FF00D9",
   "mainText": "#ffffff",
   "currency": "$",
   "items": {
@@ -13263,7 +13263,7 @@
     "pointer": "#EF4444",
     "progress": {
       "background": "#FFFFFF",
-      "circle": "#5865f2",
+      "circle": "#FF00D9",
       "letter": "#FFFFFF"
     }
   },
