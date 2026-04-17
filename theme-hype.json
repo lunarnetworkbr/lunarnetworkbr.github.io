@@ -13306,6 +13306,14 @@
     "slots": {
       "max": 100,
       "default": 30,
+      "secure": {
+        "max": 12,
+        "default": 6,
+        "pricePerSlot": 100,
+        "defaultMaxWeight": 20,
+        "pricePerWeight": 500,
+        "weightUpgrade": 5
+      },
       "upgrade": {
         "slots": 50,
         "capacity": 300,
