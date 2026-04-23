@@ -5822,12 +5822,12 @@
     },
     "notifyitem": {
         "add": {
-            "letter": "#dcffe9",
-            "background": "#3fa466"
+            "letter": "#25330f",
+            "background": "#bbff4d"
         },
         "remove": {
-            "letter": "#ffe8e8",
-            "background": "#ad4443"
+            "letter": "#ffffff",
+            "background": "#FF1717"
         }
     },
     "pause": {
