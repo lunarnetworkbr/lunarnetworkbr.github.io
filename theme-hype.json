@@ -32,7 +32,7 @@
       "Type": "Consumível",
       "Market": true,
       "Delete": true,
-      "Weight": 0.0
+      "Weight": 0
     },
     "halloween_pumpkin": {
       "Index": "halloween_pumpkin",
@@ -40,7 +40,7 @@
       "Description": "Um enfeite para sua propriedade com a temática de halloween.",
       "Rarity": "legendary",
       "Type": "Consumível",
-      "Weight": 5.0
+      "Weight": 5
     },
     "halloween_ghost": {
       "Index": "halloween_ghost",
@@ -48,14 +48,14 @@
       "Description": "Um enfeite para sua propriedade com a temática de halloween.",
       "Rarity": "legendary",
       "Type": "Consumível",
-      "Weight": 5.0
+      "Weight": 5
     },
     "blue_essence": {
       "Index": "blue_essence",
       "Name": "Essência Azul",
       "Description": "Componente químico utilizado em experimentos, possui propriedades energéticas únicas que alimentam dispositivos experimentais, aprimoram armas modificadas ou são vendidas por um bom dinheiro.",
       "Type": "Comum",
-      "Weight": 0.0,
+      "Weight": 0,
       "Delete": true
     },
     "purple_essence": {
@@ -63,7 +63,7 @@
       "Name": "Essência Roxa",
       "Description": "Componente químico utilizado em experimentos, possui propriedades energéticas únicas que alimentam dispositivos experimentais, aprimoram armas modificadas ou são vendidas por um bom dinheiro.",
       "Type": "Comum",
-      "Weight": 0.0,
+      "Weight": 0,
       "Delete": true
     },
     "green_essence": {
@@ -71,7 +71,7 @@
       "Name": "Essência Verde",
       "Description": "Componente químico utilizado em experimentos, possui propriedades energéticas únicas que alimentam dispositivos experimentais, aprimoram armas modificadas ou são vendidas por um bom dinheiro.",
       "Type": "Comum",
-      "Weight": 0.0,
+      "Weight": 0,
       "Delete": true
     },
     "red_essence": {
@@ -79,7 +79,7 @@
       "Name": "Essência Vermelha",
       "Description": "Componente químico utilizado em experimentos, possui propriedades energéticas únicas que alimentam dispositivos experimentais, aprimoram armas modificadas ou são vendidas por um bom dinheiro.",
       "Type": "Comum",
-      "Weight": 0.0,
+      "Weight": 0,
       "Delete": true
     },
     "pink_essence": {
@@ -87,7 +87,7 @@
       "Name": "Essência Rosa",
       "Description": "Componente químico utilizado em experimentos, possui propriedades energéticas únicas que alimentam dispositivos experimentais, aprimoram armas modificadas ou são vendidas por um bom dinheiro.",
       "Type": "Comum",
-      "Weight": 0.0,
+      "Weight": 0,
       "Delete": true
     },
     "a_c_cat_01": {
@@ -203,7 +203,7 @@
       }
     },
     "spray_ballas": {
-      "Index": "sprays",
+      "Index": "spray_ballas",
       "Name": "Spray: Ballas",
       "Description": "Liberte sua expressão urbana com spray de pichação, sua ferramenta para transformar paredes em telas vibrantes de criatividade.",
       "Type": "Consumível",
@@ -212,7 +212,7 @@
       "Economy": 9725
     },
     "spray_vagos": {
-      "Index": "sprays",
+      "Index": "spray_vagos",
       "Name": "Spray: Vagos",
       "Description": "Liberte sua expressão urbana com spray de pichação, sua ferramenta para transformar paredes em telas vibrantes de criatividade.",
       "Type": "Consumível",
@@ -221,7 +221,7 @@
       "Economy": 9725
     },
     "spray_families": {
-      "Index": "sprays",
+      "Index": "spray_families",
       "Name": "Spray: Families",
       "Description": "Liberte sua expressão urbana com spray de pichação, sua ferramenta para transformar paredes em telas vibrantes de criatividade.",
       "Type": "Consumível",
@@ -576,11 +576,11 @@
       "Economy": 325
     },
     "ATTACH_FLASHLIGHT": {
-      "Index": "attach_flashlight",
+      "Index": "ATTACH_FLASHLIGHT",
       "Name": "Lanterna Tatica",
       "Type": "Attachs",
       "Arrest": true,
-      "Weight": 1.0,
+      "Weight": 1,
       "Market": true,
       "Economy": 2125,
       "Durability": 72,
@@ -591,11 +591,11 @@
       }
     },
     "ATTACH_CROSSHAIR": {
-      "Index": "attach_crosshair",
+      "Index": "ATTACH_CROSSHAIR",
       "Name": "Mira Holográfica",
       "Type": "Attachs",
       "Arrest": true,
-      "Weight": 1.0,
+      "Weight": 1,
       "Market": true,
       "Economy": 2725,
       "Durability": 72,
@@ -607,11 +607,11 @@
       }
     },
     "ATTACH_SILENCER": {
-      "Index": "attach_silencer",
+      "Index": "ATTACH_SILENCER",
       "Name": "Silenciador",
       "Type": "Attachs",
       "Arrest": true,
-      "Weight": 1.0,
+      "Weight": 1,
       "Market": true,
       "Economy": 4725,
       "Durability": 72,
@@ -624,11 +624,11 @@
       }
     },
     "ATTACH_MAGAZINE": {
-      "Index": "attach_magazine",
+      "Index": "ATTACH_MAGAZINE",
       "Name": "Pente Estendido",
       "Type": "Attachs",
       "Arrest": true,
-      "Weight": 1.0,
+      "Weight": 1,
       "Market": true,
       "Economy": 2225,
       "Durability": 72,
@@ -639,11 +639,11 @@
       }
     },
     "ATTACH_GRIP": {
-      "Index": "attach_grip",
+      "Index": "ATTACH_GRIP",
       "Name": "Empunhadura",
       "Type": "Attachs",
       "Arrest": true,
-      "Weight": 1.0,
+      "Weight": 1,
       "Market": true,
       "Economy": 1725,
       "Durability": 72,
@@ -750,7 +750,7 @@
       }
     },
     "WEAPON_KATANA": {
-      "Index": "katana",
+      "Index": "WEAPON_KATANA",
       "Name": "Katana",
       "Type": "Armamento",
       "Arrest": true,
@@ -763,7 +763,7 @@
       "Rarity": "legendary"
     },
     "adrenalineplus": {
-      "Index": "adrenaline",
+      "Index": "adrenalineplus",
       "Name": "Adrenalina ++",
       "Description": "Restaura o tempo ao ser ajudado com <common>Adrenalina</common>.",
       "Type": "Comum",
@@ -806,13 +806,13 @@
       "Index": "gemstone",
       "Name": "Diamante",
       "Type": "Consumível",
-      "Weight": 0.0,
+      "Weight": 0,
       "Delete": true,
       "Economy": 20,
       "Rarity": "legendary"
     },
     "fishingrodplus": {
-      "Index": "fishingrod",
+      "Index": "fishingrodplus",
       "Name": "Vara de Pescar ++",
       "Description": "Companheira ideal para os amantes da pesca, seja em água doce ou salgada, com sua construção leve e resistente, proporciona equilíbrio perfeito e sensibilidade para detectar até os mais sutis movimentos dos peixes, seja para pescadores iniciantes ou experientes, esta vara é a escolha confiável para horas de diversão e sucesso nas pescarias.",
       "Repair": "repairkit04",
@@ -825,7 +825,7 @@
       "Water": "In"
     },
     "pickaxeplus": {
-      "Index": "pickaxe",
+      "Index": "pickaxeplus",
       "Name": "Picareta ++",
       "Description": "Ferramenta versátil e resistente, projetada para lidar com uma variedade de tarefas, com sua construção robusta e design ergonômico, oferece conforto e eficiência em cada movimento, seja para escavação no jardim, trabalhos de construção ou aventuras ao ar livre, essa picareta é a escolha confiável para enfrentar desafios com facilidade e precisão.",
       "Repair": "repairkit04",
@@ -837,7 +837,7 @@
       "Rarity": "legendary"
     },
     "axeplus": {
-      "Index": "axe",
+      "Index": "axeplus",
       "Name": "Machadinha ++",
       "Description": "Ferramenta robusta e confiável para os desafios mais exigentes, construído com materiais de alta qualidade e design ergonômico, proporciona precisão e potência em cada golpe, ideal para cortar lenha, realizar trabalhos de construção ou aventuras ao ar livre, é o companheiro perfeito para qualquer tarefa que exija força e eficiência.",
       "Repair": "repairkit04",
@@ -861,11 +861,11 @@
       "Rarity": "legendary"
     },
     "premiumplate": {
-      "Index": "platepremium",
+      "Index": "premiumplate",
       "Name": "Placa Customizada",
       "Type": "Consumível",
       "Description": "Uma escolha ideal para quem busca expressar sua individualidade enquanto trafega pelas estradas, feita com materiais de qualidade e design exclusivo, ela adiciona um toque único ao veículo de seu proprietário, sem comprometer a conformidade com as normas de trânsito.",
-      "Weight": 0.0,
+      "Weight": 0,
       "Delete": true,
       "Economy": 100000,
       "Rarity": "legendary"
@@ -875,7 +875,7 @@
       "Name": "Seguidores InstaPic",
       "Type": "Consumível",
       "Description": "Adiciona 100 seguidores no instapic.",
-      "Weight": 0.0,
+      "Weight": 0,
       "Delete": true,
       "Economy": 80000,
       "Rarity": "legendary"
@@ -885,7 +885,7 @@
       "Name": "Cartão de Nome",
       "Type": "Consumível",
       "Description": "Modifica o nome.",
-      "Weight": 0.0,
+      "Weight": 0,
       "Delete": true,
       "Economy": 60000,
       "Rarity": "legendary"
@@ -896,7 +896,7 @@
       "Description": "Um dispositivo inteligente que, ao ser utilizado, ativa o gps no canto da tela, permitindo ao usuário visualizar melhor o terreno ao redor, rotas e a localização de pontos importantes. Ideal para navegação em áreas desconhecidas ou para ganhar vantagem tática em missões.",
       "Type": "Consumível",
       "Durability": 72,
-      "Weight": 0.0,
+      "Weight": 0,
       "Delete": true,
       "Economy": 50000,
       "Rarity": "legendary",
@@ -910,7 +910,7 @@
       "Name": "Frequência Mhz",
       "Type": "Consumível",
       "Description": "Transceptor compacto e poderoso que oferece uma frequência de rádio exclusiva para comunicação segura entre membros do seu grupo, ideal para operações discretas em ambientes onde privacidade é essencial.",
-      "Weight": 0.0,
+      "Weight": 0,
       "Delete": true,
       "Economy": 100000,
       "Rarity": "legendary"
@@ -920,17 +920,17 @@
       "Name": "Barbearia",
       "Type": "Consumível",
       "Description": "Define uma posição no mapa onde a <epic>Barbearia</epic> poderá ser acessada.",
-      "Weight": 0.0,
+      "Weight": 0,
       "Delete": true,
       "Economy": 500000,
       "Rarity": "legendary"
     },
     "Skinshop": {
-      "Index": "skinshop",
+      "Index": "Skinshop",
       "Name": "Loja de Roupas",
       "Type": "Consumível",
       "Description": "Define uma posição no mapa onde a <epic>Loja de Roupas</epic> poderá ser acessada.",
-      "Weight": 0.0,
+      "Weight": 0,
       "Delete": true,
       "Economy": 500000,
       "Rarity": "legendary"
@@ -940,7 +940,7 @@
       "Name": "Loja de Tatuagem",
       "Type": "Consumível",
       "Description": "Define uma posição no mapa onde a <epic>Loja de Tatuagem</epic> poderá ser acessada.",
-      "Weight": 0.0,
+      "Weight": 0,
       "Delete": true,
       "Economy": 500000,
       "Rarity": "legendary"
@@ -950,7 +950,7 @@
       "Name": "Aliança",
       "Type": "Comum",
       "Market": true,
-      "Weight": 0.0,
+      "Weight": 0,
       "Named": true
     },
     "alliance2": {
@@ -959,7 +959,7 @@
       "Type": "Comum",
       "Description": "<epic>Este item não pode ser roubado.</epic> Uma aliança luxuosa cravejada com um <epic>diamante brilhante</epic>. Símbolo de compromisso eterno ou riqueza extrema.",
       "Market": true,
-      "Weight": 0.0,
+      "Weight": 0,
       "Named": true,
       "Rarity": "legendary",
       "Delete": true
@@ -969,7 +969,7 @@
       "Name": "Porta-Aliança de Diamante",
       "Description": "<epic>Este item não pode ser roubado e, ao ser utilizado no alt + Relacionamento, gera dois itens que não podem ser roubados.</epic> Um pequeno estojo luxuoso, usado para guardar alianças de valor inestimável.",
       "Type": "Comum",
-      "Weight": 0.0,
+      "Weight": 0,
       "Rarity": "legendary",
       "Delete": true
     },
@@ -977,7 +977,7 @@
       "Index": "identity",
       "Name": "Passaporte",
       "Type": "Comum",
-      "Weight": 0.0,
+      "Weight": 0,
       "Named": true,
       "Market": true,
       "Delete": true
@@ -1134,14 +1134,14 @@
       "Index": "scrapmetal",
       "Name": "Sucata de Metal",
       "Type": "Comum",
-      "Weight": 0.0,
+      "Weight": 0,
       "Economy": 1
     },
     "blueprint_fragment": {
       "Index": "blueprint_fragment",
       "Name": "Fragmento de Aprendizado",
       "Type": "Comum",
-      "Weight": 0.0
+      "Weight": 0
     },
     "metalspring": {
       "Index": "metalspring",
@@ -1499,7 +1499,7 @@
       "LostWater": true
     },
     "Water": {
-      "Index": "water",
+      "Index": "Water",
       "Name": "Garrafa de Água",
       "Type": "Consumível",
       "Durability": 6,
@@ -1719,7 +1719,7 @@
       "Index": "treasurebox",
       "Name": "Baú do Tesouro",
       "Type": "Consumível",
-      "Weight": 0.0,
+      "Weight": 0,
       "Unique": true,
       "Economy": 0,
       "Market": true,
@@ -1729,7 +1729,7 @@
       "Index": "notepad",
       "Name": "Bloco de Notas",
       "Type": "Consumível",
-      "Weight": 0.0,
+      "Weight": 0,
       "Unique": true,
       "Economy": 10,
       "Market": true,
@@ -1766,7 +1766,7 @@
       "Name": "Mala de Dinheiro",
       "Description": "Segura e discreta para guardar dinheiro, ideal para proteger e organizar seus recursos financeiros com tranquilidade.",
       "Type": "Consumível",
-      "Weight": 1.0,
+      "Weight": 1,
       "Unique": true,
       "Market": true,
       "Economy": 275,
@@ -1793,7 +1793,7 @@
       "Repair": "repairkit01",
       "Type": "Consumível",
       "Durability": 720,
-      "Weight": 5.0,
+      "Weight": 5,
       "Unique": true,
       "Market": true,
       "Economy": 4275,
@@ -1875,7 +1875,7 @@
       "Market": true
     },
     "chestgroupp": {
-      "Index": "chestgroup",
+      "Index": "chestgroupp",
       "Name": "Compartimento Militar",
       "Description": "Projetado para manter seus e de seu grupo, itens mais valiosos protegidos e sempre ao seu alcance, com capacidade máxima de <b>1.000kg</b>, ele combina segurança, praticidade e organização em um único espaço.<br><common>Ao posicionado não pode ser retirado.</common>",
       "Type": "Consumível",
@@ -1885,7 +1885,7 @@
       "Weight": 5.25
     },
     "chestgroupm": {
-      "Index": "chestgroup",
+      "Index": "chestgroupm",
       "Name": "Compartimento Militar",
       "Description": "Projetado para manter seus e de seu grupo, itens mais valiosos protegidos e sempre ao seu alcance, com capacidade máxima de <b>2.500kg</b>, ele combina segurança, praticidade e organização em um único espaço.<br><common>Ao posicionado não pode ser retirado.</common>",
       "Type": "Consumível",
@@ -1895,7 +1895,7 @@
       "Weight": 5.25
     },
     "chestgroupg": {
-      "Index": "chestgroup",
+      "Index": "chestgroupg",
       "Name": "Compartimento Militar",
       "Description": "Projetado para manter seus e de seu grupo, itens mais valiosos protegidos e sempre ao seu alcance, com capacidade máxima de <b>5.000kg</b>, ele combina segurança, praticidade e organização em um único espaço.<br><common>Ao posicionado não pode ser retirado.</common>",
       "Type": "Consumível",
@@ -1918,34 +1918,34 @@
       "Name": "Máquina de Lavar",
       "Description": "Compacta e discreta que transforma dinheiro molhado em dinheiro limpo e pronto para uso, seja para jogos ou necessidades do dia a dia, esta máquina é a solução perfeita para lavagem de dinheiro de forma rápida e eficiente.<br><br><common>Lavagem diária: $250.000</common>",
       "Type": "Consumível",
-      "Weight": 50.0,
+      "Weight": 50,
       "Market": true,
       "Rarity": "common"
     },
     "moneywashplus": {
-      "Index": "moneywash",
+      "Index": "moneywashplus",
       "Name": "Máquina de Lavar",
       "Description": "Compacta e discreta que transforma dinheiro molhado em dinheiro limpo e pronto para uso, seja para jogos ou necessidades do dia a dia, esta máquina é a solução perfeita para lavagem de dinheiro de forma rápida e eficiente.<br><br><rare>Lavagem diária: $500.000</rare>",
       "Type": "Consumível",
-      "Weight": 50.0,
+      "Weight": 50,
       "Market": true,
       "Rarity": "rare"
     },
     "moneywashalpha": {
-      "Index": "moneywash",
+      "Index": "moneywashalpha",
       "Name": "Máquina de Lavar",
       "Description": "Compacta e discreta que transforma dinheiro molhado em dinheiro limpo e pronto para uso, seja para jogos ou necessidades do dia a dia, esta máquina é a solução perfeita para lavagem de dinheiro de forma rápida e eficiente.<br><br><epic>Lavagem diária: $1.000.000</epic>",
       "Type": "Consumível",
-      "Weight": 50.0,
+      "Weight": 50,
       "Market": true,
       "Rarity": "epic"
     },
     "moneywashomega": {
-      "Index": "moneywash",
+      "Index": "moneywashomega",
       "Name": "Máquina de Lavar",
       "Description": "Compacta e discreta que transforma dinheiro molhado em dinheiro limpo e pronto para uso, seja para jogos ou necessidades do dia a dia, esta máquina é a solução perfeita para lavagem de dinheiro de forma rápida e eficiente.<br><br><legendary>Lavagem diária: $5.000.000</legendary>",
       "Type": "Consumível",
-      "Weight": 50.0,
+      "Weight": 50,
       "Market": true,
       "Rarity": "legendary"
     },
@@ -1969,7 +1969,7 @@
       "Market": true
     },
     "WEAPON_HATCHET": {
-      "Index": "hatchet",
+      "Index": "WEAPON_HATCHET",
       "Name": "Machado",
       "Type": "Armamento",
       "Arrest": true,
@@ -1980,7 +1980,7 @@
       "Market": true
     },
     "WEAPON_BAT": {
-      "Index": "bat",
+      "Index": "WEAPON_BAT",
       "Name": "Bastão de Beisebol",
       "Repair": "repairkit01",
       "Type": "Armamento",
@@ -1991,7 +1991,7 @@
       "Market": true
     },
     "WEAPON_BATTLEAXE": {
-      "Index": "battleaxe",
+      "Index": "WEAPON_BATTLEAXE",
       "Name": "Machado de Batalha",
       "Repair": "repairkit01",
       "Type": "Armamento",
@@ -2002,7 +2002,7 @@
       "Market": true
     },
     "WEAPON_CROWBAR": {
-      "Index": "crowbar",
+      "Index": "WEAPON_CROWBAR",
       "Name": "Pé de Cabra",
       "Repair": "repairkit01",
       "Type": "Armamento",
@@ -2013,7 +2013,7 @@
       "Market": true
     },
     "WEAPON_SWITCHBLADE": {
-      "Index": "switchblade",
+      "Index": "WEAPON_SWITCHBLADE",
       "Name": "Canivete",
       "Repair": "repairkit01",
       "Type": "Armamento",
@@ -2024,7 +2024,7 @@
       "Market": true
     },
     "WEAPON_GOLFCLUB": {
-      "Index": "golfclub",
+      "Index": "WEAPON_GOLFCLUB",
       "Name": "Taco de Golf",
       "Repair": "repairkit01",
       "Type": "Armamento",
@@ -2035,7 +2035,7 @@
       "Market": true
     },
     "WEAPON_HAMMER": {
-      "Index": "hammer",
+      "Index": "WEAPON_HAMMER",
       "Name": "Martelo",
       "Repair": "repairkit01",
       "Type": "Armamento",
@@ -2046,7 +2046,7 @@
       "Market": true
     },
     "WEAPON_MACHETE": {
-      "Index": "machete",
+      "Index": "WEAPON_MACHETE",
       "Name": "Facão",
       "Repair": "repairkit01",
       "Type": "Armamento",
@@ -2057,7 +2057,7 @@
       "Market": true
     },
     "WEAPON_POOLCUE": {
-      "Index": "poolcue",
+      "Index": "WEAPON_POOLCUE",
       "Name": "Taco de Sinuca",
       "Repair": "repairkit01",
       "Type": "Armamento",
@@ -2068,7 +2068,7 @@
       "Market": true
     },
     "WEAPON_STONE_HATCHET": {
-      "Index": "stonehatchet",
+      "Index": "WEAPON_STONE_HATCHET",
       "Name": "Machado de Pedra",
       "Repair": "repairkit01",
       "Type": "Armamento",
@@ -2079,7 +2079,7 @@
       "Market": true
     },
     "WEAPON_WRENCH": {
-      "Index": "wrench",
+      "Index": "WEAPON_WRENCH",
       "Name": "Chave Inglesa",
       "Repair": "repairkit01",
       "Type": "Armamento",
@@ -2090,7 +2090,7 @@
       "Market": true
     },
     "WEAPON_KNUCKLE": {
-      "Index": "knuckle",
+      "Index": "WEAPON_KNUCKLE",
       "Name": "Soco Inglês",
       "Repair": "repairkit01",
       "Type": "Armamento",
@@ -2101,7 +2101,7 @@
       "Market": true
     },
     "WEAPON_FLASHLIGHT": {
-      "Index": "flashlight",
+      "Index": "WEAPON_FLASHLIGHT",
       "Name": "Lanterna",
       "Repair": "repairkit01",
       "Type": "Armamento",
@@ -2112,7 +2112,7 @@
       "Market": true
     },
     "WEAPON_NIGHTSTICK": {
-      "Index": "nightstick",
+      "Index": "WEAPON_NIGHTSTICK",
       "Name": "Cassetete",
       "Repair": "repairkit01",
       "Type": "Armamento",
@@ -2123,7 +2123,7 @@
       "Market": true
     },
     "WEAPON_PETROLCAN": {
-      "Index": "gallon",
+      "Index": "WEAPON_PETROLCAN",
       "Name": "Galão",
       "Type": "Armamento",
       "Arrest": true,
@@ -2133,7 +2133,7 @@
       "Economy": 500
     },
     "GADGET_PARACHUTE": {
-      "Index": "parachute",
+      "Index": "GADGET_PARACHUTE",
       "Name": "Paraquedas",
       "Description": "Lembrando que após <common>desconectar</common> da cidade o mesmo é removido.",
       "Type": "Consumível",
@@ -2143,7 +2143,7 @@
       "Market": true
     },
     "WEAPON_RPG_AMMO": {
-      "Index": "rocket",
+      "Index": "WEAPON_RPG_AMMO",
       "Name": "Munição de Foguete",
       "Type": "Munição",
       "Arrest": true,
@@ -2151,7 +2151,7 @@
       "Weight": 2.25
     },
     "WEAPON_PISTOL_AMMO": {
-      "Index": "pistolammo",
+      "Index": "WEAPON_PISTOL_AMMO",
       "Name": "Munição de Pistola",
       "Type": "Munição",
       "Arrest": true,
@@ -2160,7 +2160,7 @@
       "Economy": 15
     },
     "WEAPON_SMG_AMMO": {
-      "Index": "smgammo",
+      "Index": "WEAPON_SMG_AMMO",
       "Name": "Munição de Sub",
       "Type": "Munição",
       "Market": true,
@@ -2168,7 +2168,7 @@
       "Economy": 20
     },
     "WEAPON_RIFLE_AMMO": {
-      "Index": "rifleammo",
+      "Index": "WEAPON_RIFLE_AMMO",
       "Name": "Munição de Rifle",
       "Type": "Munição",
       "Arrest": true,
@@ -2177,7 +2177,7 @@
       "Economy": 25
     },
     "WEAPON_SHOTGUN_AMMO": {
-      "Index": "shotgunammo",
+      "Index": "WEAPON_SHOTGUN_AMMO",
       "Name": "Munição de Espingarda",
       "Type": "Munição",
       "Arrest": true,
@@ -2186,7 +2186,7 @@
       "Economy": 50
     },
     "WEAPON_MUSKET_AMMO": {
-      "Index": "musketammo",
+      "Index": "WEAPON_MUSKET_AMMO",
       "Name": "Munição de Mosquete",
       "Type": "Munição",
       "Arrest": true,
@@ -2195,7 +2195,7 @@
       "Economy": 10
     },
     "WEAPON_PETROLCAN_AMMO": {
-      "Index": "fuel",
+      "Index": "WEAPON_PETROLCAN_AMMO",
       "Name": "Combustível",
       "Type": "Munição",
       "Arrest": true,
@@ -2204,7 +2204,7 @@
       "Economy": 0
     },
     "WEAPON_ACIDPACKAGE": {
-      "Index": "newspaper",
+      "Index": "WEAPON_ACIDPACKAGE",
       "Name": "Jornal",
       "Type": "Arremesso",
       "Arrest": true,
@@ -2214,7 +2214,7 @@
       "Market": true
     },
     "WEAPON_BRICK": {
-      "Index": "brick",
+      "Index": "WEAPON_BRICK",
       "Name": "Tijolo",
       "Type": "Arremesso",
       "Arrest": true,
@@ -2224,7 +2224,7 @@
       "Market": true
     },
     "WEAPON_SNOWBALL": {
-      "Index": "snowball",
+      "Index": "WEAPON_SNOWBALL",
       "Name": "Bola de Neve",
       "Type": "Arremesso",
       "Arrest": true,
@@ -2234,7 +2234,7 @@
       "Market": true
     },
     "WEAPON_SHOES": {
-      "Index": "shoes",
+      "Index": "WEAPON_SHOES",
       "Name": "Tênis",
       "Type": "Arremesso",
       "Arrest": true,
@@ -2244,7 +2244,7 @@
       "Market": true
     },
     "WEAPON_MOLOTOV": {
-      "Index": "molotov",
+      "Index": "WEAPON_MOLOTOV",
       "Name": "Coquetel Molotov",
       "Type": "Arremesso",
       "Arrest": true,
@@ -2255,7 +2255,7 @@
       "Economy": 1225
     },
     "WEAPON_SMOKEGRENADE": {
-      "Index": "smokegrenade",
+      "Index": "WEAPON_SMOKEGRENADE",
       "Name": "Granada de Fumaça",
       "Type": "Arremesso",
       "Arrest": true,
@@ -2266,7 +2266,7 @@
       "Economy": 1225
     },
     "WEAPON_STUNGUN": {
-      "Index": "stungun",
+      "Index": "WEAPON_STUNGUN",
       "Name": "Tazer",
       "Repair": "repairkit02",
       "Type": "Armamento",
@@ -2281,7 +2281,7 @@
       }
     },
     "WEAPON_PISTOL": {
-      "Index": "m1911",
+      "Index": "WEAPON_PISTOL",
       "Name": "M1911",
       "Description": "Armamento que utiliza <common>Munição de Pistola</common>.",
       "Repair": "repairkit02",
@@ -2304,7 +2304,7 @@
       }
     },
     "WEAPON_PISTOL_MK2": {
-      "Index": "t54",
+      "Index": "WEAPON_PISTOL_MK2",
       "Name": "T54",
       "Description": "Armamento que utiliza <common>Munição de Pistola</common>.",
       "Repair": "repairkit02",
@@ -2328,7 +2328,7 @@
       }
     },
     "WEAPON_COMPACTRIFLE": {
-      "Index": "aks74u",
+      "Index": "WEAPON_COMPACTRIFLE",
       "Name": "AKS74U",
       "Description": "Armamento que utiliza <common>Munição de Rifle</common>.",
       "Repair": "repairkit03",
@@ -2348,7 +2348,7 @@
       }
     },
     "WEAPON_APPISTOL": {
-      "Index": "kochvp9",
+      "Index": "WEAPON_APPISTOL",
       "Name": "Koch Vp9",
       "Description": "Armamento que utiliza <common>Munição de Sub</common>.",
       "Repair": "repairkit03",
@@ -2371,7 +2371,7 @@
       }
     },
     "WEAPON_HEAVYPISTOL": {
-      "Index": "m45a1",
+      "Index": "WEAPON_HEAVYPISTOL",
       "Name": "M45A1",
       "Description": "Armamento que utiliza <common>Munição de Pistola</common>.",
       "Repair": "repairkit02",
@@ -2394,7 +2394,7 @@
       }
     },
     "WEAPON_MACHINEPISTOL": {
-      "Index": "tec9",
+      "Index": "WEAPON_MACHINEPISTOL",
       "Name": "Tec-9",
       "Description": "Armamento que utiliza <common>Munição de Sub</common>.",
       "Type": "Armamento",
@@ -2416,7 +2416,7 @@
       }
     },
     "WEAPON_MICROSMG": {
-      "Index": "uzi",
+      "Index": "WEAPON_MICROSMG",
       "Name": "Uzi",
       "Description": "Armamento que utiliza <common>Munição de Sub</common>.",
       "Type": "Armamento",
@@ -2440,7 +2440,7 @@
       }
     },
     "WEAPON_RPG": {
-      "Index": "rpg",
+      "Index": "WEAPON_RPG",
       "Name": "Lança Foguete",
       "Description": "Armamento que utiliza <common>Munição de Foguete</common>.",
       "Repair": "repairkit04",
@@ -2454,7 +2454,7 @@
       "Weight": 12.25
     },
     "WEAPON_MINISMG": {
-      "Index": "mac10",
+      "Index": "WEAPON_MINISMG",
       "Name": "MAC-10",
       "Description": "Armamento que utiliza <common>Munição de Sub</common>.",
       "Repair": "repairkit03",
@@ -2475,7 +2475,7 @@
       }
     },
     "WEAPON_SNSPISTOL": {
-      "Index": "f57",
+      "Index": "WEAPON_SNSPISTOL",
       "Name": "F57",
       "Description": "Armamento que utiliza <common>Munição de Pistola</common>.",
       "Repair": "repairkit02",
@@ -2496,7 +2496,7 @@
       }
     },
     "WEAPON_SNSPISTOL_MK2": {
-      "Index": "cz52",
+      "Index": "WEAPON_SNSPISTOL_MK2",
       "Name": "CZ52",
       "Description": "Armamento que utiliza <common>Munição de Pistola</common>.",
       "Repair": "repairkit02",
@@ -2520,7 +2520,7 @@
       }
     },
     "WEAPON_VINTAGEPISTOL": {
-      "Index": "m1922",
+      "Index": "WEAPON_VINTAGEPISTOL",
       "Name": "M1922",
       "Description": "Armamento que utiliza <common>Munição de Pistola</common>.",
       "Repair": "repairkit02",
@@ -2542,7 +2542,7 @@
       }
     },
     "WEAPON_PISTOL50": {
-      "Index": "deagle",
+      "Index": "WEAPON_PISTOL50",
       "Name": "Deagle",
       "Description": "Armamento que utiliza <common>Munição de Pistola</common>.",
       "Repair": "repairkit03",
@@ -2565,7 +2565,7 @@
       }
     },
     "WEAPON_COMBATPISTOL": {
-      "Index": "g18c",
+      "Index": "WEAPON_COMBATPISTOL",
       "Name": "G18C",
       "Description": "Armamento que utiliza <common>Munição de Pistola</common>.",
       "Repair": "repairkit02",
@@ -2588,7 +2588,7 @@
       }
     },
     "WEAPON_CARBINERIFLE": {
-      "Index": "m4a1",
+      "Index": "WEAPON_CARBINERIFLE",
       "Name": "M4A1",
       "Description": "Armamento que utiliza <common>Munição de Rifle</common>.",
       "Repair": "repairkit04",
@@ -2612,7 +2612,7 @@
       }
     },
     "WEAPON_CARBINERIFLE_MK2": {
-      "Index": "h416",
+      "Index": "WEAPON_CARBINERIFLE_MK2",
       "Name": "H416",
       "Description": "Armamento que utiliza <common>Munição de Rifle</common>.",
       "Repair": "repairkit04",
@@ -2636,7 +2636,7 @@
       }
     },
     "WEAPON_ADVANCEDRIFLE": {
-      "Index": "mdr",
+      "Index": "WEAPON_ADVANCEDRIFLE",
       "Name": "MDR",
       "Description": "Armamento que utiliza <common>Munição de Rifle</common>.",
       "Repair": "repairkit04",
@@ -2659,7 +2659,7 @@
       }
     },
     "WEAPON_BULLPUPRIFLE": {
-      "Index": "qbz95",
+      "Index": "WEAPON_BULLPUPRIFLE",
       "Name": "QBZ-95",
       "Description": "Armamento que utiliza <common>Munição de Rifle</common>.",
       "Repair": "repairkit04",
@@ -2683,7 +2683,7 @@
       }
     },
     "WEAPON_BULLPUPRIFLE_MK2": {
-      "Index": "l85",
+      "Index": "WEAPON_BULLPUPRIFLE_MK2",
       "Name": "L85",
       "Description": "Armamento que utiliza <common>Munição de Rifle</common>.",
       "Repair": "repairkit04",
@@ -2707,7 +2707,7 @@
       }
     },
     "WEAPON_SPECIALCARBINE": {
-      "Index": "g36c",
+      "Index": "WEAPON_SPECIALCARBINE",
       "Name": "G36C",
       "Description": "Armamento que utiliza <common>Munição de Rifle</common>.",
       "Repair": "repairkit04",
@@ -2731,7 +2731,7 @@
       }
     },
     "WEAPON_SPECIALCARBINE_MK2": {
-      "Index": "sigsauer556",
+      "Index": "WEAPON_SPECIALCARBINE_MK2",
       "Name": "Sig Sauer 556",
       "Description": "Armamento que utiliza <common>Munição de Rifle</common>.",
       "Repair": "repairkit04",
@@ -2754,7 +2754,7 @@
       }
     },
     "WEAPON_PUMPSHOTGUN": {
-      "Index": "m870",
+      "Index": "WEAPON_PUMPSHOTGUN",
       "Name": "M870",
       "Description": "Armamento que utiliza <common>Munição de Espingarda</common>.",
       "Repair": "repairkit03",
@@ -2775,7 +2775,7 @@
       }
     },
     "WEAPON_PUMPSHOTGUN_MK2": {
-      "Index": "mp133",
+      "Index": "WEAPON_PUMPSHOTGUN_MK2",
       "Name": "MP133",
       "Description": "Armamento que utiliza <common>Munição de Espingarda</common>.",
       "Repair": "repairkit04",
@@ -2798,7 +2798,7 @@
       }
     },
     "WEAPON_MUSKET": {
-      "Index": "winchester",
+      "Index": "WEAPON_MUSKET",
       "Name": "Winchester 1892",
       "Description": "Armamento que utiliza <common>Munição de Mosquete</common>.",
       "Repair": "repairkit02",
@@ -2815,7 +2815,7 @@
       }
     },
     "WEAPON_SAWNOFFSHOTGUN": {
-      "Index": "mossberg500",
+      "Index": "WEAPON_SAWNOFFSHOTGUN",
       "Name": "Mossberg 500",
       "Description": "Armamento que utiliza <common>Munição de Espingarda</common>.",
       "Repair": "repairkit03",
@@ -2832,7 +2832,7 @@
       }
     },
     "WEAPON_SMG": {
-      "Index": "mp5",
+      "Index": "WEAPON_SMG",
       "Name": "MP5",
       "Description": "Armamento que utiliza <common>Munição de Sub</common>.",
       "Repair": "repairkit03",
@@ -2855,7 +2855,7 @@
       }
     },
     "WEAPON_SMG_MK2": {
-      "Index": "mpx",
+      "Index": "WEAPON_SMG_MK2",
       "Name": "MPX",
       "Description": "Armamento que utiliza <common>Munição de Sub</common>.",
       "Repair": "repairkit03",
@@ -2880,7 +2880,7 @@
       }
     },
     "WEAPON_TACTICALRIFLE": {
-      "Index": "m16",
+      "Index": "WEAPON_TACTICALRIFLE",
       "Name": "M16",
       "Description": "Armamento que utiliza <common>Munição de Rifle</common>.",
       "Repair": "repairkit04",
@@ -2904,7 +2904,7 @@
       }
     },
     "WEAPON_HEAVYRIFLE": {
-      "Index": "scarh",
+      "Index": "WEAPON_HEAVYRIFLE",
       "Name": "Scar-H",
       "Description": "Armamento que utiliza <common>Munição de Rifle</common>.",
       "Repair": "repairkit04",
@@ -2928,7 +2928,7 @@
       }
     },
     "WEAPON_ASSAULTRIFLE": {
-      "Index": "ak74n",
+      "Index": "WEAPON_ASSAULTRIFLE",
       "Name": "AK-74N",
       "Description": "Armamento que utiliza <common>Munição de Rifle</common>.",
       "Repair": "repairkit04",
@@ -2952,7 +2952,7 @@
       }
     },
     "WEAPON_ASSAULTRIFLE_MK2": {
-      "Index": "ak102",
+      "Index": "WEAPON_ASSAULTRIFLE_MK2",
       "Name": "AK-102",
       "Description": "Armamento que utiliza <common>Munição de Rifle</common>.",
       "Repair": "repairkit04",
@@ -2976,7 +2976,7 @@
       }
     },
     "WEAPON_ASSAULTSMG": {
-      "Index": "f2000",
+      "Index": "WEAPON_ASSAULTSMG",
       "Name": "F2000",
       "Description": "Armamento que utiliza <common>Munição de Sub</common>.",
       "Repair": "repairkit03",
@@ -2999,7 +2999,7 @@
       }
     },
     "WEAPON_GUSENBERG": {
-      "Index": "mpf45",
+      "Index": "WEAPON_GUSENBERG",
       "Name": "MPF45",
       "Description": "Armamento que utiliza <common>Munição de Sub</common>.",
       "Repair": "repairkit03",
@@ -3019,7 +3019,7 @@
       }
     },
     "syringe01": {
-      "Index": "syringe",
+      "Index": "syringe01",
       "Name": "Seringa A+",
       "Type": "Comum",
       "Weight": 0.25,
@@ -3030,7 +3030,7 @@
       }
     },
     "syringe02": {
-      "Index": "syringe",
+      "Index": "syringe02",
       "Name": "Seringa B+",
       "Type": "Comum",
       "Weight": 0.25,
@@ -3041,7 +3041,7 @@
       }
     },
     "syringe03": {
-      "Index": "syringe",
+      "Index": "syringe03",
       "Name": "Seringa A-",
       "Type": "Comum",
       "Weight": 0.25,
@@ -3052,7 +3052,7 @@
       }
     },
     "syringe04": {
-      "Index": "syringe",
+      "Index": "syringe04",
       "Name": "Seringa B-",
       "Type": "Comum",
       "Weight": 0.25,
@@ -3255,7 +3255,7 @@
       "Index": "package",
       "Name": "Encomenda",
       "Type": "Comum",
-      "Weight": 10.0,
+      "Weight": 10,
       "Anim": "caixa",
       "LostWater": true,
       "Economy": 0,
@@ -3266,7 +3266,7 @@
       "Index": "binbag",
       "Name": "Saco de Lixo",
       "Type": "Comum",
-      "Weight": 10.0,
+      "Weight": 10,
       "Anim": "lixo",
       "LostWater": true,
       "Economy": 0,
@@ -3294,7 +3294,7 @@
       "Index": "woodlog",
       "Name": "Tora de Madeira",
       "Type": "Comum",
-      "Weight": 1.0,
+      "Weight": 1,
       "Economy": 0,
       "Market": true,
       "LostWater": true
@@ -3390,7 +3390,7 @@
       "Market": true
     },
     "coyote1star": {
-      "Index": "box1star",
+      "Index": "coyote1star",
       "Name": "Coyote",
       "Type": "Comum",
       "Weight": 2.25,
@@ -3398,7 +3398,7 @@
       "Market": true
     },
     "coyote2star": {
-      "Index": "box2star",
+      "Index": "coyote2star",
       "Name": "Coyote",
       "Type": "Comum",
       "Weight": 2.25,
@@ -3406,7 +3406,7 @@
       "Market": true
     },
     "coyote3star": {
-      "Index": "box3star",
+      "Index": "coyote3star",
       "Name": "Coyote",
       "Type": "Comum",
       "Weight": 2.25,
@@ -3414,7 +3414,7 @@
       "Market": true
     },
     "mtlion1star": {
-      "Index": "box1star",
+      "Index": "mtlion1star",
       "Name": "Puma",
       "Type": "Comum",
       "Weight": 2.25,
@@ -3422,7 +3422,7 @@
       "Market": true
     },
     "mtlion2star": {
-      "Index": "box2star",
+      "Index": "mtlion2star",
       "Name": "Puma",
       "Type": "Comum",
       "Weight": 2.25,
@@ -3430,7 +3430,7 @@
       "Market": true
     },
     "mtlion3star": {
-      "Index": "box3star",
+      "Index": "mtlion3star",
       "Name": "Puma",
       "Type": "Comum",
       "Weight": 2.25,
@@ -3438,7 +3438,7 @@
       "Market": true
     },
     "boar1star": {
-      "Index": "box1star",
+      "Index": "boar1star",
       "Name": "Javali",
       "Type": "Comum",
       "Weight": 2.25,
@@ -3446,7 +3446,7 @@
       "Market": true
     },
     "boar2star": {
-      "Index": "box2star",
+      "Index": "boar2star",
       "Name": "Javali",
       "Type": "Comum",
       "Weight": 2.25,
@@ -3454,7 +3454,7 @@
       "Market": true
     },
     "boar3star": {
-      "Index": "box3star",
+      "Index": "boar3star",
       "Name": "Javali",
       "Type": "Comum",
       "Weight": 2.25,
@@ -3462,7 +3462,7 @@
       "Market": true
     },
     "deer1star": {
-      "Index": "box1star",
+      "Index": "deer1star",
       "Name": "Cervo",
       "Type": "Comum",
       "Weight": 2.25,
@@ -3470,7 +3470,7 @@
       "Market": true
     },
     "deer2star": {
-      "Index": "box2star",
+      "Index": "deer2star",
       "Name": "Cervo",
       "Type": "Comum",
       "Weight": 2.25,
@@ -3478,7 +3478,7 @@
       "Market": true
     },
     "deer3star": {
-      "Index": "box3star",
+      "Index": "deer3star",
       "Name": "Cervo",
       "Type": "Comum",
       "Weight": 2.25,
@@ -3592,7 +3592,7 @@
       "Name": "Cartão Ilegível",
       "Type": "Consumível",
       "Arrest": true,
-      "Weight": 0.0,
+      "Weight": 0,
       "Economy": 1225,
       "Market": true
     },
@@ -3600,7 +3600,7 @@
       "Index": "platinum",
       "Name": "Platina",
       "Type": "Comum",
-      "Weight": 0.0,
+      "Weight": 0,
       "Economy": 20
     },
     "binoculars": {
@@ -3608,7 +3608,7 @@
       "Name": "Binóculos",
       "Type": "Consumível",
       "Durability": 240,
-      "Weight": 1.0,
+      "Weight": 1,
       "Economy": 425,
       "Recycle": {
         "glass": 10,
@@ -3620,7 +3620,7 @@
       "Name": "Câmera",
       "Type": "Consumível",
       "Durability": 240,
-      "Weight": 1.0,
+      "Weight": 1,
       "LostWater": true,
       "Economy": 425,
       "Recycle": {
@@ -3945,7 +3945,7 @@
       "Index": "dollar",
       "Name": "Dólar",
       "Type": "Comum",
-      "Weight": 0.0,
+      "Weight": 0,
       "Market": true,
       "Economy": 1,
       "Arrest": true
@@ -3955,7 +3955,7 @@
       "Name": "Dólar Sujo",
       "Type": "Comum",
       "Arrest": true,
-      "Weight": 0.0,
+      "Weight": 0,
       "Market": true,
       "LostWater": "wetdollar",
       "Economy": 1
@@ -3965,52 +3965,52 @@
       "Name": "Dólar Molhado",
       "Type": "Comum",
       "Arrest": true,
-      "Weight": 0.0,
+      "Weight": 0,
       "Market": true,
       "Economy": 1
     },
     "promissory1000": {
-      "Index": "promissory",
+      "Index": "promissory1000",
       "Name": "Nota Promissória",
       "Type": "Comum",
       "Arrest": true,
-      "Weight": 0.0,
+      "Weight": 0,
       "Market": true,
       "Economy": 1000
     },
     "promissory2000": {
-      "Index": "promissory",
+      "Index": "promissory2000",
       "Name": "Nota Promissória",
       "Type": "Comum",
       "Arrest": true,
-      "Weight": 0.0,
+      "Weight": 0,
       "Market": true,
       "Economy": 2000
     },
     "promissory3000": {
-      "Index": "promissory",
+      "Index": "promissory3000",
       "Name": "Nota Promissória",
       "Type": "Comum",
       "Arrest": true,
-      "Weight": 0.0,
+      "Weight": 0,
       "Market": true,
       "Economy": 3000
     },
     "promissory4000": {
-      "Index": "promissory",
+      "Index": "promissory4000",
       "Name": "Nota Promissória",
       "Type": "Comum",
       "Arrest": true,
-      "Weight": 0.0,
+      "Weight": 0,
       "Market": true,
       "Economy": 4000
     },
     "promissory5000": {
-      "Index": "promissory",
+      "Index": "promissory5000",
       "Name": "Nota Promissória",
       "Type": "Comum",
       "Arrest": true,
-      "Weight": 0.0,
+      "Weight": 0,
       "Market": true,
       "Economy": 5000
     },
@@ -4048,70 +4048,70 @@
     },
     "blueprint_lightgunparts": {
       "Name": "Peças de Arma Leve",
-      "Index": "blueprint",
+      "Index": "blueprint_lightgunparts",
       "Description": "Ao consumir você aprende a receita necessária para produzi-lo sempre que desejar.",
       "Type": "Consumível",
-      "Weight": 0.0,
+      "Weight": 0,
       "Recycle": {
         "blueprint_fragment": 65
       }
     },
     "blueprint_mediumgunparts": {
       "Name": "Peças de Arma Média",
-      "Index": "blueprint",
+      "Index": "blueprint_mediumgunparts",
       "Description": "Ao consumir você aprende a receita necessária para produzi-lo sempre que desejar.",
       "Type": "Consumível",
-      "Weight": 0.0,
+      "Weight": 0,
       "Recycle": {
         "blueprint_fragment": 125
       }
     },
     "blueprint_heavygunparts": {
       "Name": "Peças de Arma Pesada",
-      "Index": "blueprint",
+      "Index": "blueprint_heavygunparts",
       "Description": "Ao consumir você aprende a receita necessária para produzi-lo sempre que desejar.",
       "Type": "Consumível",
-      "Weight": 0.0,
+      "Weight": 0,
       "Recycle": {
         "blueprint_fragment": 215
       }
     },
     "blueprint_analgesic": {
       "Name": "Analgésicos",
-      "Index": "blueprint",
+      "Index": "blueprint_analgesic",
       "Description": "Ao consumir você aprende a receita necessária para produzi-lo sempre que desejar.",
       "Type": "Consumível",
-      "Weight": 0.0,
+      "Weight": 0,
       "Recycle": {
         "blueprint_fragment": 17
       }
     },
     "blueprint_gauze": {
       "Name": "Ataduras",
-      "Index": "blueprint",
+      "Index": "blueprint_gauze",
       "Description": "Ao consumir você aprende a receita necessária para produzi-lo sempre que desejar.",
       "Type": "Consumível",
-      "Weight": 0.0,
+      "Weight": 0,
       "Recycle": {
         "blueprint_fragment": 12
       }
     },
     "blueprint_medkit": {
       "Name": "Kit de Primeiros Socorros",
-      "Index": "blueprint",
+      "Index": "blueprint_medkit",
       "Description": "Ao consumir você aprende a receita necessária para produzi-lo sempre que desejar.",
       "Type": "Consumível",
-      "Weight": 0.0,
+      "Weight": 0,
       "Recycle": {
         "blueprint_fragment": 57
       }
     },
     "blueprint_bandage": {
       "Name": "Bandagem",
-      "Index": "blueprint",
+      "Index": "blueprint_bandage",
       "Description": "Ao consumir você aprende a receita necessária para produzi-lo sempre que desejar.",
       "Type": "Consumível",
-      "Weight": 0.0,
+      "Weight": 0,
       "Recycle": {
         "blueprint_fragment": 25
       }
@@ -4126,7 +4126,7 @@
       "Economy": 15
     },
     "tomatoclone_0": {
-      "Index": "clone",
+      "Index": "tomatoclone_0",
       "Name": "Clonagem de Tomate",
       "Description": "Pureza dos frutos: <common>0%</common>",
       "Type": "Consumível",
@@ -4136,7 +4136,7 @@
       "Market": true
     },
     "tomatoclone_10": {
-      "Index": "clone",
+      "Index": "tomatoclone_10",
       "Name": "Clonagem de Tomate",
       "Description": "Pureza dos frutos: <common>10%</common>",
       "Type": "Consumível",
@@ -4146,7 +4146,7 @@
       "Market": true
     },
     "tomatoclone_20": {
-      "Index": "clone",
+      "Index": "tomatoclone_20",
       "Name": "Clonagem de Tomate",
       "Description": "Pureza dos frutos: <common>20%</common>",
       "Type": "Consumível",
@@ -4156,7 +4156,7 @@
       "Market": true
     },
     "tomatoclone_30": {
-      "Index": "clone",
+      "Index": "tomatoclone_30",
       "Name": "Clonagem de Tomate",
       "Description": "Pureza dos frutos: <common>30%</common>",
       "Type": "Consumível",
@@ -4166,7 +4166,7 @@
       "Market": true
     },
     "tomatoclone_40": {
-      "Index": "clone",
+      "Index": "tomatoclone_40",
       "Name": "Clonagem de Tomate",
       "Description": "Pureza dos frutos: <common>40%</common>",
       "Type": "Consumível",
@@ -4176,7 +4176,7 @@
       "Market": true
     },
     "tomatoclone_50": {
-      "Index": "clone",
+      "Index": "tomatoclone_50",
       "Name": "Clonagem de Tomate",
       "Description": "Pureza dos frutos: <common>50%</common>",
       "Type": "Consumível",
@@ -4186,7 +4186,7 @@
       "Market": true
     },
     "tomatoclone_60": {
-      "Index": "clone",
+      "Index": "tomatoclone_60",
       "Name": "Clonagem de Tomate",
       "Description": "Pureza dos frutos: <common>60%</common>",
       "Type": "Consumível",
@@ -4196,7 +4196,7 @@
       "Market": true
     },
     "tomatoclone_70": {
-      "Index": "clone",
+      "Index": "tomatoclone_70",
       "Name": "Clonagem de Tomate",
       "Description": "Pureza dos frutos: <common>70%</common>",
       "Type": "Consumível",
@@ -4206,7 +4206,7 @@
       "Market": true
     },
     "tomatoclone_80": {
-      "Index": "clone",
+      "Index": "tomatoclone_80",
       "Name": "Clonagem de Tomate",
       "Description": "Pureza dos frutos: <common>80%</common>",
       "Type": "Consumível",
@@ -4216,7 +4216,7 @@
       "Market": true
     },
     "tomatoclone_90": {
-      "Index": "clone",
+      "Index": "tomatoclone_90",
       "Name": "Clonagem de Tomate",
       "Description": "Pureza dos frutos: <common>90%</common>",
       "Type": "Consumível",
@@ -4226,7 +4226,7 @@
       "Market": true
     },
     "tomatoclone_100": {
-      "Index": "clone",
+      "Index": "tomatoclone_100",
       "Name": "Clonagem de Tomate",
       "Description": "Pureza dos frutos: <common>100%</common>",
       "Type": "Consumível",
@@ -4245,7 +4245,7 @@
       "Economy": 15
     },
     "passionclone_0": {
-      "Index": "clone",
+      "Index": "passionclone_0",
       "Name": "Clonagem de Maracujá",
       "Description": "Pureza dos frutos: <common>0%</common>",
       "Type": "Consumível",
@@ -4255,7 +4255,7 @@
       "Market": true
     },
     "passionclone_10": {
-      "Index": "clone",
+      "Index": "passionclone_10",
       "Name": "Clonagem de Maracujá",
       "Description": "Pureza dos frutos: <common>10%</common>",
       "Type": "Consumível",
@@ -4265,7 +4265,7 @@
       "Market": true
     },
     "passionclone_20": {
-      "Index": "clone",
+      "Index": "passionclone_20",
       "Name": "Clonagem de Maracujá",
       "Description": "Pureza dos frutos: <common>20%</common>",
       "Type": "Consumível",
@@ -4275,7 +4275,7 @@
       "Market": true
     },
     "passionclone_30": {
-      "Index": "clone",
+      "Index": "passionclone_30",
       "Name": "Clonagem de Maracujá",
       "Description": "Pureza dos frutos: <common>30%</common>",
       "Type": "Consumível",
@@ -4285,7 +4285,7 @@
       "Market": true
     },
     "passionclone_40": {
-      "Index": "clone",
+      "Index": "passionclone_40",
       "Name": "Clonagem de Maracujá",
       "Description": "Pureza dos frutos: <common>40%</common>",
       "Type": "Consumível",
@@ -4295,7 +4295,7 @@
       "Market": true
     },
     "passionclone_50": {
-      "Index": "clone",
+      "Index": "passionclone_50",
       "Name": "Clonagem de Maracujá",
       "Description": "Pureza dos frutos: <common>50%</common>",
       "Type": "Consumível",
@@ -4305,7 +4305,7 @@
       "Market": true
     },
     "passionclone_60": {
-      "Index": "clone",
+      "Index": "passionclone_60",
       "Name": "Clonagem de Maracujá",
       "Description": "Pureza dos frutos: <common>60%</common>",
       "Type": "Consumível",
@@ -4315,7 +4315,7 @@
       "Market": true
     },
     "passionclone_70": {
-      "Index": "clone",
+      "Index": "passionclone_70",
       "Name": "Clonagem de Maracujá",
       "Description": "Pureza dos frutos: <common>70%</common>",
       "Type": "Consumível",
@@ -4325,7 +4325,7 @@
       "Market": true
     },
     "passionclone_80": {
-      "Index": "clone",
+      "Index": "passionclone_80",
       "Name": "Clonagem de Maracujá",
       "Description": "Pureza dos frutos: <common>80%</common>",
       "Type": "Consumível",
@@ -4335,7 +4335,7 @@
       "Market": true
     },
     "passionclone_90": {
-      "Index": "clone",
+      "Index": "passionclone_90",
       "Name": "Clonagem de Maracujá",
       "Description": "Pureza dos frutos: <common>90%</common>",
       "Type": "Consumível",
@@ -4345,7 +4345,7 @@
       "Market": true
     },
     "passionclone_100": {
-      "Index": "clone",
+      "Index": "passionclone_100",
       "Name": "Clonagem de Maracujá",
       "Description": "Pureza dos frutos: <common>100%</common>",
       "Type": "Consumível",
@@ -4364,7 +4364,7 @@
       "Economy": 15
     },
     "tangeclone_0": {
-      "Index": "clone",
+      "Index": "tangeclone_0",
       "Name": "Clonagem de Tangerina",
       "Description": "Pureza dos frutos: <common>0%</common>",
       "Type": "Consumível",
@@ -4374,7 +4374,7 @@
       "Market": true
     },
     "tangeclone_10": {
-      "Index": "clone",
+      "Index": "tangeclone_10",
       "Name": "Clonagem de Tangerina",
       "Description": "Pureza dos frutos: <common>10%</common>",
       "Type": "Consumível",
@@ -4384,7 +4384,7 @@
       "Market": true
     },
     "tangeclone_20": {
-      "Index": "clone",
+      "Index": "tangeclone_20",
       "Name": "Clonagem de Tangerina",
       "Description": "Pureza dos frutos: <common>20%</common>",
       "Type": "Consumível",
@@ -4394,7 +4394,7 @@
       "Market": true
     },
     "tangeclone_30": {
-      "Index": "clone",
+      "Index": "tangeclone_30",
       "Name": "Clonagem de Tangerina",
       "Description": "Pureza dos frutos: <common>30%</common>",
       "Type": "Consumível",
@@ -4404,7 +4404,7 @@
       "Market": true
     },
     "tangeclone_40": {
-      "Index": "clone",
+      "Index": "tangeclone_40",
       "Name": "Clonagem de Tangerina",
       "Description": "Pureza dos frutos: <common>40%</common>",
       "Type": "Consumível",
@@ -4414,7 +4414,7 @@
       "Market": true
     },
     "tangeclone_50": {
-      "Index": "clone",
+      "Index": "tangeclone_50",
       "Name": "Clonagem de Tangerina",
       "Description": "Pureza dos frutos: <common>50%</common>",
       "Type": "Consumível",
@@ -4424,7 +4424,7 @@
       "Market": true
     },
     "tangeclone_60": {
-      "Index": "clone",
+      "Index": "tangeclone_60",
       "Name": "Clonagem de Tangerina",
       "Description": "Pureza dos frutos: <common>60%</common>",
       "Type": "Consumível",
@@ -4434,7 +4434,7 @@
       "Market": true
     },
     "tangeclone_70": {
-      "Index": "clone",
+      "Index": "tangeclone_70",
       "Name": "Clonagem de Tangerina",
       "Description": "Pureza dos frutos: <common>70%</common>",
       "Type": "Consumível",
@@ -4444,7 +4444,7 @@
       "Market": true
     },
     "tangeclone_80": {
-      "Index": "clone",
+      "Index": "tangeclone_80",
       "Name": "Clonagem de Tangerina",
       "Description": "Pureza dos frutos: <common>80%</common>",
       "Type": "Consumível",
@@ -4454,7 +4454,7 @@
       "Market": true
     },
     "tangeclone_90": {
-      "Index": "clone",
+      "Index": "tangeclone_90",
       "Name": "Clonagem de Tangerina",
       "Description": "Pureza dos frutos: <common>90%</common>",
       "Type": "Consumível",
@@ -4464,7 +4464,7 @@
       "Market": true
     },
     "tangeclone_100": {
-      "Index": "clone",
+      "Index": "tangeclone_100",
       "Name": "Clonagem de Tangerina",
       "Description": "Pureza dos frutos: <common>100%</common>",
       "Type": "Consumível",
@@ -4483,7 +4483,7 @@
       "Economy": 15
     },
     "orangeclone_0": {
-      "Index": "clone",
+      "Index": "orangeclone_0",
       "Name": "Clonagem de Laranja",
       "Description": "Pureza dos frutos: <common>0%</common>",
       "Type": "Consumível",
@@ -4493,7 +4493,7 @@
       "Market": true
     },
     "orangeclone_10": {
-      "Index": "clone",
+      "Index": "orangeclone_10",
       "Name": "Clonagem de Laranja",
       "Description": "Pureza dos frutos: <common>10%</common>",
       "Type": "Consumível",
@@ -4503,7 +4503,7 @@
       "Market": true
     },
     "orangeclone_20": {
-      "Index": "clone",
+      "Index": "orangeclone_20",
       "Name": "Clonagem de Laranja",
       "Description": "Pureza dos frutos: <common>20%</common>",
       "Type": "Consumível",
@@ -4513,7 +4513,7 @@
       "Market": true
     },
     "orangeclone_30": {
-      "Index": "clone",
+      "Index": "orangeclone_30",
       "Name": "Clonagem de Laranja",
       "Description": "Pureza dos frutos: <common>30%</common>",
       "Type": "Consumível",
@@ -4523,7 +4523,7 @@
       "Market": true
     },
     "orangeclone_40": {
-      "Index": "clone",
+      "Index": "orangeclone_40",
       "Name": "Clonagem de Laranja",
       "Description": "Pureza dos frutos: <common>40%</common>",
       "Type": "Consumível",
@@ -4533,7 +4533,7 @@
       "Market": true
     },
     "orangeclone_50": {
-      "Index": "clone",
+      "Index": "orangeclone_50",
       "Name": "Clonagem de Laranja",
       "Description": "Pureza dos frutos: <common>50%</common>",
       "Type": "Consumível",
@@ -4543,7 +4543,7 @@
       "Market": true
     },
     "orangeclone_60": {
-      "Index": "clone",
+      "Index": "orangeclone_60",
       "Name": "Clonagem de Laranja",
       "Description": "Pureza dos frutos: <common>60%</common>",
       "Type": "Consumível",
@@ -4553,7 +4553,7 @@
       "Market": true
     },
     "orangeclone_70": {
-      "Index": "clone",
+      "Index": "orangeclone_70",
       "Name": "Clonagem de Laranja",
       "Description": "Pureza dos frutos: <common>70%</common>",
       "Type": "Consumível",
@@ -4563,7 +4563,7 @@
       "Market": true
     },
     "orangeclone_80": {
-      "Index": "clone",
+      "Index": "orangeclone_80",
       "Name": "Clonagem de Laranja",
       "Description": "Pureza dos frutos: <common>80%</common>",
       "Type": "Consumível",
@@ -4573,7 +4573,7 @@
       "Market": true
     },
     "orangeclone_90": {
-      "Index": "clone",
+      "Index": "orangeclone_90",
       "Name": "Clonagem de Laranja",
       "Description": "Pureza dos frutos: <common>90%</common>",
       "Type": "Consumível",
@@ -4583,7 +4583,7 @@
       "Market": true
     },
     "orangeclone_100": {
-      "Index": "clone",
+      "Index": "orangeclone_100",
       "Name": "Clonagem de Laranja",
       "Description": "Pureza dos frutos: <common>100%</common>",
       "Type": "Consumível",
@@ -4602,7 +4602,7 @@
       "Economy": 15
     },
     "appleclone_0": {
-      "Index": "clone",
+      "Index": "appleclone_0",
       "Name": "Clonagem de Maça",
       "Description": "Pureza dos frutos: <common>0%</common>",
       "Type": "Consumível",
@@ -4612,7 +4612,7 @@
       "Market": true
     },
     "appleclone_10": {
-      "Index": "clone",
+      "Index": "appleclone_10",
       "Name": "Clonagem de Maça",
       "Description": "Pureza dos frutos: <common>10%</common>",
       "Type": "Consumível",
@@ -4622,7 +4622,7 @@
       "Market": true
     },
     "appleclone_20": {
-      "Index": "clone",
+      "Index": "appleclone_20",
       "Name": "Clonagem de Maça",
       "Description": "Pureza dos frutos: <common>20%</common>",
       "Type": "Consumível",
@@ -4632,7 +4632,7 @@
       "Market": true
     },
     "appleclone_30": {
-      "Index": "clone",
+      "Index": "appleclone_30",
       "Name": "Clonagem de Maça",
       "Description": "Pureza dos frutos: <common>30%</common>",
       "Type": "Consumível",
@@ -4642,7 +4642,7 @@
       "Market": true
     },
     "appleclone_40": {
-      "Index": "clone",
+      "Index": "appleclone_40",
       "Name": "Clonagem de Maça",
       "Description": "Pureza dos frutos: <common>40%</common>",
       "Type": "Consumível",
@@ -4652,7 +4652,7 @@
       "Market": true
     },
     "appleclone_50": {
-      "Index": "clone",
+      "Index": "appleclone_50",
       "Name": "Clonagem de Maça",
       "Description": "Pureza dos frutos: <common>50%</common>",
       "Type": "Consumível",
@@ -4662,7 +4662,7 @@
       "Market": true
     },
     "appleclone_60": {
-      "Index": "clone",
+      "Index": "appleclone_60",
       "Name": "Clonagem de Maça",
       "Description": "Pureza dos frutos: <common>60%</common>",
       "Type": "Consumível",
@@ -4672,7 +4672,7 @@
       "Market": true
     },
     "appleclone_70": {
-      "Index": "clone",
+      "Index": "appleclone_70",
       "Name": "Clonagem de Maça",
       "Description": "Pureza dos frutos: <common>70%</common>",
       "Type": "Consumível",
@@ -4682,7 +4682,7 @@
       "Market": true
     },
     "appleclone_80": {
-      "Index": "clone",
+      "Index": "appleclone_80",
       "Name": "Clonagem de Maça",
       "Description": "Pureza dos frutos: <common>80%</common>",
       "Type": "Consumível",
@@ -4692,7 +4692,7 @@
       "Market": true
     },
     "appleclone_90": {
-      "Index": "clone",
+      "Index": "appleclone_90",
       "Name": "Clonagem de Maça",
       "Description": "Pureza dos frutos: <common>90%</common>",
       "Type": "Consumível",
@@ -4702,7 +4702,7 @@
       "Market": true
     },
     "appleclone_100": {
-      "Index": "clone",
+      "Index": "appleclone_100",
       "Name": "Clonagem de Maça",
       "Description": "Pureza dos frutos: <common>100%</common>",
       "Type": "Consumível",
@@ -4721,7 +4721,7 @@
       "Economy": 15
     },
     "grapeclone_0": {
-      "Index": "clone",
+      "Index": "grapeclone_0",
       "Name": "Clonagem de Uva",
       "Description": "Pureza dos frutos: <common>0%</common>",
       "Type": "Consumível",
@@ -4731,7 +4731,7 @@
       "Market": true
     },
     "grapeclone_10": {
-      "Index": "clone",
+      "Index": "grapeclone_10",
       "Name": "Clonagem de Uva",
       "Description": "Pureza dos frutos: <common>10%</common>",
       "Type": "Consumível",
@@ -4741,7 +4741,7 @@
       "Market": true
     },
     "grapeclone_20": {
-      "Index": "clone",
+      "Index": "grapeclone_20",
       "Name": "Clonagem de Uva",
       "Description": "Pureza dos frutos: <common>20%</common>",
       "Type": "Consumível",
@@ -4751,7 +4751,7 @@
       "Market": true
     },
     "grapeclone_30": {
-      "Index": "clone",
+      "Index": "grapeclone_30",
       "Name": "Clonagem de Uva",
       "Description": "Pureza dos frutos: <common>30%</common>",
       "Type": "Consumível",
@@ -4761,7 +4761,7 @@
       "Market": true
     },
     "grapeclone_40": {
-      "Index": "clone",
+      "Index": "grapeclone_40",
       "Name": "Clonagem de Uva",
       "Description": "Pureza dos frutos: <common>40%</common>",
       "Type": "Consumível",
@@ -4771,7 +4771,7 @@
       "Market": true
     },
     "grapeclone_50": {
-      "Index": "clone",
+      "Index": "grapeclone_50",
       "Name": "Clonagem de Uva",
       "Description": "Pureza dos frutos: <common>50%</common>",
       "Type": "Consumível",
@@ -4781,7 +4781,7 @@
       "Market": true
     },
     "grapeclone_60": {
-      "Index": "clone",
+      "Index": "grapeclone_60",
       "Name": "Clonagem de Uva",
       "Description": "Pureza dos frutos: <common>60%</common>",
       "Type": "Consumível",
@@ -4791,7 +4791,7 @@
       "Market": true
     },
     "grapeclone_70": {
-      "Index": "clone",
+      "Index": "grapeclone_70",
       "Name": "Clonagem de Uva",
       "Description": "Pureza dos frutos: <common>70%</common>",
       "Type": "Consumível",
@@ -4801,7 +4801,7 @@
       "Market": true
     },
     "grapeclone_80": {
-      "Index": "clone",
+      "Index": "grapeclone_80",
       "Name": "Clonagem de Uva",
       "Description": "Pureza dos frutos: <common>80%</common>",
       "Type": "Consumível",
@@ -4811,7 +4811,7 @@
       "Market": true
     },
     "grapeclone_90": {
-      "Index": "clone",
+      "Index": "grapeclone_90",
       "Name": "Clonagem de Uva",
       "Description": "Pureza dos frutos: <common>90%</common>",
       "Type": "Consumível",
@@ -4821,7 +4821,7 @@
       "Market": true
     },
     "grapeclone_100": {
-      "Index": "clone",
+      "Index": "grapeclone_100",
       "Name": "Clonagem de Uva",
       "Description": "Pureza dos frutos: <common>100%</common>",
       "Type": "Consumível",
@@ -4840,7 +4840,7 @@
       "Economy": 15
     },
     "lemonclone_0": {
-      "Index": "clone",
+      "Index": "lemonclone_0",
       "Name": "Clonagem de Limão",
       "Description": "Pureza dos frutos: <common>0%</common>",
       "Type": "Consumível",
@@ -4850,7 +4850,7 @@
       "Market": true
     },
     "lemonclone_10": {
-      "Index": "clone",
+      "Index": "lemonclone_10",
       "Name": "Clonagem de Limão",
       "Description": "Pureza dos frutos: <common>10%</common>",
       "Type": "Consumível",
@@ -4860,7 +4860,7 @@
       "Market": true
     },
     "lemonclone_20": {
-      "Index": "clone",
+      "Index": "lemonclone_20",
       "Name": "Clonagem de Limão",
       "Description": "Pureza dos frutos: <common>20%</common>",
       "Type": "Consumível",
@@ -4870,7 +4870,7 @@
       "Market": true
     },
     "lemonclone_30": {
-      "Index": "clone",
+      "Index": "lemonclone_30",
       "Name": "Clonagem de Limão",
       "Description": "Pureza dos frutos: <common>30%</common>",
       "Type": "Consumível",
@@ -4880,7 +4880,7 @@
       "Market": true
     },
     "lemonclone_40": {
-      "Index": "clone",
+      "Index": "lemonclone_40",
       "Name": "Clonagem de Limão",
       "Description": "Pureza dos frutos: <common>40%</common>",
       "Type": "Consumível",
@@ -4890,7 +4890,7 @@
       "Market": true
     },
     "lemonclone_50": {
-      "Index": "clone",
+      "Index": "lemonclone_50",
       "Name": "Clonagem de Limão",
       "Description": "Pureza dos frutos: <common>50%</common>",
       "Type": "Consumível",
@@ -4900,7 +4900,7 @@
       "Market": true
     },
     "lemonclone_60": {
-      "Index": "clone",
+      "Index": "lemonclone_60",
       "Name": "Clonagem de Limão",
       "Description": "Pureza dos frutos: <common>60%</common>",
       "Type": "Consumível",
@@ -4910,7 +4910,7 @@
       "Market": true
     },
     "lemonclone_70": {
-      "Index": "clone",
+      "Index": "lemonclone_70",
       "Name": "Clonagem de Limão",
       "Description": "Pureza dos frutos: <common>70%</common>",
       "Type": "Consumível",
@@ -4920,7 +4920,7 @@
       "Market": true
     },
     "lemonclone_80": {
-      "Index": "clone",
+      "Index": "lemonclone_80",
       "Name": "Clonagem de Limão",
       "Description": "Pureza dos frutos: <common>80%</common>",
       "Type": "Consumível",
@@ -4930,7 +4930,7 @@
       "Market": true
     },
     "lemonclone_90": {
-      "Index": "clone",
+      "Index": "lemonclone_90",
       "Name": "Clonagem de Limão",
       "Description": "Pureza dos frutos: <common>90%</common>",
       "Type": "Consumível",
@@ -4940,7 +4940,7 @@
       "Market": true
     },
     "lemonclone_100": {
-      "Index": "clone",
+      "Index": "lemonclone_100",
       "Name": "Clonagem de Limão",
       "Description": "Pureza dos frutos: <common>100%</common>",
       "Type": "Consumível",
@@ -4959,7 +4959,7 @@
       "Economy": 15
     },
     "bananaclone_0": {
-      "Index": "clone",
+      "Index": "bananaclone_0",
       "Name": "Clonagem de Banana",
       "Description": "Pureza dos frutos: <common>0%</common>",
       "Type": "Consumível",
@@ -4969,7 +4969,7 @@
       "Market": true
     },
     "bananaclone_10": {
-      "Index": "clone",
+      "Index": "bananaclone_10",
       "Name": "Clonagem de Banana",
       "Description": "Pureza dos frutos: <common>10%</common>",
       "Type": "Consumível",
@@ -4979,7 +4979,7 @@
       "Market": true
     },
     "bananaclone_20": {
-      "Index": "clone",
+      "Index": "bananaclone_20",
       "Name": "Clonagem de Banana",
       "Description": "Pureza dos frutos: <common>20%</common>",
       "Type": "Consumível",
@@ -4989,7 +4989,7 @@
       "Market": true
     },
     "bananaclone_30": {
-      "Index": "clone",
+      "Index": "bananaclone_30",
       "Name": "Clonagem de Banana",
       "Description": "Pureza dos frutos: <common>30%</common>",
       "Type": "Consumível",
@@ -4999,7 +4999,7 @@
       "Market": true
     },
     "bananaclone_40": {
-      "Index": "clone",
+      "Index": "bananaclone_40",
       "Name": "Clonagem de Banana",
       "Description": "Pureza dos frutos: <common>40%</common>",
       "Type": "Consumível",
@@ -5009,7 +5009,7 @@
       "Market": true
     },
     "bananaclone_50": {
-      "Index": "clone",
+      "Index": "bananaclone_50",
       "Name": "Clonagem de Banana",
       "Description": "Pureza dos frutos: <common>50%</common>",
       "Type": "Consumível",
@@ -5019,7 +5019,7 @@
       "Market": true
     },
     "bananaclone_60": {
-      "Index": "clone",
+      "Index": "bananaclone_60",
       "Name": "Clonagem de Banana",
       "Description": "Pureza dos frutos: <common>60%</common>",
       "Type": "Consumível",
@@ -5029,7 +5029,7 @@
       "Market": true
     },
     "bananaclone_70": {
-      "Index": "clone",
+      "Index": "bananaclone_70",
       "Name": "Clonagem de Banana",
       "Description": "Pureza dos frutos: <common>70%</common>",
       "Type": "Consumível",
@@ -5039,7 +5039,7 @@
       "Market": true
     },
     "bananaclone_80": {
-      "Index": "clone",
+      "Index": "bananaclone_80",
       "Name": "Clonagem de Banana",
       "Description": "Pureza dos frutos: <common>80%</common>",
       "Type": "Consumível",
@@ -5049,7 +5049,7 @@
       "Market": true
     },
     "bananaclone_90": {
-      "Index": "clone",
+      "Index": "bananaclone_90",
       "Name": "Clonagem de Banana",
       "Description": "Pureza dos frutos: <common>90%</common>",
       "Type": "Consumível",
@@ -5059,7 +5059,7 @@
       "Market": true
     },
     "bananaclone_100": {
-      "Index": "clone",
+      "Index": "bananaclone_100",
       "Name": "Clonagem de Banana",
       "Description": "Pureza dos frutos: <common>100%</common>",
       "Type": "Consumível",
@@ -5078,7 +5078,7 @@
       "Economy": 15
     },
     "acerolaclone_0": {
-      "Index": "clone",
+      "Index": "acerolaclone_0",
       "Name": "Clonagem de Acerola",
       "Description": "Pureza dos frutos: <common>0%</common>",
       "Type": "Consumível",
@@ -5088,7 +5088,7 @@
       "Market": true
     },
     "acerolaclone_10": {
-      "Index": "clone",
+      "Index": "acerolaclone_10",
       "Name": "Clonagem de Acerola",
       "Description": "Pureza dos frutos: <common>10%</common>",
       "Type": "Consumível",
@@ -5098,7 +5098,7 @@
       "Market": true
     },
     "acerolaclone_20": {
-      "Index": "clone",
+      "Index": "acerolaclone_20",
       "Name": "Clonagem de Acerola",
       "Description": "Pureza dos frutos: <common>20%</common>",
       "Type": "Consumível",
@@ -5108,7 +5108,7 @@
       "Market": true
     },
     "acerolaclone_30": {
-      "Index": "clone",
+      "Index": "acerolaclone_30",
       "Name": "Clonagem de Acerola",
       "Description": "Pureza dos frutos: <common>30%</common>",
       "Type": "Consumível",
@@ -5118,7 +5118,7 @@
       "Market": true
     },
     "acerolaclone_40": {
-      "Index": "clone",
+      "Index": "acerolaclone_40",
       "Name": "Clonagem de Acerola",
       "Description": "Pureza dos frutos: <common>40%</common>",
       "Type": "Consumível",
@@ -5128,7 +5128,7 @@
       "Market": true
     },
     "acerolaclone_50": {
-      "Index": "clone",
+      "Index": "acerolaclone_50",
       "Name": "Clonagem de Acerola",
       "Description": "Pureza dos frutos: <common>50%</common>",
       "Type": "Consumível",
@@ -5138,7 +5138,7 @@
       "Market": true
     },
     "acerolaclone_60": {
-      "Index": "clone",
+      "Index": "acerolaclone_60",
       "Name": "Clonagem de Acerola",
       "Description": "Pureza dos frutos: <common>60%</common>",
       "Type": "Consumível",
@@ -5148,7 +5148,7 @@
       "Market": true
     },
     "acerolaclone_70": {
-      "Index": "clone",
+      "Index": "acerolaclone_70",
       "Name": "Clonagem de Acerola",
       "Description": "Pureza dos frutos: <common>70%</common>",
       "Type": "Consumível",
@@ -5158,7 +5158,7 @@
       "Market": true
     },
     "acerolaclone_80": {
-      "Index": "clone",
+      "Index": "acerolaclone_80",
       "Name": "Clonagem de Acerola",
       "Description": "Pureza dos frutos: <common>80%</common>",
       "Type": "Consumível",
@@ -5168,7 +5168,7 @@
       "Market": true
     },
     "acerolaclone_90": {
-      "Index": "clone",
+      "Index": "acerolaclone_90",
       "Name": "Clonagem de Acerola",
       "Description": "Pureza dos frutos: <common>90%</common>",
       "Type": "Consumível",
@@ -5178,7 +5178,7 @@
       "Market": true
     },
     "acerolaclone_100": {
-      "Index": "clone",
+      "Index": "acerolaclone_100",
       "Name": "Clonagem de Acerola",
       "Description": "Pureza dos frutos: <common>100%</common>",
       "Type": "Consumível",
@@ -5197,7 +5197,7 @@
       "Economy": 15
     },
     "strawberryclone_0": {
-      "Index": "clone",
+      "Index": "strawberryclone_0",
       "Name": "Clonagem de Morango",
       "Description": "Pureza dos frutos: <common>0%</common>",
       "Type": "Consumível",
@@ -5207,7 +5207,7 @@
       "Market": true
     },
     "strawberryclone_10": {
-      "Index": "clone",
+      "Index": "strawberryclone_10",
       "Name": "Clonagem de Morango",
       "Description": "Pureza dos frutos: <common>10%</common>",
       "Type": "Consumível",
@@ -5217,7 +5217,7 @@
       "Market": true
     },
     "strawberryclone_20": {
-      "Index": "clone",
+      "Index": "strawberryclone_20",
       "Name": "Clonagem de Morango",
       "Description": "Pureza dos frutos: <common>20%</common>",
       "Type": "Consumível",
@@ -5227,7 +5227,7 @@
       "Market": true
     },
     "strawberryclone_30": {
-      "Index": "clone",
+      "Index": "strawberryclone_30",
       "Name": "Clonagem de Morango",
       "Description": "Pureza dos frutos: <common>30%</common>",
       "Type": "Consumível",
@@ -5237,7 +5237,7 @@
       "Market": true
     },
     "strawberryclone_40": {
-      "Index": "clone",
+      "Index": "strawberryclone_40",
       "Name": "Clonagem de Morango",
       "Description": "Pureza dos frutos: <common>40%</common>",
       "Type": "Consumível",
@@ -5247,7 +5247,7 @@
       "Market": true
     },
     "strawberryclone_50": {
-      "Index": "clone",
+      "Index": "strawberryclone_50",
       "Name": "Clonagem de Morango",
       "Description": "Pureza dos frutos: <common>50%</common>",
       "Type": "Consumível",
@@ -5257,7 +5257,7 @@
       "Market": true
     },
     "strawberryclone_60": {
-      "Index": "clone",
+      "Index": "strawberryclone_60",
       "Name": "Clonagem de Morango",
       "Description": "Pureza dos frutos: <common>60%</common>",
       "Type": "Consumível",
@@ -5267,7 +5267,7 @@
       "Market": true
     },
     "strawberryclone_70": {
-      "Index": "clone",
+      "Index": "strawberryclone_70",
       "Name": "Clonagem de Morango",
       "Description": "Pureza dos frutos: <common>70%</common>",
       "Type": "Consumível",
@@ -5277,7 +5277,7 @@
       "Market": true
     },
     "strawberryclone_80": {
-      "Index": "clone",
+      "Index": "strawberryclone_80",
       "Name": "Clonagem de Morango",
       "Description": "Pureza dos frutos: <common>80%</common>",
       "Type": "Consumível",
@@ -5287,7 +5287,7 @@
       "Market": true
     },
     "strawberryclone_90": {
-      "Index": "clone",
+      "Index": "strawberryclone_90",
       "Name": "Clonagem de Morango",
       "Description": "Pureza dos frutos: <common>90%</common>",
       "Type": "Consumível",
@@ -5297,7 +5297,7 @@
       "Market": true
     },
     "strawberryclone_100": {
-      "Index": "clone",
+      "Index": "strawberryclone_100",
       "Name": "Clonagem de Morango",
       "Description": "Pureza dos frutos: <common>100%</common>",
       "Type": "Consumível",
@@ -5316,7 +5316,7 @@
       "Economy": 15
     },
     "blueberryclone_0": {
-      "Index": "clone",
+      "Index": "blueberryclone_0",
       "Name": "Clonagem de Blueberry",
       "Description": "Pureza dos frutos: <common>0%</common>",
       "Type": "Consumível",
@@ -5326,7 +5326,7 @@
       "Market": true
     },
     "blueberryclone_10": {
-      "Index": "clone",
+      "Index": "blueberryclone_10",
       "Name": "Clonagem de Blueberry",
       "Description": "Pureza dos frutos: <common>10%</common>",
       "Type": "Consumível",
@@ -5336,7 +5336,7 @@
       "Market": true
     },
     "blueberryclone_20": {
-      "Index": "clone",
+      "Index": "blueberryclone_20",
       "Name": "Clonagem de Blueberry",
       "Description": "Pureza dos frutos: <common>20%</common>",
       "Type": "Consumível",
@@ -5346,7 +5346,7 @@
       "Market": true
     },
     "blueberryclone_30": {
-      "Index": "clone",
+      "Index": "blueberryclone_30",
       "Name": "Clonagem de Blueberry",
       "Description": "Pureza dos frutos: <common>30%</common>",
       "Type": "Consumível",
@@ -5356,7 +5356,7 @@
       "Market": true
     },
     "blueberryclone_40": {
-      "Index": "clone",
+      "Index": "blueberryclone_40",
       "Name": "Clonagem de Blueberry",
       "Description": "Pureza dos frutos: <common>40%</common>",
       "Type": "Consumível",
@@ -5366,7 +5366,7 @@
       "Market": true
     },
     "blueberryclone_50": {
-      "Index": "clone",
+      "Index": "blueberryclone_50",
       "Name": "Clonagem de Blueberry",
       "Description": "Pureza dos frutos: <common>50%</common>",
       "Type": "Consumível",
@@ -5376,7 +5376,7 @@
       "Market": true
     },
     "blueberryclone_60": {
-      "Index": "clone",
+      "Index": "blueberryclone_60",
       "Name": "Clonagem de Blueberry",
       "Description": "Pureza dos frutos: <common>60%</common>",
       "Type": "Consumível",
@@ -5386,7 +5386,7 @@
       "Market": true
     },
     "blueberryclone_70": {
-      "Index": "clone",
+      "Index": "blueberryclone_70",
       "Name": "Clonagem de Blueberry",
       "Description": "Pureza dos frutos: <common>70%</common>",
       "Type": "Consumível",
@@ -5396,7 +5396,7 @@
       "Market": true
     },
     "blueberryclone_80": {
-      "Index": "clone",
+      "Index": "blueberryclone_80",
       "Name": "Clonagem de Blueberry",
       "Description": "Pureza dos frutos: <common>80%</common>",
       "Type": "Consumível",
@@ -5406,7 +5406,7 @@
       "Market": true
     },
     "blueberryclone_90": {
-      "Index": "clone",
+      "Index": "blueberryclone_90",
       "Name": "Clonagem de Blueberry",
       "Description": "Pureza dos frutos: <common>90%</common>",
       "Type": "Consumível",
@@ -5416,7 +5416,7 @@
       "Market": true
     },
     "blueberryclone_100": {
-      "Index": "clone",
+      "Index": "blueberryclone_100",
       "Name": "Clonagem de Blueberry",
       "Description": "Pureza dos frutos: <common>100%</common>",
       "Type": "Consumível",
@@ -5435,7 +5435,7 @@
       "Economy": 15
     },
     "coffeeclone_0": {
-      "Index": "clone",
+      "Index": "coffeeclone_0",
       "Name": "Clonagem de Café",
       "Description": "Pureza dos frutos: <common>0%</common>",
       "Type": "Consumível",
@@ -5445,7 +5445,7 @@
       "Market": true
     },
     "coffeeclone_10": {
-      "Index": "clone",
+      "Index": "coffeeclone_10",
       "Name": "Clonagem de Café",
       "Description": "Pureza dos frutos: <common>10%</common>",
       "Type": "Consumível",
@@ -5455,7 +5455,7 @@
       "Market": true
     },
     "coffeeclone_20": {
-      "Index": "clone",
+      "Index": "coffeeclone_20",
       "Name": "Clonagem de Café",
       "Description": "Pureza dos frutos: <common>20%</common>",
       "Type": "Consumível",
@@ -5465,7 +5465,7 @@
       "Market": true
     },
     "coffeeclone_30": {
-      "Index": "clone",
+      "Index": "coffeeclone_30",
       "Name": "Clonagem de Café",
       "Description": "Pureza dos frutos: <common>30%</common>",
       "Type": "Consumível",
@@ -5475,7 +5475,7 @@
       "Market": true
     },
     "coffeeclone_40": {
-      "Index": "clone",
+      "Index": "coffeeclone_40",
       "Name": "Clonagem de Café",
       "Description": "Pureza dos frutos: <common>40%</common>",
       "Type": "Consumível",
@@ -5485,7 +5485,7 @@
       "Market": true
     },
     "coffeeclone_50": {
-      "Index": "clone",
+      "Index": "coffeeclone_50",
       "Name": "Clonagem de Café",
       "Description": "Pureza dos frutos: <common>50%</common>",
       "Type": "Consumível",
@@ -5495,7 +5495,7 @@
       "Market": true
     },
     "coffeeclone_60": {
-      "Index": "clone",
+      "Index": "coffeeclone_60",
       "Name": "Clonagem de Café",
       "Description": "Pureza dos frutos: <common>60%</common>",
       "Type": "Consumível",
@@ -5505,7 +5505,7 @@
       "Market": true
     },
     "coffeeclone_70": {
-      "Index": "clone",
+      "Index": "coffeeclone_70",
       "Name": "Clonagem de Café",
       "Description": "Pureza dos frutos: <common>70%</common>",
       "Type": "Consumível",
@@ -5515,7 +5515,7 @@
       "Market": true
     },
     "coffeeclone_80": {
-      "Index": "clone",
+      "Index": "coffeeclone_80",
       "Name": "Clonagem de Café",
       "Description": "Pureza dos frutos: <common>80%</common>",
       "Type": "Consumível",
@@ -5525,7 +5525,7 @@
       "Market": true
     },
     "coffeeclone_90": {
-      "Index": "clone",
+      "Index": "coffeeclone_90",
       "Name": "Clonagem de Café",
       "Description": "Pureza dos frutos: <common>90%</common>",
       "Type": "Consumível",
@@ -5535,7 +5535,7 @@
       "Market": true
     },
     "coffeeclone_100": {
-      "Index": "clone",
+      "Index": "coffeeclone_100",
       "Name": "Clonagem de Café",
       "Description": "Pureza dos frutos: <common>100%</common>",
       "Type": "Consumível",
@@ -5554,7 +5554,7 @@
       "Economy": 15
     },
     "weedclone_0": {
-      "Index": "clone",
+      "Index": "weedclone_0",
       "Name": "Clonagem de Cannabis",
       "Description": "Pureza dos frutos: <common>0%</common>",
       "Type": "Consumível",
@@ -5564,7 +5564,7 @@
       "Market": true
     },
     "weedclone_10": {
-      "Index": "clone",
+      "Index": "weedclone_10",
       "Name": "Clonagem de Cannabis",
       "Description": "Pureza dos frutos: <common>10%</common>",
       "Type": "Consumível",
@@ -5574,7 +5574,7 @@
       "Market": true
     },
     "weedclone_20": {
-      "Index": "clone",
+      "Index": "weedclone_20",
       "Name": "Clonagem de Cannabis",
       "Description": "Pureza dos frutos: <common>20%</common>",
       "Type": "Consumível",
@@ -5584,7 +5584,7 @@
       "Market": true
     },
     "weedclone_30": {
-      "Index": "clone",
+      "Index": "weedclone_30",
       "Name": "Clonagem de Cannabis",
       "Description": "Pureza dos frutos: <common>30%</common>",
       "Type": "Consumível",
@@ -5594,7 +5594,7 @@
       "Market": true
     },
     "weedclone_40": {
-      "Index": "clone",
+      "Index": "weedclone_40",
       "Name": "Clonagem de Cannabis",
       "Description": "Pureza dos frutos: <common>40%</common>",
       "Type": "Consumível",
@@ -5604,7 +5604,7 @@
       "Market": true
     },
     "weedclone_50": {
-      "Index": "clone",
+      "Index": "weedclone_50",
       "Name": "Clonagem de Cannabis",
       "Description": "Pureza dos frutos: <common>50%</common>",
       "Type": "Consumível",
@@ -5614,7 +5614,7 @@
       "Market": true
     },
     "weedclone_60": {
-      "Index": "clone",
+      "Index": "weedclone_60",
       "Name": "Clonagem de Cannabis",
       "Description": "Pureza dos frutos: <common>60%</common>",
       "Type": "Consumível",
@@ -5624,7 +5624,7 @@
       "Market": true
     },
     "weedclone_70": {
-      "Index": "clone",
+      "Index": "weedclone_70",
       "Name": "Clonagem de Cannabis",
       "Description": "Pureza dos frutos: <common>70%</common>",
       "Type": "Consumível",
@@ -5634,7 +5634,7 @@
       "Market": true
     },
     "weedclone_80": {
-      "Index": "clone",
+      "Index": "weedclone_80",
       "Name": "Clonagem de Cannabis",
       "Description": "Pureza dos frutos: <common>80%</common>",
       "Type": "Consumível",
@@ -5644,7 +5644,7 @@
       "Market": true
     },
     "weedclone_90": {
-      "Index": "clone",
+      "Index": "weedclone_90",
       "Name": "Clonagem de Cannabis",
       "Description": "Pureza dos frutos: <common>90%</common>",
       "Type": "Consumível",
@@ -5654,7 +5654,7 @@
       "Market": true
     },
     "weedclone_100": {
-      "Index": "clone",
+      "Index": "weedclone_100",
       "Name": "Clonagem de Cannabis",
       "Description": "Pureza dos frutos: <common>100%</common>",
       "Type": "Consumível",
@@ -5673,7 +5673,7 @@
       "Economy": 15
     },
     "cokeclone_0": {
-      "Index": "clone",
+      "Index": "cokeclone_0",
       "Name": "Clonagem de Cocaína",
       "Description": "Pureza dos frutos: <common>0%</common>",
       "Type": "Consumível",
@@ -5683,7 +5683,7 @@
       "Market": true
     },
     "cokeclone_10": {
-      "Index": "clone",
+      "Index": "cokeclone_10",
       "Name": "Clonagem de Cocaína",
       "Description": "Pureza dos frutos: <common>10%</common>",
       "Type": "Consumível",
@@ -5693,7 +5693,7 @@
       "Market": true
     },
     "cokeclone_20": {
-      "Index": "clone",
+      "Index": "cokeclone_20",
       "Name": "Clonagem de Cocaína",
       "Description": "Pureza dos frutos: <common>20%</common>",
       "Type": "Consumível",
@@ -5703,7 +5703,7 @@
       "Market": true
     },
     "cokeclone_30": {
-      "Index": "clone",
+      "Index": "cokeclone_30",
       "Name": "Clonagem de Cocaína",
       "Description": "Pureza dos frutos: <common>30%</common>",
       "Type": "Consumível",
@@ -5713,7 +5713,7 @@
       "Market": true
     },
     "cokeclone_40": {
-      "Index": "clone",
+      "Index": "cokeclone_40",
       "Name": "Clonagem de Cocaína",
       "Description": "Pureza dos frutos: <common>40%</common>",
       "Type": "Consumível",
@@ -5723,7 +5723,7 @@
       "Market": true
     },
     "cokeclone_50": {
-      "Index": "clone",
+      "Index": "cokeclone_50",
       "Name": "Clonagem de Cocaína",
       "Description": "Pureza dos frutos: <common>50%</common>",
       "Type": "Consumível",
@@ -5733,7 +5733,7 @@
       "Market": true
     },
     "cokeclone_60": {
-      "Index": "clone",
+      "Index": "cokeclone_60",
       "Name": "Clonagem de Cocaína",
       "Description": "Pureza dos frutos: <common>60%</common>",
       "Type": "Consumível",
@@ -5743,7 +5743,7 @@
       "Market": true
     },
     "cokeclone_70": {
-      "Index": "clone",
+      "Index": "cokeclone_70",
       "Name": "Clonagem de Cocaína",
       "Description": "Pureza dos frutos: <common>70%</common>",
       "Type": "Consumível",
@@ -5753,7 +5753,7 @@
       "Market": true
     },
     "cokeclone_80": {
-      "Index": "clone",
+      "Index": "cokeclone_80",
       "Name": "Clonagem de Cocaína",
       "Description": "Pureza dos frutos: <common>80%</common>",
       "Type": "Consumível",
@@ -5763,7 +5763,7 @@
       "Market": true
     },
     "cokeclone_90": {
-      "Index": "clone",
+      "Index": "cokeclone_90",
       "Name": "Clonagem de Cocaína",
       "Description": "Pureza dos frutos: <common>90%</common>",
       "Type": "Consumível",
@@ -5773,7 +5773,7 @@
       "Market": true
     },
     "cokeclone_100": {
-      "Index": "clone",
+      "Index": "cokeclone_100",
       "Name": "Clonagem de Cocaína",
       "Description": "Pureza dos frutos: <common>100%</common>",
       "Type": "Consumível",
@@ -5785,7 +5785,7 @@
     "furniture_halloween_pumpkin": {
       "Name": "Abóbora de Halloween",
       "Type": "Consumível",
-      "Weight": 2.0,
+      "Weight": 2,
       "Index": "furniture_halloween_pumpkin",
       "Rarity": "legendary",
       "Description": "Este objeto pode ser posicionado dentro de propriedades, permitindo personalizar e organizar o ambiente."
@@ -5793,7 +5793,7 @@
     "furniture_halloween_ghost": {
       "Name": "Fantasma de Halloween",
       "Type": "Consumível",
-      "Weight": 2.0,
+      "Weight": 2,
       "Index": "furniture_halloween_ghost",
       "Rarity": "legendary",
       "Description": "Este objeto pode ser posicionado dentro de propriedades, permitindo personalizar e organizar o ambiente."
@@ -5801,7 +5801,7 @@
     "furniture_largebed": {
       "Name": "Cama",
       "Type": "Consumível",
-      "Weight": 2.0,
+      "Weight": 2,
       "Index": "furniture_largebed",
       "Rarity": "legendary",
       "Description": "Este objeto pode ser posicionado dentro de propriedades, permitindo personalizar e organizar o ambiente."
@@ -5809,7 +5809,7 @@
     "furniture_browncloset": {
       "Name": "Guarda-Roupas",
       "Type": "Consumível",
-      "Weight": 2.0,
+      "Weight": 2,
       "Index": "furniture_browncloset",
       "Rarity": "epic",
       "Description": "Este objeto pode ser posicionado dentro de propriedades, permitindo personalizar e organizar o ambiente."
@@ -5817,7 +5817,7 @@
     "furniture_simplebox": {
       "Name": "Cofre Básico",
       "Type": "Consumível",
-      "Weight": 2.0,
+      "Weight": 2,
       "Index": "furniture_simplebox",
       "Rarity": "common",
       "Description": "Este objeto pode ser posicionado dentro de propriedades, permitindo guardar <legendary>100KG</legendary> dentro de seu compartimento.",
@@ -5826,7 +5826,7 @@
     "furniture_safebox": {
       "Name": "Cofre Reforçado",
       "Type": "Consumível",
-      "Weight": 2.0,
+      "Weight": 2,
       "Index": "furniture_safebox",
       "Rarity": "rare",
       "Description": "Este objeto pode ser posicionado dentro de propriedades, permitindo guardar <legendary>200KG</legendary> dentro de seu compartimento.",
@@ -5835,7 +5835,7 @@
     "furniture_officebox": {
       "Name": "Cofre Blindado",
       "Type": "Consumível",
-      "Weight": 2.0,
+      "Weight": 2,
       "Index": "furniture_officebox",
       "Rarity": "epic",
       "Description": "Este objeto pode ser posicionado dentro de propriedades, permitindo guardar <legendary>500KG</legendary> dentro de seu compartimento.",
@@ -5844,7 +5844,7 @@
     "furniture_industrialbox": {
       "Name": "Cofre Industrial",
       "Type": "Consumível",
-      "Weight": 2.0,
+      "Weight": 2,
       "Index": "furniture_industrialbox",
       "Rarity": "epic",
       "Description": "Este objeto pode ser posicionado dentro de propriedades, permitindo guardar <legendary>1000KG</legendary> dentro de seu compartimento.",
@@ -5853,7 +5853,7 @@
     "furniture_ornamentbox": {
       "Name": "Cofre Corporativo",
       "Type": "Consumível",
-      "Weight": 2.0,
+      "Weight": 2,
       "Index": "furniture_ornamentbox",
       "Rarity": "legendary",
       "Description": "Este objeto pode ser posicionado dentro de propriedades, permitindo guardar <legendary>1500KG</legendary> dentro de seu compartimento.",
@@ -5862,7 +5862,7 @@
     "furniture_goldenbox": {
       "Name": "Cofre Executivo",
       "Type": "Consumível",
-      "Weight": 2.0,
+      "Weight": 2,
       "Index": "furniture_goldenbox",
       "Rarity": "legendary",
       "Description": "Este objeto pode ser posicionado dentro de propriedades, permitindo guardar <legendary>2500KG</legendary> dentro de seu compartimento.",
