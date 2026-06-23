@@ -5890,15 +5890,9 @@
       "Permission": {
         "Ouro": true
       },
-      "Hierarchy": [
-        "Membro"
-      ],
-      "Salary": [
-        3750
-      ],
-      "Backpack": [
-        25
-      ],
+      "Hierarchy": ["Membro"],
+      "Salary": [3750],
+      "Backpack": [25],
       "Service": true,
       "Block": true
     },
@@ -5906,15 +5900,9 @@
       "Permission": {
         "Prata": true
       },
-      "Hierarchy": [
-        "Membro"
-      ],
-      "Salary": [
-        2500
-      ],
-      "Backpack": [
-        15
-      ],
+      "Hierarchy": ["Membro"],
+      "Salary": [2500],
+      "Backpack": [15],
       "Service": true,
       "Block": true
     },
@@ -5922,15 +5910,9 @@
       "Permission": {
         "Bronze": true
       },
-      "Hierarchy": [
-        "Membro"
-      ],
-      "Salary": [
-        1250
-      ],
-      "Backpack": [
-        5
-      ],
+      "Hierarchy": ["Membro"],
+      "Salary": [1250],
+      "Backpack": [5],
       "Service": true,
       "Block": true
     },
@@ -5956,21 +5938,8 @@
         "Delegada"
       ],
       "Salary": [
-        10000,
-        9750,
-        9500,
-        9250,
-        9000,
-        8750,
-        8500,
-        8250,
-        8000,
-        7750,
-        7500,
-        7250,
-        7000,
-        6750,
-        6500
+        10000, 9750, 9500, 9250, 9000, 8750, 8500, 8250, 8000, 7750, 7500, 7250,
+        7000, 6750, 6500
       ],
       "Name": "Los Santos Police Department",
       "SecurityCam": true,
@@ -6002,21 +5971,8 @@
         "Delegada"
       ],
       "Salary": [
-        10000,
-        9750,
-        9500,
-        9250,
-        9000,
-        8750,
-        8500,
-        8250,
-        8000,
-        7750,
-        7500,
-        7250,
-        7000,
-        6750,
-        6500
+        10000, 9750, 9500, 9250, 9000, 8750, 8500, 8250, 8000, 7750, 7500, 7250,
+        7000, 6750, 6500
       ],
       "Name": "Blaine County Sheriff Officer",
       "SecurityCam": true,
@@ -6048,21 +6004,8 @@
         "Delegada"
       ],
       "Salary": [
-        10000,
-        9750,
-        9500,
-        9250,
-        9000,
-        8750,
-        8500,
-        8250,
-        8000,
-        7750,
-        7500,
-        7250,
-        7000,
-        6750,
-        6500
+        10000, 9750, 9500, 9250, 9000, 8750, 8500, 8250, 8000, 7750, 7500, 7250,
+        7000, 6750, 6500
       ],
       "Name": "San Andreas Park Ranger",
       "SecurityCam": true,
@@ -6094,21 +6037,8 @@
         "Estagiário de Enfermagem"
       ],
       "Salary": [
-        8750,
-        8500,
-        8250,
-        8000,
-        7750,
-        7500,
-        7250,
-        7000,
-        6750,
-        6500,
-        6250,
-        6000,
-        5750,
-        5500,
-        5250
+        8750, 8500, 8250, 8000, 7750, 7500, 7250, 7000, 6750, 6500, 6250, 6000,
+        5750, 5500, 5250
       ],
       "Service": true,
       "Type": "Work",
@@ -6241,17 +6171,7 @@
         "Ajudante de Mecânico",
         "Estagiário de Mecânica"
       ],
-      "Salary": [
-        4000,
-        3750,
-        3500,
-        3250,
-        3000,
-        2750,
-        2500,
-        2250,
-        2000
-      ],
+      "Salary": [4000, 3750, 3500, 3250, 3000, 2750, 2500, 2250, 2000],
       "Service": true,
       "Chest": true,
       "Type": "Work"
@@ -6272,18 +6192,7 @@
         "Ajudante de Cozinha",
         "Estagiário de Cozinha"
       ],
-      "Salary": [
-        4000,
-        3750,
-        3500,
-        3250,
-        3000,
-        2750,
-        2500,
-        2250,
-        2000,
-        1750
-      ],
+      "Salary": [4000, 3750, 3500, 3250, 3000, 2750, 2500, 2250, 2000, 1750],
       "Service": true,
       "Chest": true,
       "Type": "Work"
@@ -6304,18 +6213,7 @@
         "Ajudante de Cozinha",
         "Estagiário de Cozinha"
       ],
-      "Salary": [
-        4000,
-        3750,
-        3500,
-        3250,
-        3000,
-        2750,
-        2500,
-        2250,
-        2000,
-        1750
-      ],
+      "Salary": [4000, 3750, 3500, 3250, 3000, 2750, 2500, 2250, 2000, 1750],
       "Service": true,
       "Chest": true,
       "Type": "Work"
@@ -6324,22 +6222,16 @@
       "Permission": {
         "Booster": true
       },
-      "Hierarchy": [
-        "Membro"
-      ],
+      "Hierarchy": ["Membro"],
       "Service": true,
-      "Salary": [
-        2500
-      ],
+      "Salary": [2500],
       "Block": true
     },
     "Freecam": {
       "Permission": {
         "Freecam": true
       },
-      "Hierarchy": [
-        "Membro"
-      ],
+      "Hierarchy": ["Membro"],
       "Service": true,
       "Block": true
     },
@@ -6349,9 +6241,7 @@
         "BCSO": true,
         "SAPR": true
       },
-      "Hierarchy": [
-        "Membro"
-      ],
+      "Hierarchy": ["Membro"],
       "Block": true
     },
     "Emergencia": {
@@ -6361,18 +6251,14 @@
         "SAPR": true,
         "Paramedico": true
       },
-      "Hierarchy": [
-        "Membro"
-      ],
+      "Hierarchy": ["Membro"],
       "Block": true
     },
     "Corredor": {
       "Permission": {
         "Corredor": true
       },
-      "Hierarchy": [
-        "Jogador"
-      ],
+      "Hierarchy": ["Jogador"],
       "Markers": 46,
       "Block": true
     },
@@ -6380,9 +6266,7 @@
       "Permission": {
         "Boosting": true
       },
-      "Hierarchy": [
-        "Jogador"
-      ],
+      "Hierarchy": ["Jogador"],
       "Markers": 50,
       "Block": true
     },
@@ -6390,12 +6274,7 @@
       "Permission": {
         "FuelStation01": true
       },
-      "Hierarchy": [
-        "Proprietário",
-        "Gerente",
-        "Atendente",
-        "Frentista"
-      ],
+      "Hierarchy": ["Proprietário", "Gerente", "Atendente", "Frentista"],
       "Service": true,
       "Type": "Fuel",
       "Block": true,
@@ -6405,12 +6284,7 @@
       "Permission": {
         "FuelStation02": true
       },
-      "Hierarchy": [
-        "Proprietário",
-        "Gerente",
-        "Atendente",
-        "Frentista"
-      ],
+      "Hierarchy": ["Proprietário", "Gerente", "Atendente", "Frentista"],
       "Service": true,
       "Type": "Fuel",
       "Block": true,
@@ -6420,12 +6294,7 @@
       "Permission": {
         "FuelStation03": true
       },
-      "Hierarchy": [
-        "Proprietário",
-        "Gerente",
-        "Atendente",
-        "Frentista"
-      ],
+      "Hierarchy": ["Proprietário", "Gerente", "Atendente", "Frentista"],
       "Service": true,
       "Type": "Fuel",
       "Block": true,
@@ -6435,12 +6304,7 @@
       "Permission": {
         "FuelStation04": true
       },
-      "Hierarchy": [
-        "Proprietário",
-        "Gerente",
-        "Atendente",
-        "Frentista"
-      ],
+      "Hierarchy": ["Proprietário", "Gerente", "Atendente", "Frentista"],
       "Service": true,
       "Type": "Fuel",
       "Block": true,
@@ -6450,12 +6314,7 @@
       "Permission": {
         "FuelStation05": true
       },
-      "Hierarchy": [
-        "Proprietário",
-        "Gerente",
-        "Atendente",
-        "Frentista"
-      ],
+      "Hierarchy": ["Proprietário", "Gerente", "Atendente", "Frentista"],
       "Service": true,
       "Type": "Fuel",
       "Block": true,
@@ -6465,12 +6324,7 @@
       "Permission": {
         "FuelStation06": true
       },
-      "Hierarchy": [
-        "Proprietário",
-        "Gerente",
-        "Atendente",
-        "Frentista"
-      ],
+      "Hierarchy": ["Proprietário", "Gerente", "Atendente", "Frentista"],
       "Service": true,
       "Type": "Fuel",
       "Block": true,
@@ -6480,12 +6334,7 @@
       "Permission": {
         "FuelStation07": true
       },
-      "Hierarchy": [
-        "Proprietário",
-        "Gerente",
-        "Atendente",
-        "Frentista"
-      ],
+      "Hierarchy": ["Proprietário", "Gerente", "Atendente", "Frentista"],
       "Service": true,
       "Type": "Fuel",
       "Block": true,
@@ -6495,12 +6344,7 @@
       "Permission": {
         "FuelStation08": true
       },
-      "Hierarchy": [
-        "Proprietário",
-        "Gerente",
-        "Atendente",
-        "Frentista"
-      ],
+      "Hierarchy": ["Proprietário", "Gerente", "Atendente", "Frentista"],
       "Service": true,
       "Type": "Fuel",
       "Block": true,
@@ -6510,12 +6354,7 @@
       "Permission": {
         "FuelStation09": true
       },
-      "Hierarchy": [
-        "Proprietário",
-        "Gerente",
-        "Atendente",
-        "Frentista"
-      ],
+      "Hierarchy": ["Proprietário", "Gerente", "Atendente", "Frentista"],
       "Service": true,
       "Type": "Fuel",
       "Block": true,
@@ -6525,12 +6364,7 @@
       "Permission": {
         "FuelStation10": true
       },
-      "Hierarchy": [
-        "Proprietário",
-        "Gerente",
-        "Atendente",
-        "Frentista"
-      ],
+      "Hierarchy": ["Proprietário", "Gerente", "Atendente", "Frentista"],
       "Service": true,
       "Type": "Fuel",
       "Block": true,
@@ -6540,12 +6374,7 @@
       "Permission": {
         "FuelStation11": true
       },
-      "Hierarchy": [
-        "Proprietário",
-        "Gerente",
-        "Atendente",
-        "Frentista"
-      ],
+      "Hierarchy": ["Proprietário", "Gerente", "Atendente", "Frentista"],
       "Service": true,
       "Type": "Fuel",
       "Block": true,
@@ -6555,12 +6384,7 @@
       "Permission": {
         "FuelStation12": true
       },
-      "Hierarchy": [
-        "Proprietário",
-        "Gerente",
-        "Atendente",
-        "Frentista"
-      ],
+      "Hierarchy": ["Proprietário", "Gerente", "Atendente", "Frentista"],
       "Service": true,
       "Type": "Fuel",
       "Block": true,
@@ -6570,12 +6394,7 @@
       "Permission": {
         "FuelStation13": true
       },
-      "Hierarchy": [
-        "Proprietário",
-        "Gerente",
-        "Atendente",
-        "Frentista"
-      ],
+      "Hierarchy": ["Proprietário", "Gerente", "Atendente", "Frentista"],
       "Service": true,
       "Type": "Fuel",
       "Block": true,
@@ -6585,12 +6404,7 @@
       "Permission": {
         "FuelStation14": true
       },
-      "Hierarchy": [
-        "Proprietário",
-        "Gerente",
-        "Atendente",
-        "Frentista"
-      ],
+      "Hierarchy": ["Proprietário", "Gerente", "Atendente", "Frentista"],
       "Service": true,
       "Type": "Fuel",
       "Block": true,
@@ -6600,12 +6414,7 @@
       "Permission": {
         "FuelStation15": true
       },
-      "Hierarchy": [
-        "Proprietário",
-        "Gerente",
-        "Atendente",
-        "Frentista"
-      ],
+      "Hierarchy": ["Proprietário", "Gerente", "Atendente", "Frentista"],
       "Service": true,
       "Type": "Fuel",
       "Block": true,
@@ -6615,12 +6424,7 @@
       "Permission": {
         "FuelStation16": true
       },
-      "Hierarchy": [
-        "Proprietário",
-        "Gerente",
-        "Atendente",
-        "Frentista"
-      ],
+      "Hierarchy": ["Proprietário", "Gerente", "Atendente", "Frentista"],
       "Service": true,
       "Type": "Fuel",
       "Block": true,
@@ -6630,12 +6434,7 @@
       "Permission": {
         "FuelStation17": true
       },
-      "Hierarchy": [
-        "Proprietário",
-        "Gerente",
-        "Atendente",
-        "Frentista"
-      ],
+      "Hierarchy": ["Proprietário", "Gerente", "Atendente", "Frentista"],
       "Service": true,
       "Type": "Fuel",
       "Block": true,
@@ -6645,12 +6444,7 @@
       "Permission": {
         "FuelStation18": true
       },
-      "Hierarchy": [
-        "Proprietário",
-        "Gerente",
-        "Atendente",
-        "Frentista"
-      ],
+      "Hierarchy": ["Proprietário", "Gerente", "Atendente", "Frentista"],
       "Service": true,
       "Type": "Fuel",
       "Block": true,
@@ -6660,12 +6454,7 @@
       "Permission": {
         "FuelStation19": true
       },
-      "Hierarchy": [
-        "Proprietário",
-        "Gerente",
-        "Atendente",
-        "Frentista"
-      ],
+      "Hierarchy": ["Proprietário", "Gerente", "Atendente", "Frentista"],
       "Service": true,
       "Type": "Fuel",
       "Block": true,
@@ -6675,12 +6464,7 @@
       "Permission": {
         "FuelStation20": true
       },
-      "Hierarchy": [
-        "Proprietário",
-        "Gerente",
-        "Atendente",
-        "Frentista"
-      ],
+      "Hierarchy": ["Proprietário", "Gerente", "Atendente", "Frentista"],
       "Service": true,
       "Type": "Fuel",
       "Block": true,
@@ -6690,12 +6474,7 @@
       "Permission": {
         "FuelStation21": true
       },
-      "Hierarchy": [
-        "Proprietário",
-        "Gerente",
-        "Atendente",
-        "Frentista"
-      ],
+      "Hierarchy": ["Proprietário", "Gerente", "Atendente", "Frentista"],
       "Service": true,
       "Type": "Fuel",
       "Block": true,
@@ -6705,12 +6484,7 @@
       "Permission": {
         "FuelStation22": true
       },
-      "Hierarchy": [
-        "Proprietário",
-        "Gerente",
-        "Atendente",
-        "Frentista"
-      ],
+      "Hierarchy": ["Proprietário", "Gerente", "Atendente", "Frentista"],
       "Service": true,
       "Type": "Fuel",
       "Block": true,
@@ -6720,12 +6494,7 @@
       "Permission": {
         "FuelStation23": true
       },
-      "Hierarchy": [
-        "Proprietário",
-        "Gerente",
-        "Atendente",
-        "Frentista"
-      ],
+      "Hierarchy": ["Proprietário", "Gerente", "Atendente", "Frentista"],
       "Service": true,
       "Type": "Fuel",
       "Block": true,
@@ -6735,12 +6504,7 @@
       "Permission": {
         "FuelStation24": true
       },
-      "Hierarchy": [
-        "Proprietário",
-        "Gerente",
-        "Atendente",
-        "Frentista"
-      ],
+      "Hierarchy": ["Proprietário", "Gerente", "Atendente", "Frentista"],
       "Service": true,
       "Type": "Fuel",
       "Block": true,
@@ -6750,12 +6514,7 @@
       "Permission": {
         "FuelStation25": true
       },
-      "Hierarchy": [
-        "Proprietário",
-        "Gerente",
-        "Atendente",
-        "Frentista"
-      ],
+      "Hierarchy": ["Proprietário", "Gerente", "Atendente", "Frentista"],
       "Service": true,
       "Type": "Fuel",
       "Block": true,
@@ -6765,12 +6524,7 @@
       "Permission": {
         "FuelStation26": true
       },
-      "Hierarchy": [
-        "Proprietário",
-        "Gerente",
-        "Atendente",
-        "Frentista"
-      ],
+      "Hierarchy": ["Proprietário", "Gerente", "Atendente", "Frentista"],
       "Service": true,
       "Type": "Fuel",
       "Block": true,
@@ -6780,12 +6534,7 @@
       "Permission": {
         "FuelStation27": true
       },
-      "Hierarchy": [
-        "Proprietário",
-        "Gerente",
-        "Atendente",
-        "Frentista"
-      ],
+      "Hierarchy": ["Proprietário", "Gerente", "Atendente", "Frentista"],
       "Service": true,
       "Type": "Fuel",
       "Block": true,
@@ -6796,10 +6545,7 @@
         "Mansao01": true
       },
       "Name": "Mansão",
-      "Hierarchy": [
-        "Proprietário",
-        "Morador"
-      ],
+      "Hierarchy": ["Proprietário", "Morador"],
       "Type": "Propertys",
       "Service": true,
       "Max": 5
@@ -6808,11 +6554,7 @@
       "Permission": {
         "Lester": true
       },
-      "Hierarchy": [
-        "Chefe",
-        "Subchefe",
-        "Membro"
-      ],
+      "Hierarchy": ["Chefe", "Subchefe", "Membro"],
       "Service": true
     }
   },
@@ -6823,7 +6565,7 @@
       "Price": 1000,
       "Mode": "Work",
       "Gemstone": 0,
-      "Class": "Embarcações"
+      "Class": "Boat"
     },
     "dinghy2": {
       "Name": "Dinghy 2",
@@ -6831,7 +6573,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Embarcações"
+      "Class": "Boat"
     },
     "dinghy3": {
       "Name": "Dinghy 3",
@@ -6839,7 +6581,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Embarcações"
+      "Class": "Boat"
     },
     "dinghy4": {
       "Name": "Dinghy 4",
@@ -6847,7 +6589,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Embarcações"
+      "Class": "Boat"
     },
     "jetmax": {
       "Name": "Jetmax",
@@ -6855,7 +6597,7 @@
       "Price": 1000,
       "Mode": "Work",
       "Gemstone": 0,
-      "Class": "Embarcações"
+      "Class": "Boat"
     },
     "marquis": {
       "Name": "Marquis",
@@ -6863,7 +6605,7 @@
       "Price": 1000,
       "Mode": "Work",
       "Gemstone": 0,
-      "Class": "Embarcações"
+      "Class": "Boat"
     },
     "seashark": {
       "Name": "Seashark",
@@ -6871,7 +6613,7 @@
       "Price": 1000,
       "Mode": "Work",
       "Gemstone": 0,
-      "Class": "Embarcações"
+      "Class": "Boat"
     },
     "seashark2": {
       "Name": "Seashark 2",
@@ -6879,7 +6621,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Embarcações"
+      "Class": "Boat"
     },
     "seashark3": {
       "Name": "Seashark 3",
@@ -6887,7 +6629,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Embarcações"
+      "Class": "Boat"
     },
     "speeder": {
       "Name": "Speeder",
@@ -6895,7 +6637,7 @@
       "Price": 1000,
       "Mode": "Work",
       "Gemstone": 0,
-      "Class": "Embarcações"
+      "Class": "Boat"
     },
     "speeder2": {
       "Name": "Speeder 2",
@@ -6903,7 +6645,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Embarcações"
+      "Class": "Boat"
     },
     "squalo": {
       "Name": "Squalo",
@@ -6911,7 +6653,7 @@
       "Price": 1000,
       "Mode": "Work",
       "Gemstone": 0,
-      "Class": "Embarcações"
+      "Class": "Boat"
     },
     "submersible": {
       "Name": "Submersible",
@@ -6919,7 +6661,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Embarcações"
+      "Class": "Boat"
     },
     "submersible2": {
       "Name": "Submersible 2",
@@ -6927,7 +6669,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Embarcações"
+      "Class": "Boat"
     },
     "suntrap": {
       "Name": "Suntrap",
@@ -6935,7 +6677,7 @@
       "Price": 1000,
       "Mode": "Work",
       "Gemstone": 0,
-      "Class": "Embarcações"
+      "Class": "Boat"
     },
     "toro": {
       "Name": "Toro",
@@ -6943,7 +6685,7 @@
       "Price": 1000,
       "Mode": "Work",
       "Gemstone": 0,
-      "Class": "Embarcações"
+      "Class": "Boat"
     },
     "toro2": {
       "Name": "Toro 2",
@@ -6951,7 +6693,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Embarcações"
+      "Class": "Boat"
     },
     "tropic": {
       "Name": "Tropic",
@@ -6959,7 +6701,7 @@
       "Price": 1000,
       "Mode": "Work",
       "Gemstone": 0,
-      "Class": "Embarcações"
+      "Class": "Boat"
     },
     "tropic2": {
       "Name": "Tropic 2",
@@ -6967,7 +6709,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Embarcações"
+      "Class": "Boat"
     },
     "tug": {
       "Name": "Tug",
@@ -6975,7 +6717,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Embarcações"
+      "Class": "Boat"
     },
     "avisa": {
       "Name": "Avisa",
@@ -6983,7 +6725,7 @@
       "Price": 10000,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Embarcações"
+      "Class": "Boat"
     },
     "dinghy5": {
       "Name": "Dinghy 5",
@@ -6991,7 +6733,7 @@
       "Price": 10000,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Embarcações"
+      "Class": "Boat"
     },
     "kosatka": {
       "Name": "Kosatka",
@@ -6999,7 +6741,7 @@
       "Price": 10000,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Embarcações"
+      "Class": "Boat"
     },
     "longfin": {
       "Name": "Longfin",
@@ -7007,7 +6749,7 @@
       "Price": 10000,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Embarcações"
+      "Class": "Boat"
     },
     "patrolboat": {
       "Name": "Patrolboat",
@@ -7015,7 +6757,7 @@
       "Price": 10000,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Embarcações"
+      "Class": "Boat"
     },
     "benson": {
       "Name": "Benson",
@@ -7023,7 +6765,7 @@
       "Price": 187500,
       "Mode": "Rental",
       "Gemstone": 7500,
-      "Class": "Caminhões"
+      "Class": "Truck"
     },
     "biff": {
       "Name": "Biff",
@@ -7031,7 +6773,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Caminhões"
+      "Class": "Truck"
     },
     "cerberus": {
       "Name": "Cerberus",
@@ -7039,7 +6781,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Caminhões"
+      "Class": "Truck"
     },
     "cerberus2": {
       "Name": "Cerberus 2",
@@ -7047,7 +6789,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Caminhões"
+      "Class": "Truck"
     },
     "cerberus3": {
       "Name": "Cerberus 3",
@@ -7055,7 +6797,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Caminhões"
+      "Class": "Truck"
     },
     "hauler": {
       "Name": "Hauler",
@@ -7063,7 +6805,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Caminhões"
+      "Class": "Truck"
     },
     "hauler2": {
       "Name": "Hauler 2",
@@ -7071,7 +6813,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Caminhões"
+      "Class": "Truck"
     },
     "mule": {
       "Name": "Mule",
@@ -7079,7 +6821,7 @@
       "Price": 125000,
       "Mode": "Rental",
       "Gemstone": 5000,
-      "Class": "Caminhões"
+      "Class": "Truck"
     },
     "mule2": {
       "Name": "Mule 2",
@@ -7087,7 +6829,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Caminhões"
+      "Class": "Truck"
     },
     "mule3": {
       "Name": "Mule 3",
@@ -7095,7 +6837,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Caminhões"
+      "Class": "Truck"
     },
     "mule4": {
       "Name": "Mule 4",
@@ -7103,7 +6845,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Caminhões"
+      "Class": "Truck"
     },
     "packer": {
       "Name": "Packer",
@@ -7111,7 +6853,7 @@
       "Price": 1000,
       "Mode": "Work",
       "Gemstone": 0,
-      "Class": "Caminhões"
+      "Class": "Truck"
     },
     "phantom": {
       "Name": "Phantom",
@@ -7119,7 +6861,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Caminhões"
+      "Class": "Truck"
     },
     "phantom2": {
       "Name": "Phantom 2",
@@ -7127,7 +6869,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Caminhões"
+      "Class": "Truck"
     },
     "phantom3": {
       "Name": "Phantom 3",
@@ -7135,7 +6877,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Caminhões"
+      "Class": "Truck"
     },
     "pounder": {
       "Name": "Pounder",
@@ -7143,7 +6885,7 @@
       "Price": 250000,
       "Mode": "Rental",
       "Gemstone": 10000,
-      "Class": "Caminhões"
+      "Class": "Truck"
     },
     "pounder2": {
       "Name": "Pounder 2",
@@ -7151,7 +6893,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Caminhões"
+      "Class": "Truck"
     },
     "stockade": {
       "Name": "Stockade",
@@ -7159,7 +6901,7 @@
       "Price": 1000,
       "Mode": "Work",
       "Gemstone": 0,
-      "Class": "Caminhões"
+      "Class": "Truck"
     },
     "stockade3": {
       "Name": "Stockade 3",
@@ -7167,7 +6909,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Caminhões"
+      "Class": "Truck"
     },
     "terbyte": {
       "Name": "Terbyte",
@@ -7175,7 +6917,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Caminhões"
+      "Class": "Truck"
     },
     "asbo": {
       "Name": "Asbo",
@@ -7183,7 +6925,7 @@
       "Price": 60000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Compactos"
+      "Class": "Car"
     },
     "blista": {
       "Name": "Blista",
@@ -7191,7 +6933,7 @@
       "Price": 40000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Compactos"
+      "Class": "Car"
     },
     "brioso": {
       "Name": "Brioso",
@@ -7199,7 +6941,7 @@
       "Price": 30000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Compactos"
+      "Class": "Car"
     },
     "club": {
       "Name": "Club",
@@ -7207,7 +6949,7 @@
       "Price": 65000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Compactos"
+      "Class": "Car"
     },
     "dilettante": {
       "Name": "Dilettante",
@@ -7215,7 +6957,7 @@
       "Price": 50000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Compactos"
+      "Class": "Car"
     },
     "dilettante2": {
       "Name": "Dilettante 2",
@@ -7223,7 +6965,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Compactos"
+      "Class": "Car"
     },
     "kanjo": {
       "Name": "Kanjo",
@@ -7231,7 +6973,7 @@
       "Price": 70000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Compactos"
+      "Class": "Car"
     },
     "issi2": {
       "Name": "Issi 2",
@@ -7239,7 +6981,7 @@
       "Price": 50000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Compactos"
+      "Class": "Car"
     },
     "issi3": {
       "Name": "Issi 3",
@@ -7247,7 +6989,7 @@
       "Price": 80000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Compactos"
+      "Class": "Car"
     },
     "issi4": {
       "Name": "Issi 4",
@@ -7255,7 +6997,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Compactos"
+      "Class": "Car"
     },
     "issi5": {
       "Name": "Issi 5",
@@ -7263,7 +7005,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Compactos"
+      "Class": "Car"
     },
     "issi6": {
       "Name": "Issi 6",
@@ -7271,7 +7013,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Compactos"
+      "Class": "Car"
     },
     "panto": {
       "Name": "Panto",
@@ -7279,9 +7021,9 @@
       "Price": 15000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Compactos",
+      "Class": "Car",
       "Speed": 10,
-      "Break": 10,
+      "Brake": 10,
       "Gears": 10,
       "Acceleration": 1,
       "Performance": "A+"
@@ -7292,7 +7034,7 @@
       "Price": 15000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Compactos"
+      "Class": "Car"
     },
     "rhapsody": {
       "Name": "Rhapsody",
@@ -7300,7 +7042,7 @@
       "Price": 10000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Compactos"
+      "Class": "Car"
     },
     "brioso2": {
       "Name": "Brioso 2",
@@ -7308,7 +7050,7 @@
       "Price": 40000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Compactos"
+      "Class": "Car"
     },
     "weevil": {
       "Name": "Weevil",
@@ -7316,7 +7058,7 @@
       "Price": 110000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Compactos"
+      "Class": "Car"
     },
     "cogcabrio": {
       "Name": "Cogcabrio",
@@ -7324,7 +7066,7 @@
       "Price": 60000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Cupês"
+      "Class": "Car"
     },
     "exemplar": {
       "Name": "Exemplar",
@@ -7332,7 +7074,7 @@
       "Price": 70000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Cupês"
+      "Class": "Car"
     },
     "f620": {
       "Name": "F620",
@@ -7340,7 +7082,7 @@
       "Price": 60000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Cupês"
+      "Class": "Car"
     },
     "felon": {
       "Name": "Felon",
@@ -7348,7 +7090,7 @@
       "Price": 70000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Cupês"
+      "Class": "Car"
     },
     "felon2": {
       "Name": "Felon 2",
@@ -7356,7 +7098,7 @@
       "Price": 70000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Cupês"
+      "Class": "Car"
     },
     "jackal": {
       "Name": "Jackal",
@@ -7364,7 +7106,7 @@
       "Price": 100000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Cupês"
+      "Class": "Car"
     },
     "oracle": {
       "Name": "Oracle",
@@ -7372,7 +7114,7 @@
       "Price": 50000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Cupês"
+      "Class": "Car"
     },
     "oracle2": {
       "Name": "Oracle 2",
@@ -7380,7 +7122,7 @@
       "Price": 70000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Cupês"
+      "Class": "Car"
     },
     "sentinel": {
       "Name": "Sentinel",
@@ -7388,7 +7130,7 @@
       "Price": 50000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Cupês"
+      "Class": "Car"
     },
     "sentinel2": {
       "Name": "Sentinel 2",
@@ -7396,7 +7138,7 @@
       "Price": 70000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Cupês"
+      "Class": "Car"
     },
     "windsor": {
       "Name": "Windsor",
@@ -7404,7 +7146,7 @@
       "Price": 70000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Cupês"
+      "Class": "Car"
     },
     "windsor2": {
       "Name": "Windsor 2",
@@ -7412,7 +7154,7 @@
       "Price": 90000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Cupês"
+      "Class": "Car"
     },
     "zion": {
       "Name": "Zion",
@@ -7420,7 +7162,7 @@
       "Price": 70000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Cupês"
+      "Class": "Car"
     },
     "zion2": {
       "Name": "Zion 2",
@@ -7428,7 +7170,7 @@
       "Price": 80000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Cupês"
+      "Class": "Car"
     },
     "previon": {
       "Name": "Previon",
@@ -7436,7 +7178,7 @@
       "Price": 170000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Cupês"
+      "Class": "Car"
     },
     "bmx": {
       "Name": "Bmx",
@@ -7444,7 +7186,7 @@
       "Price": 1000,
       "Mode": "Work",
       "Gemstone": 0,
-      "Class": "Bicicletas"
+      "Class": "Bicycle"
     },
     "cruiser": {
       "Name": "Cruiser",
@@ -7452,7 +7194,7 @@
       "Price": 1000,
       "Mode": "Work",
       "Gemstone": 0,
-      "Class": "Bicicletas"
+      "Class": "Bicycle"
     },
     "fixter": {
       "Name": "Fixter",
@@ -7460,7 +7202,7 @@
       "Price": 1000,
       "Mode": "Work",
       "Gemstone": 0,
-      "Class": "Bicicletas"
+      "Class": "Bicycle"
     },
     "scorcher": {
       "Name": "Scorcher",
@@ -7468,7 +7210,7 @@
       "Price": 1000,
       "Mode": "Work",
       "Gemstone": 0,
-      "Class": "Bicicletas"
+      "Class": "Bicycle"
     },
     "tribike": {
       "Name": "Tribike",
@@ -7476,7 +7218,7 @@
       "Price": 1000,
       "Mode": "Work",
       "Gemstone": 0,
-      "Class": "Bicicletas"
+      "Class": "Bicycle"
     },
     "tribike2": {
       "Name": "Tribike 2",
@@ -7484,7 +7226,7 @@
       "Price": 1000,
       "Mode": "Work",
       "Gemstone": 0,
-      "Class": "Bicicletas"
+      "Class": "Bicycle"
     },
     "tribike3": {
       "Name": "Tribike 3",
@@ -7492,7 +7234,7 @@
       "Price": 1000,
       "Mode": "Work",
       "Gemstone": 0,
-      "Class": "Bicicletas"
+      "Class": "Bicycle"
     },
     "ambulance": {
       "Name": "Ambulance",
@@ -7668,7 +7410,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Helicópteros"
+      "Class": "Helicopter"
     },
     "annihilator": {
       "Name": "Annihilator",
@@ -7676,7 +7418,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Helicópteros"
+      "Class": "Helicopter"
     },
     "buzzard": {
       "Name": "Buzzard",
@@ -7684,7 +7426,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Helicópteros"
+      "Class": "Helicopter"
     },
     "buzzard2": {
       "Name": "Buzzard 2",
@@ -7692,7 +7434,7 @@
       "Price": 2000,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Helicópteros"
+      "Class": "Helicopter"
     },
     "cargobob": {
       "Name": "Cargobob",
@@ -7700,7 +7442,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Helicópteros"
+      "Class": "Helicopter"
     },
     "cargobob2": {
       "Name": "Cargobob 2",
@@ -7708,7 +7450,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Helicópteros"
+      "Class": "Helicopter"
     },
     "cargobob3": {
       "Name": "Cargobob 3",
@@ -7716,7 +7458,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Helicópteros"
+      "Class": "Helicopter"
     },
     "cargobob4": {
       "Name": "Cargobob 4",
@@ -7724,7 +7466,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Helicópteros"
+      "Class": "Helicopter"
     },
     "frogger": {
       "Name": "Frogger",
@@ -7732,7 +7474,7 @@
       "Price": 2000,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Helicópteros"
+      "Class": "Helicopter"
     },
     "frogger2": {
       "Name": "Frogger 2",
@@ -7740,7 +7482,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Helicópteros"
+      "Class": "Helicopter"
     },
     "havok": {
       "Name": "Havok",
@@ -7748,7 +7490,7 @@
       "Price": 262500,
       "Mode": "Work",
       "Gemstone": 7500,
-      "Class": "Helicópteros"
+      "Class": "Helicopter"
     },
     "hunter": {
       "Name": "Hunter",
@@ -7756,7 +7498,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Helicópteros"
+      "Class": "Helicopter"
     },
     "maverick": {
       "Name": "Maverick",
@@ -7764,7 +7506,7 @@
       "Price": 437500,
       "Mode": "Work",
       "Gemstone": 12500,
-      "Class": "Helicópteros"
+      "Class": "Helicopter"
     },
     "savage": {
       "Name": "Savage",
@@ -7772,7 +7514,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Helicópteros"
+      "Class": "Helicopter"
     },
     "seasparrow": {
       "Name": "Seasparrow",
@@ -7780,7 +7522,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Helicópteros"
+      "Class": "Helicopter"
     },
     "skylift": {
       "Name": "Skylift",
@@ -7788,7 +7530,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Helicópteros"
+      "Class": "Helicopter"
     },
     "supervolito": {
       "Name": "Supervolito",
@@ -7796,7 +7538,7 @@
       "Price": 437500,
       "Mode": "Work",
       "Gemstone": 12500,
-      "Class": "Helicópteros"
+      "Class": "Helicopter"
     },
     "supervolito2": {
       "Name": "Supervolito 2",
@@ -7804,7 +7546,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Helicópteros"
+      "Class": "Helicopter"
     },
     "swift": {
       "Name": "Swift",
@@ -7812,7 +7554,7 @@
       "Price": 2000,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Helicópteros"
+      "Class": "Helicopter"
     },
     "swift2": {
       "Name": "Swift 2",
@@ -7820,7 +7562,7 @@
       "Price": 2000,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Helicópteros"
+      "Class": "Helicopter"
     },
     "valkyrie": {
       "Name": "Valkyrie",
@@ -7828,7 +7570,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Helicópteros"
+      "Class": "Helicopter"
     },
     "valkyrie2": {
       "Name": "Valkyrie 2",
@@ -7836,7 +7578,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Helicópteros"
+      "Class": "Helicopter"
     },
     "volatus": {
       "Name": "Volatus",
@@ -7844,7 +7586,7 @@
       "Price": 437500,
       "Mode": "Work",
       "Gemstone": 12500,
-      "Class": "Helicópteros"
+      "Class": "Helicopter"
     },
     "annihilator2": {
       "Name": "Annihilator 2",
@@ -7852,7 +7594,7 @@
       "Price": 10000,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Helicópteros"
+      "Class": "Helicopter"
     },
     "seasparrow2": {
       "Name": "Seasparrow 2",
@@ -7860,7 +7602,7 @@
       "Price": 10000,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Helicópteros"
+      "Class": "Helicopter"
     },
     "seasparrow3": {
       "Name": "Seasparrow 3",
@@ -7868,7 +7610,7 @@
       "Price": 10000,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Helicópteros"
+      "Class": "Helicopter"
     },
     "bulldozer": {
       "Name": "Bulldozer",
@@ -7900,7 +7642,7 @@
       "Price": 1000,
       "Mode": "Work",
       "Gemstone": 0,
-      "Class": "Industriais"
+      "Class": "Truck"
     },
     "guardian": {
       "Name": "Guardian",
@@ -7908,7 +7650,7 @@
       "Price": 160000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Industriais"
+      "Class": "Pickup"
     },
     "handler": {
       "Name": "Handler",
@@ -8100,7 +7842,7 @@
       "Price": 240000,
       "Mode": "Bikes",
       "Gemstone": 0,
-      "Class": "Motocicletas"
+      "Class": "Motorcycle"
     },
     "avarus": {
       "Name": "Avarus",
@@ -8108,7 +7850,7 @@
       "Price": 120000,
       "Mode": "Bikes",
       "Gemstone": 0,
-      "Class": "Motocicletas"
+      "Class": "Motorcycle"
     },
     "bagger": {
       "Name": "Bagger",
@@ -8116,7 +7858,7 @@
       "Price": 160000,
       "Mode": "Bikes",
       "Gemstone": 0,
-      "Class": "Motocicletas"
+      "Class": "Motorcycle"
     },
     "bati": {
       "Name": "Bati",
@@ -8124,7 +7866,7 @@
       "Price": 170000,
       "Mode": "Bikes",
       "Gemstone": 0,
-      "Class": "Motocicletas"
+      "Class": "Motorcycle"
     },
     "bati2": {
       "Name": "Bati 2",
@@ -8132,7 +7874,7 @@
       "Price": 240000,
       "Mode": "Bikes",
       "Gemstone": 0,
-      "Class": "Motocicletas"
+      "Class": "Motorcycle"
     },
     "bf400": {
       "Name": "Bf400",
@@ -8140,7 +7882,7 @@
       "Price": 200000,
       "Mode": "Bikes",
       "Gemstone": 0,
-      "Class": "Motocicletas"
+      "Class": "Motorcycle"
     },
     "carbonrs": {
       "Name": "Carbon RS",
@@ -8148,7 +7890,7 @@
       "Price": 180000,
       "Mode": "Bikes",
       "Gemstone": 0,
-      "Class": "Motocicletas"
+      "Class": "Motorcycle"
     },
     "chimera": {
       "Name": "Chimera",
@@ -8156,7 +7898,7 @@
       "Price": 130000,
       "Mode": "Bikes",
       "Gemstone": 0,
-      "Class": "Motocicletas"
+      "Class": "Motorcycle"
     },
     "cliffhanger": {
       "Name": "Cliffhanger",
@@ -8164,7 +7906,7 @@
       "Price": 200000,
       "Mode": "Bikes",
       "Gemstone": 0,
-      "Class": "Motocicletas"
+      "Class": "Motorcycle"
     },
     "daemon": {
       "Name": "Daemon",
@@ -8172,7 +7914,7 @@
       "Price": 140000,
       "Mode": "Bikes",
       "Gemstone": 0,
-      "Class": "Motocicletas"
+      "Class": "Motorcycle"
     },
     "daemon2": {
       "Name": "Daemon 2",
@@ -8180,7 +7922,7 @@
       "Price": 160000,
       "Mode": "Bikes",
       "Gemstone": 0,
-      "Class": "Motocicletas"
+      "Class": "Motorcycle"
     },
     "defiler": {
       "Name": "Defiler",
@@ -8188,7 +7930,7 @@
       "Price": 180000,
       "Mode": "Bikes",
       "Gemstone": 0,
-      "Class": "Motocicletas"
+      "Class": "Motorcycle"
     },
     "deathbike": {
       "Name": "Deathbike",
@@ -8196,7 +7938,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Motocicletas"
+      "Class": "Motorcycle"
     },
     "deathbike2": {
       "Name": "Deathbike 2",
@@ -8204,7 +7946,7 @@
       "Price": 65000,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Motocicletas"
+      "Class": "Motorcycle"
     },
     "deathbike3": {
       "Name": "Deathbike 3",
@@ -8212,7 +7954,7 @@
       "Price": 65000,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Motocicletas"
+      "Class": "Motorcycle"
     },
     "diablous": {
       "Name": "Diablous",
@@ -8220,7 +7962,7 @@
       "Price": 180000,
       "Mode": "Bikes",
       "Gemstone": 0,
-      "Class": "Motocicletas"
+      "Class": "Motorcycle"
     },
     "diablous2": {
       "Name": "Diablous 2",
@@ -8228,7 +7970,7 @@
       "Price": 180000,
       "Mode": "Bikes",
       "Gemstone": 0,
-      "Class": "Motocicletas"
+      "Class": "Motorcycle"
     },
     "double": {
       "Name": "Double",
@@ -8236,7 +7978,7 @@
       "Price": 200000,
       "Mode": "Bikes",
       "Gemstone": 0,
-      "Class": "Motocicletas"
+      "Class": "Motorcycle"
     },
     "enduro": {
       "Name": "Enduro",
@@ -8244,7 +7986,7 @@
       "Price": 150000,
       "Mode": "Bikes",
       "Gemstone": 0,
-      "Class": "Motocicletas"
+      "Class": "Motorcycle"
     },
     "esskey": {
       "Name": "Esskey",
@@ -8252,7 +7994,7 @@
       "Price": 160000,
       "Mode": "Bikes",
       "Gemstone": 0,
-      "Class": "Motocicletas"
+      "Class": "Motorcycle"
     },
     "faggio": {
       "Name": "Faggio",
@@ -8260,7 +8002,7 @@
       "Price": 2000,
       "Mode": "Bikes",
       "Gemstone": 0,
-      "Class": "Motocicletas"
+      "Class": "Motorcycle"
     },
     "faggio2": {
       "Name": "Faggio 2",
@@ -8268,7 +8010,7 @@
       "Price": 2000,
       "Mode": "Bikes",
       "Gemstone": 0,
-      "Class": "Motocicletas"
+      "Class": "Motorcycle"
     },
     "faggio3": {
       "Name": "Faggio 3",
@@ -8276,7 +8018,7 @@
       "Price": 2000,
       "Mode": "Bikes",
       "Gemstone": 0,
-      "Class": "Motocicletas"
+      "Class": "Motorcycle"
     },
     "fcr": {
       "Name": "Fcr",
@@ -8284,7 +8026,7 @@
       "Price": 160000,
       "Mode": "Bikes",
       "Gemstone": 0,
-      "Class": "Motocicletas"
+      "Class": "Motorcycle"
     },
     "fcr2": {
       "Name": "Fcr 2",
@@ -8292,7 +8034,7 @@
       "Price": 180000,
       "Mode": "Bikes",
       "Gemstone": 0,
-      "Class": "Motocicletas"
+      "Class": "Motorcycle"
     },
     "gargoyle": {
       "Name": "Gargoyle",
@@ -8300,7 +8042,7 @@
       "Price": 230000,
       "Mode": "Bikes",
       "Gemstone": 0,
-      "Class": "Motocicletas"
+      "Class": "Motorcycle"
     },
     "hakuchou": {
       "Name": "Hakuchou",
@@ -8308,7 +8050,7 @@
       "Price": 240000,
       "Mode": "Bikes",
       "Gemstone": 0,
-      "Class": "Motocicletas"
+      "Class": "Motorcycle"
     },
     "hakuchou2": {
       "Name": "Hakuchou 2",
@@ -8316,7 +8058,7 @@
       "Price": 270000,
       "Mode": "Bikes",
       "Gemstone": 0,
-      "Class": "Motocicletas"
+      "Class": "Motorcycle"
     },
     "hexer": {
       "Name": "Hexer",
@@ -8324,7 +8066,7 @@
       "Price": 170000,
       "Mode": "Bikes",
       "Gemstone": 0,
-      "Class": "Motocicletas"
+      "Class": "Motorcycle"
     },
     "innovation": {
       "Name": "Innovation",
@@ -8332,7 +8074,7 @@
       "Price": 150000,
       "Mode": "Bikes",
       "Gemstone": 0,
-      "Class": "Motocicletas"
+      "Class": "Motorcycle"
     },
     "lectro": {
       "Name": "Lectro",
@@ -8340,7 +8082,7 @@
       "Price": 120000,
       "Mode": "Bikes",
       "Gemstone": 0,
-      "Class": "Motocicletas"
+      "Class": "Motorcycle"
     },
     "manchez": {
       "Name": "Manchez",
@@ -8348,7 +8090,7 @@
       "Price": 170000,
       "Mode": "Bikes",
       "Gemstone": 0,
-      "Class": "Motocicletas"
+      "Class": "Motorcycle"
     },
     "manchez3": {
       "Name": "manchez3",
@@ -8356,7 +8098,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Motocicletas"
+      "Class": "Motorcycle"
     },
     "nemesis": {
       "Name": "Nemesis",
@@ -8364,7 +8106,7 @@
       "Price": 140000,
       "Mode": "Bikes",
       "Gemstone": 0,
-      "Class": "Motocicletas"
+      "Class": "Motorcycle"
     },
     "nightblade": {
       "Name": "Nightblade",
@@ -8372,7 +8114,7 @@
       "Price": 180000,
       "Mode": "Bikes",
       "Gemstone": 0,
-      "Class": "Motocicletas"
+      "Class": "Motorcycle"
     },
     "oppressor": {
       "Name": "Oppressor",
@@ -8380,7 +8122,7 @@
       "Price": 130000,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Motocicletas"
+      "Class": "Motorcycle"
     },
     "oppressor2": {
       "Name": "Oppressor 2",
@@ -8388,7 +8130,7 @@
       "Price": 130000,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Motocicletas"
+      "Class": "Motorcycle"
     },
     "pcj": {
       "Name": "Pcj",
@@ -8396,7 +8138,7 @@
       "Price": 100000,
       "Mode": "Bikes",
       "Gemstone": 0,
-      "Class": "Motocicletas"
+      "Class": "Motorcycle"
     },
     "powersurge": {
       "Name": "powersurge",
@@ -8404,7 +8146,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Motocicletas"
+      "Class": "Motorcycle"
     },
     "ratbike": {
       "Name": "Ratbike",
@@ -8412,7 +8154,7 @@
       "Price": 110000,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Motocicletas"
+      "Class": "Motorcycle"
     },
     "ruffian": {
       "Name": "Ruffian",
@@ -8420,7 +8162,7 @@
       "Price": 150000,
       "Mode": "Bikes",
       "Gemstone": 0,
-      "Class": "Motocicletas"
+      "Class": "Motorcycle"
     },
     "rrocket": {
       "Name": "Rrocket",
@@ -8428,7 +8170,7 @@
       "Price": 150000,
       "Mode": "Bikes",
       "Gemstone": 0,
-      "Class": "Motocicletas"
+      "Class": "Motorcycle"
     },
     "sanchez": {
       "Name": "Sanchez",
@@ -8436,7 +8178,7 @@
       "Price": 140000,
       "Mode": "Bikes",
       "Gemstone": 0,
-      "Class": "Motocicletas"
+      "Class": "Motorcycle"
     },
     "sanchez2": {
       "Name": "Sanchez 2",
@@ -8444,7 +8186,7 @@
       "Price": 150000,
       "Mode": "Bikes",
       "Gemstone": 0,
-      "Class": "Motocicletas"
+      "Class": "Motorcycle"
     },
     "sanctus": {
       "Name": "Sanctus",
@@ -8452,7 +8194,7 @@
       "Price": 190000,
       "Mode": "Bikes",
       "Gemstone": 0,
-      "Class": "Motocicletas"
+      "Class": "Motorcycle"
     },
     "shotaro": {
       "Name": "Shotaro",
@@ -8460,7 +8202,7 @@
       "Price": 180000,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Motocicletas"
+      "Class": "Motorcycle"
     },
     "sovereign": {
       "Name": "Sovereign",
@@ -8468,7 +8210,7 @@
       "Price": 180000,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Motocicletas"
+      "Class": "Motorcycle"
     },
     "stryder": {
       "Name": "Stryder",
@@ -8476,7 +8218,7 @@
       "Price": 1000,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Motocicletas"
+      "Class": "Motorcycle"
     },
     "thrust": {
       "Name": "Thrust",
@@ -8484,7 +8226,7 @@
       "Price": 150000,
       "Mode": "Bikes",
       "Gemstone": 0,
-      "Class": "Motocicletas"
+      "Class": "Motorcycle"
     },
     "vader": {
       "Name": "Vader",
@@ -8492,7 +8234,7 @@
       "Price": 160000,
       "Mode": "Bikes",
       "Gemstone": 0,
-      "Class": "Motocicletas"
+      "Class": "Motorcycle"
     },
     "vindicator": {
       "Name": "Vindicator",
@@ -8500,7 +8242,7 @@
       "Price": 160000,
       "Mode": "Bikes",
       "Gemstone": 0,
-      "Class": "Motocicletas"
+      "Class": "Motorcycle"
     },
     "vortex": {
       "Name": "Vortex",
@@ -8508,7 +8250,7 @@
       "Price": 170000,
       "Mode": "Bikes",
       "Gemstone": 0,
-      "Class": "Motocicletas"
+      "Class": "Motorcycle"
     },
     "wolfsbane": {
       "Name": "Wolfsbane",
@@ -8516,7 +8258,7 @@
       "Price": 100000,
       "Mode": "Bikes",
       "Gemstone": 0,
-      "Class": "Motocicletas"
+      "Class": "Motorcycle"
     },
     "zombiea": {
       "Name": "Zombie A",
@@ -8524,7 +8266,7 @@
       "Price": 170000,
       "Mode": "Bikes",
       "Gemstone": 0,
-      "Class": "Motocicletas"
+      "Class": "Motorcycle"
     },
     "zombieb": {
       "Name": "Zombie B",
@@ -8532,7 +8274,7 @@
       "Price": 170000,
       "Mode": "Bikes",
       "Gemstone": 0,
-      "Class": "Motocicletas"
+      "Class": "Motorcycle"
     },
     "manchez2": {
       "Name": "Manchez 2",
@@ -8540,7 +8282,7 @@
       "Price": 10000,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Motocicletas"
+      "Class": "Motorcycle"
     },
     "blade": {
       "Name": "Blade",
@@ -8548,7 +8290,7 @@
       "Price": 90000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Muscles"
+      "Class": "Car"
     },
     "broadway": {
       "Name": "broadway",
@@ -8556,7 +8298,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Muscles"
+      "Class": "Car"
     },
     "buccaneer": {
       "Name": "Buccaneer",
@@ -8564,7 +8306,7 @@
       "Price": 50000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Muscles"
+      "Class": "Car"
     },
     "buccaneer2": {
       "Name": "Buccaneer 2",
@@ -8572,7 +8314,7 @@
       "Price": 70000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Muscles"
+      "Class": "Car"
     },
     "chino": {
       "Name": "Chino",
@@ -8580,7 +8322,7 @@
       "Price": 80000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Muscles"
+      "Class": "Car"
     },
     "chino2": {
       "Name": "Chino 2",
@@ -8588,7 +8330,7 @@
       "Price": 70000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Muscles"
+      "Class": "Car"
     },
     "clique": {
       "Name": "Clique",
@@ -8596,7 +8338,7 @@
       "Price": 90000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Muscles"
+      "Class": "Car"
     },
     "coquette3": {
       "Name": "Coquette 3",
@@ -8604,7 +8346,7 @@
       "Price": 160000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Muscles"
+      "Class": "Car"
     },
     "deviant": {
       "Name": "Deviant",
@@ -8612,7 +8354,7 @@
       "Price": 130000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Muscles"
+      "Class": "Car"
     },
     "dominator": {
       "Name": "Dominator",
@@ -8620,7 +8362,7 @@
       "Price": 130000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Muscles"
+      "Class": "Car"
     },
     "dominator2": {
       "Name": "Dominator 2",
@@ -8628,7 +8370,7 @@
       "Price": 140000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Muscles"
+      "Class": "Car"
     },
     "dominator3": {
       "Name": "Dominator 3",
@@ -8636,7 +8378,7 @@
       "Price": 150000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Muscles"
+      "Class": "Car"
     },
     "dominator4": {
       "Name": "Dominator 4",
@@ -8644,7 +8386,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Muscles"
+      "Class": "Car"
     },
     "dominator5": {
       "Name": "Dominator 5",
@@ -8652,7 +8394,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Muscles"
+      "Class": "Car"
     },
     "dominator6": {
       "Name": "Dominator 6",
@@ -8660,7 +8402,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Muscles"
+      "Class": "Car"
     },
     "dukes": {
       "Name": "Dukes",
@@ -8668,7 +8410,7 @@
       "Price": 110000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Muscles"
+      "Class": "Car"
     },
     "dukes2": {
       "Name": "Dukes 2",
@@ -8676,7 +8418,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Muscles"
+      "Class": "Car"
     },
     "dukes3": {
       "Name": "Dukes 3",
@@ -8684,7 +8426,7 @@
       "Price": 1000,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Muscles"
+      "Class": "Car"
     },
     "faction": {
       "Name": "Faction",
@@ -8692,7 +8434,7 @@
       "Price": 90000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Muscles"
+      "Class": "Car"
     },
     "faction2": {
       "Name": "Faction 2",
@@ -8700,7 +8442,7 @@
       "Price": 90000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Muscles"
+      "Class": "Car"
     },
     "faction3": {
       "Name": "Faction 3",
@@ -8708,7 +8450,7 @@
       "Price": 90000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Muscles"
+      "Class": "Car"
     },
     "ellie": {
       "Name": "Ellie",
@@ -8716,7 +8458,7 @@
       "Price": 130000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Muscles"
+      "Class": "Car"
     },
     "eudora": {
       "Name": "eudora",
@@ -8724,7 +8466,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Muscles"
+      "Class": "Car"
     },
     "gauntlet": {
       "Name": "Gauntlet",
@@ -8732,7 +8474,7 @@
       "Price": 80000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Muscles"
+      "Class": "Car"
     },
     "gauntlet2": {
       "Name": "Gauntlet 2",
@@ -8740,7 +8482,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Muscles"
+      "Class": "Car"
     },
     "gauntlet3": {
       "Name": "Gauntlet 3",
@@ -8748,7 +8490,7 @@
       "Price": 150000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Muscles"
+      "Class": "Car"
     },
     "gauntlet4": {
       "Name": "Gauntlet 4",
@@ -8756,7 +8498,7 @@
       "Price": 180000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Muscles"
+      "Class": "Car"
     },
     "gauntlet5": {
       "Name": "Gauntlet 5",
@@ -8764,7 +8506,7 @@
       "Price": 180000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Muscles"
+      "Class": "Car"
     },
     "hermes": {
       "Name": "Hermes",
@@ -8772,7 +8514,7 @@
       "Price": 130000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Muscles"
+      "Class": "Car"
     },
     "hotknife": {
       "Name": "Hotknife",
@@ -8780,7 +8522,7 @@
       "Price": 90000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Muscles"
+      "Class": "Car"
     },
     "hustler": {
       "Name": "Hustler",
@@ -8788,7 +8530,7 @@
       "Price": 90000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Muscles"
+      "Class": "Car"
     },
     "impaler": {
       "Name": "Impaler",
@@ -8796,7 +8538,7 @@
       "Price": 110000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Muscles"
+      "Class": "Car"
     },
     "impaler2": {
       "Name": "Impaler 2",
@@ -8804,7 +8546,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Muscles"
+      "Class": "Car"
     },
     "impaler3": {
       "Name": "Impaler 3",
@@ -8812,7 +8554,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Muscles"
+      "Class": "Car"
     },
     "impaler4": {
       "Name": "Impaler 4",
@@ -8820,7 +8562,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Muscles"
+      "Class": "Car"
     },
     "imperator": {
       "Name": "Imperator",
@@ -8828,7 +8570,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Muscles"
+      "Class": "Car"
     },
     "imperator2": {
       "Name": "Imperator 2",
@@ -8836,7 +8578,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Muscles"
+      "Class": "Car"
     },
     "imperator3": {
       "Name": "Imperator 3",
@@ -8844,7 +8586,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Muscles"
+      "Class": "Car"
     },
     "lurcher": {
       "Name": "Lurcher",
@@ -8852,7 +8594,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Muscles"
+      "Class": "Car"
     },
     "moonbeam": {
       "Name": "Moonbeam",
@@ -8860,7 +8602,7 @@
       "Price": 100000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Muscles"
+      "Class": "Car"
     },
     "moonbeam2": {
       "Name": "Moonbeam 2",
@@ -8868,7 +8610,7 @@
       "Price": 120000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Muscles"
+      "Class": "Car"
     },
     "nightshade": {
       "Name": "Nightshade",
@@ -8876,7 +8618,7 @@
       "Price": 120000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Muscles"
+      "Class": "Car"
     },
     "peyote2": {
       "Name": "Peyote 2",
@@ -8884,7 +8626,7 @@
       "Price": 100000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Muscles"
+      "Class": "Car"
     },
     "phoenix": {
       "Name": "Phoenix",
@@ -8892,7 +8634,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Muscles"
+      "Class": "Car"
     },
     "picador": {
       "Name": "Picador",
@@ -8900,7 +8642,7 @@
       "Price": 120000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Muscles"
+      "Class": "Car"
     },
     "ratloader": {
       "Name": "Ratloader",
@@ -8908,7 +8650,7 @@
       "Price": 1000,
       "Mode": "Work",
       "Gemstone": 0,
-      "Class": "Muscles"
+      "Class": "Car"
     },
     "ratloader2": {
       "Name": "Ratloader 2",
@@ -8916,7 +8658,7 @@
       "Price": 100000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Muscles"
+      "Class": "Car"
     },
     "ruiner": {
       "Name": "Ruiner",
@@ -8924,7 +8666,7 @@
       "Price": 100000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Muscles"
+      "Class": "Car"
     },
     "ruiner2": {
       "Name": "Ruiner 2",
@@ -8932,7 +8674,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Muscles"
+      "Class": "Car"
     },
     "ruiner3": {
       "Name": "Ruiner 3",
@@ -8940,7 +8682,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Muscles"
+      "Class": "Car"
     },
     "sabregt": {
       "Name": "Sabre GT",
@@ -8948,7 +8690,7 @@
       "Price": 90000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Muscles"
+      "Class": "Car"
     },
     "sabregt2": {
       "Name": "Sabregt 2",
@@ -8956,7 +8698,7 @@
       "Price": 90000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Muscles"
+      "Class": "Car"
     },
     "slamvan": {
       "Name": "Slamvan",
@@ -8964,7 +8706,7 @@
       "Price": 110000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Muscles"
+      "Class": "Car"
     },
     "slamvan2": {
       "Name": "Slamvan 2",
@@ -8972,7 +8714,7 @@
       "Price": 120000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Muscles"
+      "Class": "Car"
     },
     "slamvan3": {
       "Name": "Slamvan 3",
@@ -8980,7 +8722,7 @@
       "Price": 140000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Muscles"
+      "Class": "Car"
     },
     "slamvan4": {
       "Name": "Slamvan 4",
@@ -8988,7 +8730,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Muscles"
+      "Class": "Car"
     },
     "slamvan5": {
       "Name": "Slamvan 5",
@@ -8996,7 +8738,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Muscles"
+      "Class": "Car"
     },
     "slamvan6": {
       "Name": "Slamvan 6",
@@ -9004,7 +8746,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Muscles"
+      "Class": "Car"
     },
     "stalion": {
       "Name": "Stalion",
@@ -9012,7 +8754,7 @@
       "Price": 90000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Muscles"
+      "Class": "Car"
     },
     "stalion2": {
       "Name": "Stalion 2",
@@ -9020,7 +8762,7 @@
       "Price": 90000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Muscles"
+      "Class": "Car"
     },
     "tahoma": {
       "Name": "tahoma",
@@ -9028,7 +8770,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Muscles"
+      "Class": "Car"
     },
     "tampa": {
       "Name": "Tampa",
@@ -9036,7 +8778,7 @@
       "Price": 100000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Muscles"
+      "Class": "Car"
     },
     "tampa3": {
       "Name": "Tampa 3",
@@ -9044,7 +8786,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Muscles"
+      "Class": "Car"
     },
     "tulip": {
       "Name": "Tulip",
@@ -9052,7 +8794,7 @@
       "Price": 110000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Muscles"
+      "Class": "Car"
     },
     "tulip2": {
       "Name": "tulip2",
@@ -9060,7 +8802,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Muscles"
+      "Class": "Car"
     },
     "vamos": {
       "Name": "Vamos",
@@ -9068,7 +8810,7 @@
       "Price": 130000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Muscles"
+      "Class": "Car"
     },
     "vigero": {
       "Name": "Vigero",
@@ -9076,7 +8818,7 @@
       "Price": 70000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Muscles"
+      "Class": "Car"
     },
     "virgo": {
       "Name": "Virgo",
@@ -9084,7 +8826,7 @@
       "Price": 60000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Muscles"
+      "Class": "Car"
     },
     "virgo2": {
       "Name": "Virgo 2",
@@ -9092,7 +8834,7 @@
       "Price": 80000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Muscles"
+      "Class": "Car"
     },
     "virgo3": {
       "Name": "Virgo 3",
@@ -9100,7 +8842,7 @@
       "Price": 100000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Muscles"
+      "Class": "Car"
     },
     "voodoo": {
       "Name": "Voodoo",
@@ -9108,7 +8850,7 @@
       "Price": 70000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Muscles"
+      "Class": "Car"
     },
     "voodoo2": {
       "Name": "Voodoo 2",
@@ -9116,7 +8858,7 @@
       "Price": 60000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Muscles"
+      "Class": "Car"
     },
     "yosemite": {
       "Name": "Yosemite",
@@ -9124,7 +8866,7 @@
       "Price": 110000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Muscles"
+      "Class": "Car"
     },
     "yosemite2": {
       "Name": "Yosemite 2",
@@ -9132,7 +8874,7 @@
       "Price": 140000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Muscles"
+      "Class": "Car"
     },
     "yosemite3": {
       "Name": "Yosemite 3",
@@ -9140,7 +8882,7 @@
       "Price": 130000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Muscles"
+      "Class": "Car"
     },
     "dominator7": {
       "Name": "Dominator 7",
@@ -9148,7 +8890,7 @@
       "Price": 150000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Muscles"
+      "Class": "Car"
     },
     "bfinjection": {
       "Name": "Bfinjection",
@@ -9156,7 +8898,7 @@
       "Price": 50000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Off-Roads"
+      "Class": "Car"
     },
     "bifta": {
       "Name": "Bifta",
@@ -9164,7 +8906,7 @@
       "Price": 60000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Off-Roads"
+      "Class": "Car"
     },
     "blazer": {
       "Name": "Blazer",
@@ -9172,7 +8914,7 @@
       "Price": 90000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Off-Roads"
+      "Class": "Motorcycle"
     },
     "blazer2": {
       "Name": "Blazer 2",
@@ -9180,7 +8922,7 @@
       "Price": 1000,
       "Mode": "Work",
       "Gemstone": 0,
-      "Class": "Off-Roads"
+      "Class": "Motorcycle"
     },
     "blazer3": {
       "Name": "Blazer 3",
@@ -9188,7 +8930,7 @@
       "Price": 90000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Off-Roads"
+      "Class": "Motorcycle"
     },
     "blazer4": {
       "Name": "Blazer 4",
@@ -9196,7 +8938,7 @@
       "Price": 120000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Off-Roads"
+      "Class": "Motorcycle"
     },
     "blazer5": {
       "Name": "Blazer 5",
@@ -9204,7 +8946,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Off-Roads"
+      "Class": "Motorcycle"
     },
     "bodhi2": {
       "Name": "Bodhi 2",
@@ -9212,7 +8954,7 @@
       "Price": 60000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Off-Roads"
+      "Class": "Pickup"
     },
     "brawler": {
       "Name": "Brawler",
@@ -9220,7 +8962,7 @@
       "Price": 130000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Off-Roads"
+      "Class": "Car"
     },
     "bruiser": {
       "Name": "Bruiser",
@@ -9228,7 +8970,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Off-Roads"
+      "Class": "Pickup"
     },
     "bruiser2": {
       "Name": "Bruiser 2",
@@ -9236,7 +8978,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Off-Roads"
+      "Class": "Pickup"
     },
     "bruiser3": {
       "Name": "Bruiser 3",
@@ -9244,7 +8986,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Off-Roads"
+      "Class": "Pickup"
     },
     "brutus": {
       "Name": "Brutus",
@@ -9252,7 +8994,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Off-Roads"
+      "Class": "Van"
     },
     "brutus2": {
       "Name": "Brutus 2",
@@ -9260,7 +9002,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Off-Roads"
+      "Class": "Van"
     },
     "brutus3": {
       "Name": "Brutus 3",
@@ -9268,7 +9010,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Off-Roads"
+      "Class": "Van"
     },
     "caracara": {
       "Name": "Caracara",
@@ -9276,7 +9018,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Off-Roads"
+      "Class": "Pickup"
     },
     "caracara2": {
       "Name": "Caracara 2",
@@ -9284,7 +9026,7 @@
       "Price": 180000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Off-Roads"
+      "Class": "Pickup"
     },
     "dloader": {
       "Name": "Dloader",
@@ -9292,7 +9034,7 @@
       "Price": 70000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Off-Roads"
+      "Class": "Pickup"
     },
     "dubsta3": {
       "Name": "Dubsta 3",
@@ -9300,7 +9042,7 @@
       "Price": 140000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Off-Roads"
+      "Class": "Pickup"
     },
     "dune": {
       "Name": "Dune",
@@ -9308,7 +9050,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Off-Roads"
+      "Class": "Car"
     },
     "dune2": {
       "Name": "Dune 2",
@@ -9316,7 +9058,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Off-Roads"
+      "Class": "Car"
     },
     "dune3": {
       "Name": "Dune 3",
@@ -9324,7 +9066,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Off-Roads"
+      "Class": "Car"
     },
     "dune4": {
       "Name": "Dune 4",
@@ -9332,7 +9074,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Off-Roads"
+      "Class": "Car"
     },
     "dune5": {
       "Name": "Dune 5",
@@ -9340,7 +9082,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Off-Roads"
+      "Class": "Car"
     },
     "everon": {
       "Name": "Everon",
@@ -9348,7 +9090,7 @@
       "Price": 180000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Off-Roads"
+      "Class": "Pickup"
     },
     "freecrawler": {
       "Name": "Freecrawler",
@@ -9356,7 +9098,7 @@
       "Price": 150000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Off-Roads"
+      "Class": "Car"
     },
     "hellion": {
       "Name": "Hellion",
@@ -9364,7 +9106,7 @@
       "Price": 120000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Off-Roads"
+      "Class": "Car"
     },
     "insurgent": {
       "Name": "Insurgent",
@@ -9372,7 +9114,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Off-Roads"
+      "Class": "Pickup"
     },
     "insurgent2": {
       "Name": "Insurgent 2",
@@ -9380,7 +9122,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Off-Roads"
+      "Class": "Pickup"
     },
     "insurgent3": {
       "Name": "Insurgent 3",
@@ -9388,7 +9130,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Off-Roads"
+      "Class": "Pickup"
     },
     "kalahari": {
       "Name": "Kalahari",
@@ -9396,7 +9138,7 @@
       "Price": 60000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Off-Roads"
+      "Class": "Car"
     },
     "kamacho": {
       "Name": "Kamacho",
@@ -9404,7 +9146,7 @@
       "Price": 300000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Off-Roads"
+      "Class": "Pickup"
     },
     "marshall": {
       "Name": "Marshall",
@@ -9412,7 +9154,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Off-Roads"
+      "Class": "Pickup"
     },
     "mesa3": {
       "Name": "Mesa 3",
@@ -9420,7 +9162,7 @@
       "Price": 150000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Off-Roads"
+      "Class": "Car"
     },
     "monster": {
       "Name": "Monster",
@@ -9428,7 +9170,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Off-Roads"
+      "Class": "Pickup"
     },
     "monster3": {
       "Name": "Monster 3",
@@ -9436,7 +9178,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Off-Roads"
+      "Class": "Pickup"
     },
     "monster4": {
       "Name": "Monster 4",
@@ -9444,7 +9186,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Off-Roads"
+      "Class": "Pickup"
     },
     "monster5": {
       "Name": "Monster 5",
@@ -9452,7 +9194,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Off-Roads"
+      "Class": "Pickup"
     },
     "menacer": {
       "Name": "Menacer",
@@ -9460,7 +9202,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Off-Roads"
+      "Class": "Car"
     },
     "outlaw": {
       "Name": "Outlaw",
@@ -9468,7 +9210,7 @@
       "Price": 140000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Off-Roads"
+      "Class": "Car"
     },
     "nightshark": {
       "Name": "Nightshark",
@@ -9476,7 +9218,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Off-Roads"
+      "Class": "Car"
     },
     "rancherxl": {
       "Name": "Rancher XL",
@@ -9484,7 +9226,7 @@
       "Price": 100000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Off-Roads"
+      "Class": "Car"
     },
     "rancherxl2": {
       "Name": "Rancher XL2",
@@ -9492,7 +9234,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Off-Roads"
+      "Class": "Car"
     },
     "rebel": {
       "Name": "Rebel",
@@ -9500,7 +9242,7 @@
       "Price": 80000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Off-Roads"
+      "Class": "Pickup"
     },
     "rebel2": {
       "Name": "Rebel 2",
@@ -9508,7 +9250,7 @@
       "Price": 85000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Off-Roads"
+      "Class": "Pickup"
     },
     "rcbandito": {
       "Name": "RC Bandito",
@@ -9516,7 +9258,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Off-Roads"
+      "Class": "Pickup"
     },
     "riata": {
       "Name": "Riata",
@@ -9524,7 +9266,7 @@
       "Price": 90000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Off-Roads"
+      "Class": "Pickup"
     },
     "sandking": {
       "Name": "Sandking",
@@ -9532,7 +9274,7 @@
       "Price": 150000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Off-Roads"
+      "Class": "Pickup"
     },
     "sandking2": {
       "Name": "Sandking 2",
@@ -9540,7 +9282,7 @@
       "Price": 130000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Off-Roads"
+      "Class": "Pickup"
     },
     "technical": {
       "Name": "Technical",
@@ -9548,7 +9290,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Off-Roads"
+      "Class": "Pickup"
     },
     "technical2": {
       "Name": "Technical 2",
@@ -9556,7 +9298,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Off-Roads"
+      "Class": "Pickup"
     },
     "technical3": {
       "Name": "Technical 3",
@@ -9564,7 +9306,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Off-Roads"
+      "Class": "Pickup"
     },
     "trophytruck": {
       "Name": "Trophytruck",
@@ -9572,7 +9314,7 @@
       "Price": 140000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Off-Roads"
+      "Class": "Pickup"
     },
     "trophytruck2": {
       "Name": "Trophytruck 2",
@@ -9580,7 +9322,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Off-Roads"
+      "Class": "Pickup"
     },
     "vagrant": {
       "Name": "Vagrant",
@@ -9588,7 +9330,7 @@
       "Price": 210000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Off-Roads"
+      "Class": "Car"
     },
     "zhaba": {
       "Name": "Zhaba",
@@ -9596,7 +9338,7 @@
       "Price": 1000,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Off-Roads"
+      "Class": "Truck"
     },
     "verus": {
       "Name": "Verus",
@@ -9604,7 +9346,7 @@
       "Price": 10000,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Off-Roads"
+      "Class": "Motorcycle"
     },
     "winky": {
       "Name": "Winky",
@@ -9612,7 +9354,7 @@
       "Price": 10000,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Off-Roads"
+      "Class": "Pickup"
     },
     "formula": {
       "Name": "Formula",
@@ -9620,7 +9362,7 @@
       "Price": 1000,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Formula 1"
+      "Class": "Car"
     },
     "formula2": {
       "Name": "Formula 2",
@@ -9628,7 +9370,7 @@
       "Price": 1000,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Formula 1"
+      "Class": "Car"
     },
     "openwheel1": {
       "Name": "Openwheel 1",
@@ -9636,7 +9378,7 @@
       "Price": 1000,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Formula 1"
+      "Class": "Car"
     },
     "openwheel2": {
       "Name": "Openwheel 2",
@@ -9644,7 +9386,7 @@
       "Price": 1000,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Formula 1"
+      "Class": "Car"
     },
     "alphaz1": {
       "Name": "Alphaz 1",
@@ -9652,7 +9394,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Aviões"
+      "Class": "Airplane"
     },
     "avenger": {
       "Name": "Avenger",
@@ -9660,7 +9402,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Aviões"
+      "Class": "Airplane"
     },
     "avenger2": {
       "Name": "Avenger 2",
@@ -9668,7 +9410,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Aviões"
+      "Class": "Airplane"
     },
     "besra": {
       "Name": "Besra",
@@ -9676,7 +9418,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Aviões"
+      "Class": "Airplane"
     },
     "blimp": {
       "Name": "Blimp",
@@ -9684,7 +9426,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Aviões"
+      "Class": "Airplane"
     },
     "blimp2": {
       "Name": "Blimp 2",
@@ -9692,7 +9434,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Aviões"
+      "Class": "Airplane"
     },
     "blimp3": {
       "Name": "Blimp 3",
@@ -9700,7 +9442,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Aviões"
+      "Class": "Airplane"
     },
     "bombushka": {
       "Name": "Bombushka",
@@ -9708,7 +9450,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Aviões"
+      "Class": "Airplane"
     },
     "cargoplane": {
       "Name": "Cargoplane",
@@ -9716,7 +9458,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Aviões"
+      "Class": "Airplane"
     },
     "cargoplane2": {
       "Name": "cargoplane2",
@@ -9724,7 +9466,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Aviões"
+      "Class": "Airplane"
     },
     "cuban800": {
       "Name": "Cuban800",
@@ -9732,7 +9474,7 @@
       "Price": 2000,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Aviões"
+      "Class": "Airplane"
     },
     "dodo": {
       "Name": "Dodo",
@@ -9740,7 +9482,7 @@
       "Price": 2000,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Aviões"
+      "Class": "Airplane"
     },
     "duster": {
       "Name": "Duster",
@@ -9748,7 +9490,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Aviões"
+      "Class": "Airplane"
     },
     "howard": {
       "Name": "Howard",
@@ -9756,7 +9498,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Aviões"
+      "Class": "Airplane"
     },
     "hydra": {
       "Name": "Hydra",
@@ -9764,7 +9506,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Aviões"
+      "Class": "Airplane"
     },
     "jet": {
       "Name": "Jet",
@@ -9772,7 +9514,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Aviões"
+      "Class": "Airplane"
     },
     "lazer": {
       "Name": "Lazer",
@@ -9780,7 +9522,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Aviões"
+      "Class": "Airplane"
     },
     "luxor": {
       "Name": "Luxor",
@@ -9788,7 +9530,7 @@
       "Price": 2000,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Aviões"
+      "Class": "Airplane"
     },
     "luxor2": {
       "Name": "Luxor 2",
@@ -9796,7 +9538,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Aviões"
+      "Class": "Airplane"
     },
     "mammatus": {
       "Name": "Mammatus",
@@ -9804,7 +9546,7 @@
       "Price": 2000,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Aviões"
+      "Class": "Airplane"
     },
     "microlight": {
       "Name": "Microlight",
@@ -9812,7 +9554,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Aviões"
+      "Class": "Airplane"
     },
     "miljet": {
       "Name": "Miljet",
@@ -9820,7 +9562,7 @@
       "Price": 2000,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Aviões"
+      "Class": "Airplane"
     },
     "mogul": {
       "Name": "Mogul",
@@ -9828,7 +9570,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Aviões"
+      "Class": "Airplane"
     },
     "molotok": {
       "Name": "Molotok",
@@ -9836,7 +9578,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Aviões"
+      "Class": "Airplane"
     },
     "nimbus": {
       "Name": "Nimbus",
@@ -9844,7 +9586,7 @@
       "Price": 2000,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Aviões"
+      "Class": "Airplane"
     },
     "nokota": {
       "Name": "Nokota",
@@ -9852,7 +9594,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Aviões"
+      "Class": "Airplane"
     },
     "pyro": {
       "Name": "Pyro",
@@ -9860,7 +9602,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Aviões"
+      "Class": "Airplane"
     },
     "rogue": {
       "Name": "Rogue",
@@ -9868,7 +9610,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Aviões"
+      "Class": "Airplane"
     },
     "seabreeze": {
       "Name": "Seabreeze",
@@ -9876,7 +9618,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Aviões"
+      "Class": "Airplane"
     },
     "shamal": {
       "Name": "Shamal",
@@ -9884,7 +9626,7 @@
       "Price": 2000,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Aviões"
+      "Class": "Airplane"
     },
     "starling": {
       "Name": "Starling",
@@ -9892,7 +9634,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Aviões"
+      "Class": "Airplane"
     },
     "strikeforce": {
       "Name": "Strikeforce",
@@ -9900,7 +9642,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Aviões"
+      "Class": "Airplane"
     },
     "stunt": {
       "Name": "Stunt",
@@ -9908,7 +9650,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Aviões"
+      "Class": "Airplane"
     },
     "titan": {
       "Name": "Titan",
@@ -9916,7 +9658,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Aviões"
+      "Class": "Airplane"
     },
     "tula": {
       "Name": "Tula",
@@ -9924,7 +9666,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Aviões"
+      "Class": "Airplane"
     },
     "velum": {
       "Name": "Velum",
@@ -9932,7 +9674,7 @@
       "Price": 2000,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Aviões"
+      "Class": "Airplane"
     },
     "velum2": {
       "Name": "Velum 2",
@@ -9940,7 +9682,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Aviões"
+      "Class": "Airplane"
     },
     "vestra": {
       "Name": "Vestra",
@@ -9948,7 +9690,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Aviões"
+      "Class": "Airplane"
     },
     "volatol": {
       "Name": "Volatol",
@@ -9956,7 +9698,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Aviões"
+      "Class": "Airplane"
     },
     "alkonost": {
       "Name": "Alkonost",
@@ -9964,7 +9706,7 @@
       "Price": 10000,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Aviões"
+      "Class": "Airplane"
     },
     "baller": {
       "Name": "Baller",
@@ -9972,7 +9714,7 @@
       "Price": 90000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "SUVs"
+      "Class": "Car"
     },
     "baller2": {
       "Name": "Baller 2",
@@ -9980,7 +9722,7 @@
       "Price": 100000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "SUVs"
+      "Class": "Car"
     },
     "baller3": {
       "Name": "Baller 3",
@@ -9988,7 +9730,7 @@
       "Price": 110000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "SUVs"
+      "Class": "Car"
     },
     "baller4": {
       "Name": "Baller 4",
@@ -9996,7 +9738,7 @@
       "Price": 130000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "SUVs"
+      "Class": "Car"
     },
     "baller5": {
       "Name": "Baller 5",
@@ -10004,7 +9746,7 @@
       "Price": 400000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "SUVs"
+      "Class": "Car"
     },
     "baller6": {
       "Name": "Baller 6",
@@ -10012,7 +9754,7 @@
       "Price": 410000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "SUVs"
+      "Class": "Car"
     },
     "bjxl": {
       "Name": "Bjxl",
@@ -10020,7 +9762,7 @@
       "Price": 70000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "SUVs"
+      "Class": "Car"
     },
     "cavalcade": {
       "Name": "Cavalcade",
@@ -10028,7 +9770,7 @@
       "Price": 60000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "SUVs"
+      "Class": "Car"
     },
     "cavalcade2": {
       "Name": "Cavalcade 2",
@@ -10036,7 +9778,7 @@
       "Price": 70000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "SUVs"
+      "Class": "Car"
     },
     "contender": {
       "Name": "Contender",
@@ -10044,7 +9786,7 @@
       "Price": 180000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "SUVs"
+      "Class": "Car"
     },
     "dubsta": {
       "Name": "Dubsta",
@@ -10052,7 +9794,7 @@
       "Price": 110000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "SUVs"
+      "Class": "Car"
     },
     "dubsta2": {
       "Name": "Dubsta 2",
@@ -10060,7 +9802,7 @@
       "Price": 130000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "SUVs"
+      "Class": "Car"
     },
     "fq2": {
       "Name": "Fq2",
@@ -10068,7 +9810,7 @@
       "Price": 60000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "SUVs"
+      "Class": "Car"
     },
     "granger": {
       "Name": "Granger",
@@ -10076,7 +9818,7 @@
       "Price": 130000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "SUVs"
+      "Class": "Car"
     },
     "gresley": {
       "Name": "Gresley",
@@ -10084,7 +9826,7 @@
       "Price": 70000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "SUVs"
+      "Class": "Car"
     },
     "habanero": {
       "Name": "Habanero",
@@ -10092,7 +9834,7 @@
       "Price": 70000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "SUVs"
+      "Class": "Car"
     },
     "huntley": {
       "Name": "Huntley",
@@ -10100,7 +9842,7 @@
       "Price": 70000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "SUVs"
+      "Class": "Car"
     },
     "issi8": {
       "Name": "issi8",
@@ -10108,7 +9850,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "SUVs"
+      "Class": "Car"
     },
     "landstalker": {
       "Name": "Landstalker",
@@ -10116,7 +9858,7 @@
       "Price": 80000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "SUVs"
+      "Class": "Car"
     },
     "landstalker2": {
       "Name": "Landstalker 2",
@@ -10124,7 +9866,7 @@
       "Price": 150000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "SUVs"
+      "Class": "Car"
     },
     "mesa": {
       "Name": "Mesa",
@@ -10132,7 +9874,7 @@
       "Price": 80000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "SUVs"
+      "Class": "Car"
     },
     "mesa2": {
       "Name": "Mesa 2",
@@ -10140,7 +9882,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "SUVs"
+      "Class": "Car"
     },
     "novak": {
       "Name": "Novak",
@@ -10148,7 +9890,7 @@
       "Price": 150000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "SUVs"
+      "Class": "Car"
     },
     "patriot": {
       "Name": "Patriot",
@@ -10156,7 +9898,7 @@
       "Price": 100000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "SUVs"
+      "Class": "Car"
     },
     "patriot2": {
       "Name": "Patriot 2",
@@ -10164,7 +9906,7 @@
       "Price": 170000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "SUVs"
+      "Class": "Car"
     },
     "radi": {
       "Name": "Radi",
@@ -10172,7 +9914,7 @@
       "Price": 70000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "SUVs"
+      "Class": "Car"
     },
     "rebla": {
       "Name": "Rebla",
@@ -10180,7 +9922,7 @@
       "Price": 140000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "SUVs"
+      "Class": "Car"
     },
     "rocoto": {
       "Name": "Rocoto",
@@ -10188,7 +9930,7 @@
       "Price": 70000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "SUVs"
+      "Class": "Car"
     },
     "seminole": {
       "Name": "Seminole",
@@ -10196,7 +9938,7 @@
       "Price": 70000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "SUVs"
+      "Class": "Car"
     },
     "seminole2": {
       "Name": "Seminole 2",
@@ -10204,7 +9946,7 @@
       "Price": 90000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "SUVs"
+      "Class": "Car"
     },
     "serrano": {
       "Name": "Serrano",
@@ -10212,7 +9954,7 @@
       "Price": 70000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "SUVs"
+      "Class": "Car"
     },
     "toros": {
       "Name": "Toros",
@@ -10220,7 +9962,7 @@
       "Price": 160000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "SUVs"
+      "Class": "Car"
     },
     "xls": {
       "Name": "Xls",
@@ -10228,7 +9970,7 @@
       "Price": 70000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "SUVs"
+      "Class": "Car"
     },
     "xls2": {
       "Name": "Xls 2",
@@ -10236,7 +9978,7 @@
       "Price": 410000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "SUVs"
+      "Class": "Car"
     },
     "squaddie": {
       "Name": "Squaddie",
@@ -10244,7 +9986,7 @@
       "Price": 10000,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "SUVs"
+      "Class": "Pickup"
     },
     "asea": {
       "Name": "Asea",
@@ -10252,7 +9994,7 @@
       "Price": 50000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Sedans"
+      "Class": "Car"
     },
     "asea2": {
       "Name": "Asea 2",
@@ -10260,7 +10002,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Sedans"
+      "Class": "Car"
     },
     "asterope": {
       "Name": "Asterope",
@@ -10268,7 +10010,7 @@
       "Price": 30000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Sedans"
+      "Class": "Car"
     },
     "cog55": {
       "Name": "Cog55",
@@ -10276,7 +10018,7 @@
       "Price": 100000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Sedans"
+      "Class": "Car"
     },
     "cog552": {
       "Name": "Cog55 2",
@@ -10284,7 +10026,7 @@
       "Price": 410000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Sedans"
+      "Class": "Car"
     },
     "cognoscenti": {
       "Name": "Cognoscenti",
@@ -10292,7 +10034,7 @@
       "Price": 130000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Sedans"
+      "Class": "Car"
     },
     "cognoscenti2": {
       "Name": "Cognoscenti 2",
@@ -10300,7 +10042,7 @@
       "Price": 400000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Sedans"
+      "Class": "Car"
     },
     "emperor": {
       "Name": "Emperor",
@@ -10308,7 +10050,7 @@
       "Price": 5000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Sedans"
+      "Class": "Car"
     },
     "emperor2": {
       "Name": "Emperor 2",
@@ -10316,7 +10058,7 @@
       "Price": 2000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Sedans"
+      "Class": "Car"
     },
     "emperor3": {
       "Name": "Emperor 3",
@@ -10324,7 +10066,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Sedans"
+      "Class": "Car"
     },
     "fugitive": {
       "Name": "Fugitive",
@@ -10332,7 +10074,7 @@
       "Price": 110000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Sedans"
+      "Class": "Car"
     },
     "glendale": {
       "Name": "Glendale",
@@ -10340,7 +10082,7 @@
       "Price": 80000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Sedans"
+      "Class": "Car"
     },
     "glendale2": {
       "Name": "Glendale 2",
@@ -10348,7 +10090,7 @@
       "Price": 120000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Sedans"
+      "Class": "Car"
     },
     "ingot": {
       "Name": "Ingot",
@@ -10356,7 +10098,7 @@
       "Price": 15000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Sedans"
+      "Class": "Car"
     },
     "intruder": {
       "Name": "Intruder",
@@ -10364,7 +10106,7 @@
       "Price": 70000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Sedans"
+      "Class": "Car"
     },
     "limo2": {
       "Name": "Limo 2",
@@ -10372,7 +10114,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Sedans"
+      "Class": "Car"
     },
     "premier": {
       "Name": "Premier",
@@ -10380,7 +10122,7 @@
       "Price": 70000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Sedans"
+      "Class": "Car"
     },
     "primo": {
       "Name": "Primo",
@@ -10388,7 +10130,7 @@
       "Price": 80000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Sedans"
+      "Class": "Car"
     },
     "primo2": {
       "Name": "Primo 2",
@@ -10396,7 +10138,7 @@
       "Price": 80000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Sedans"
+      "Class": "Car"
     },
     "regina": {
       "Name": "Regina",
@@ -10404,7 +10146,7 @@
       "Price": 50000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Sedans"
+      "Class": "Car"
     },
     "romero": {
       "Name": "Romero",
@@ -10412,7 +10154,7 @@
       "Price": 50000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Sedans"
+      "Class": "Car"
     },
     "stafford": {
       "Name": "Stafford",
@@ -10420,7 +10162,7 @@
       "Price": 110000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Sedans"
+      "Class": "Car"
     },
     "stanier": {
       "Name": "Stanier",
@@ -10428,7 +10170,7 @@
       "Price": 50000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Sedans"
+      "Class": "Car"
     },
     "stratum": {
       "Name": "Stratum",
@@ -10436,7 +10178,7 @@
       "Price": 40000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Sedans"
+      "Class": "Car"
     },
     "stretch": {
       "Name": "Stretch",
@@ -10444,7 +10186,7 @@
       "Price": 100000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Sedans"
+      "Class": "Car"
     },
     "superd": {
       "Name": "Superd",
@@ -10452,7 +10194,7 @@
       "Price": 90000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Sedans"
+      "Class": "Car"
     },
     "surge": {
       "Name": "Surge",
@@ -10460,7 +10202,7 @@
       "Price": 100000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Sedans"
+      "Class": "Car"
     },
     "tailgater": {
       "Name": "Tailgater",
@@ -10468,7 +10210,7 @@
       "Price": 110000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Sedans"
+      "Class": "Car"
     },
     "warrener": {
       "Name": "Warrener",
@@ -10476,7 +10218,7 @@
       "Price": 80000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Sedans"
+      "Class": "Car"
     },
     "washington": {
       "Name": "Washington",
@@ -10484,7 +10226,7 @@
       "Price": 50000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Sedans"
+      "Class": "Car"
     },
     "tailgater2": {
       "Name": "Tailgater 2",
@@ -10492,7 +10234,7 @@
       "Price": 170000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Sedans"
+      "Class": "Car"
     },
     "airbus": {
       "Name": "Airbus",
@@ -10500,7 +10242,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Serviços"
+      "Class": "Bus"
     },
     "brickade": {
       "Name": "Brickade",
@@ -10508,7 +10250,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Serviços"
+      "Class": "Truck"
     },
     "bus": {
       "Name": "Bus",
@@ -10516,7 +10258,7 @@
       "Price": 1000,
       "Mode": "Work",
       "Gemstone": 0,
-      "Class": "Serviços"
+      "Class": "Bus"
     },
     "coach": {
       "Name": "Coach",
@@ -10524,7 +10266,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Serviços"
+      "Class": "Bus"
     },
     "pbus2": {
       "Name": "Pbus 2",
@@ -10532,7 +10274,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Serviços"
+      "Class": "Bus"
     },
     "rallytruck": {
       "Name": "Rally Truck",
@@ -10540,7 +10282,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Serviços"
+      "Class": "Truck"
     },
     "rentalbus": {
       "Name": "Rental Bus",
@@ -10548,7 +10290,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Serviços"
+      "Class": "Bus"
     },
     "taxi": {
       "Name": "Taxi",
@@ -10556,7 +10298,7 @@
       "Price": 1000,
       "Mode": "Work",
       "Gemstone": 0,
-      "Class": "Serviços"
+      "Class": "Car"
     },
     "tourbus": {
       "Name": "Tour Bus",
@@ -10564,7 +10306,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Serviços"
+      "Class": "Bus"
     },
     "trash": {
       "Name": "Trash",
@@ -10572,7 +10314,7 @@
       "Price": 1000,
       "Mode": "Work",
       "Gemstone": 0,
-      "Class": "Serviços"
+      "Class": "Truck"
     },
     "trash2": {
       "Name": "Trash 2",
@@ -10580,7 +10322,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Serviços"
+      "Class": "Truck"
     },
     "wastelander": {
       "Name": "Wastelander",
@@ -10588,7 +10330,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Serviços"
+      "Class": "Truck"
     },
     "alpha": {
       "Name": "Alpha",
@@ -10596,7 +10338,7 @@
       "Price": 70000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "banshee": {
       "Name": "Banshee",
@@ -10604,7 +10346,7 @@
       "Price": 150000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "bestiagts": {
       "Name": "Bestia GTS",
@@ -10612,7 +10354,7 @@
       "Price": 150000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "blista2": {
       "Name": "Blista 2",
@@ -10620,7 +10362,7 @@
       "Price": 50000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "blista3": {
       "Name": "Blista 3",
@@ -10628,7 +10370,7 @@
       "Price": 60000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "buffalo": {
       "Name": "Buffalo",
@@ -10636,7 +10378,7 @@
       "Price": 90000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "buffalo2": {
       "Name": "Buffalo 2",
@@ -10644,7 +10386,7 @@
       "Price": 100000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "buffalo3": {
       "Name": "Buffalo 3",
@@ -10652,7 +10394,7 @@
       "Price": 110000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "carbonizzare": {
       "Name": "Carbonizzare",
@@ -10660,7 +10402,7 @@
       "Price": 70000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "comet2": {
       "Name": "Comet 2",
@@ -10668,7 +10410,7 @@
       "Price": 110000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "comet3": {
       "Name": "Comet 3",
@@ -10676,7 +10418,7 @@
       "Price": 120000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "comet4": {
       "Name": "Comet 4",
@@ -10684,7 +10426,7 @@
       "Price": 140000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "comet5": {
       "Name": "Comet 5",
@@ -10692,7 +10434,7 @@
       "Price": 150000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "coquette": {
       "Name": "Coquette",
@@ -10700,7 +10442,7 @@
       "Price": 130000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "coquette4": {
       "Name": "Coquette 4",
@@ -10708,7 +10450,7 @@
       "Price": 210000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "drafter": {
       "Name": "Drafter",
@@ -10716,7 +10458,7 @@
       "Price": 160000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "deveste": {
       "Name": "Deveste",
@@ -10724,7 +10466,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "elegy": {
       "Name": "Elegy",
@@ -10732,7 +10474,7 @@
       "Price": 140000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "elegy2": {
       "Name": "Elegy 2",
@@ -10740,7 +10482,7 @@
       "Price": 140000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "everon2": {
       "Name": "Everon2",
@@ -10748,7 +10490,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "feltzer2": {
       "Name": "Feltzer 2",
@@ -10756,7 +10498,7 @@
       "Price": 150000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "flashgt": {
       "Name": "Flash GT",
@@ -10764,7 +10506,7 @@
       "Price": 140000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "furoregt": {
       "Name": "Furore GT",
@@ -10772,7 +10514,7 @@
       "Price": 80000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "fusilade": {
       "Name": "Fusilade",
@@ -10780,7 +10522,7 @@
       "Price": 70000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "futo": {
       "Name": "Futo",
@@ -10788,7 +10530,7 @@
       "Price": 90000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "gb200": {
       "Name": "Gb200",
@@ -10796,7 +10538,7 @@
       "Price": 110000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "hotring": {
       "Name": "Hotring",
@@ -10804,7 +10546,7 @@
       "Price": 130000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "komoda": {
       "Name": "Komoda",
@@ -10812,7 +10554,7 @@
       "Price": 200000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "imorgon": {
       "Name": "Imorgon",
@@ -10820,7 +10562,7 @@
       "Price": 200000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "issi7": {
       "Name": "Issi 7",
@@ -10828,7 +10570,7 @@
       "Price": 170000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "italigto": {
       "Name": "Itali GTO",
@@ -10836,7 +10578,7 @@
       "Price": 220000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "jugular": {
       "Name": "Jugular",
@@ -10844,7 +10586,7 @@
       "Price": 180000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "jester": {
       "Name": "Jester",
@@ -10852,7 +10594,7 @@
       "Price": 130000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "jester2": {
       "Name": "Jester 2",
@@ -10860,7 +10602,7 @@
       "Price": 130000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "jester3": {
       "Name": "Jester 3",
@@ -10868,7 +10610,7 @@
       "Price": 130000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "khamelion": {
       "Name": "Khamelion",
@@ -10876,7 +10618,7 @@
       "Price": 140000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "kuruma": {
       "Name": "Kuruma",
@@ -10884,7 +10626,7 @@
       "Price": 150000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "kuruma2": {
       "Name": "Kuruma 2",
@@ -10892,7 +10634,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "locust": {
       "Name": "Locust",
@@ -10900,7 +10642,7 @@
       "Price": 150000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "lynx": {
       "Name": "Lynx",
@@ -10908,7 +10650,7 @@
       "Price": 100000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "massacro": {
       "Name": "Massacro",
@@ -10916,7 +10658,7 @@
       "Price": 150000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "massacro2": {
       "Name": "Massacro 2",
@@ -10924,7 +10666,7 @@
       "Price": 160000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "neo": {
       "Name": "Neo",
@@ -10932,7 +10674,7 @@
       "Price": 170000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "neon": {
       "Name": "Neon",
@@ -10940,7 +10682,7 @@
       "Price": 230000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "ninef": {
       "Name": "Ninef",
@@ -10948,7 +10690,7 @@
       "Price": 130000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "ninef2": {
       "Name": "Ninef 2",
@@ -10956,7 +10698,7 @@
       "Price": 150000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "omnis": {
       "Name": "Omnis",
@@ -10964,7 +10706,7 @@
       "Price": 110000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "paragon": {
       "Name": "Paragon",
@@ -10972,7 +10714,7 @@
       "Price": 160000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "paragon2": {
       "Name": "Paragon 2",
@@ -10980,7 +10722,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "pariah": {
       "Name": "Pariah",
@@ -10988,7 +10730,7 @@
       "Price": 170000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "panthere": {
       "Name": "panthere",
@@ -10996,7 +10738,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "penumbra": {
       "Name": "Penumbra",
@@ -11004,7 +10746,7 @@
       "Price": 150000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "penumbra2": {
       "Name": "Penumbra 2",
@@ -11012,7 +10754,7 @@
       "Price": 210000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "r300": {
       "Name": "r300",
@@ -11020,7 +10762,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "raiden": {
       "Name": "Raiden",
@@ -11028,7 +10770,7 @@
       "Price": 210000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "rapidgt": {
       "Name": "Rapid GT",
@@ -11036,7 +10778,7 @@
       "Price": 130000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "rapidgt2": {
       "Name": "Rapidgt GT2",
@@ -11044,7 +10786,7 @@
       "Price": 160000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "raptor": {
       "Name": "Raptor",
@@ -11052,7 +10794,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "revolter": {
       "Name": "Revolter",
@@ -11060,7 +10802,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "ruston": {
       "Name": "Ruston",
@@ -11068,7 +10810,7 @@
       "Price": 150000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "schafter2": {
       "Name": "Schafter 2",
@@ -11076,7 +10818,7 @@
       "Price": 80000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "schafter3": {
       "Name": "Schafter 3",
@@ -11084,7 +10826,7 @@
       "Price": 110000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "schafter4": {
       "Name": "Schafter 4",
@@ -11092,7 +10834,7 @@
       "Price": 130000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "schafter5": {
       "Name": "Schafter 5",
@@ -11100,7 +10842,7 @@
       "Price": 400000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "schafter6": {
       "Name": "Schafter 6",
@@ -11108,7 +10850,7 @@
       "Price": 320000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "schlagen": {
       "Name": "Schlagen",
@@ -11116,7 +10858,7 @@
       "Price": 150000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "schwarzer": {
       "Name": "Schwarzer",
@@ -11124,7 +10866,7 @@
       "Price": 130000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "sentinel3": {
       "Name": "Sentinel 3",
@@ -11132,7 +10874,7 @@
       "Price": 130000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "seven70": {
       "Name": "Seven 70",
@@ -11140,7 +10882,7 @@
       "Price": 150000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "specter": {
       "Name": "Specter",
@@ -11148,7 +10890,7 @@
       "Price": 130000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "specter2": {
       "Name": "Specter 2",
@@ -11156,7 +10898,7 @@
       "Price": 150000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "streiter": {
       "Name": "Streiter",
@@ -11164,7 +10906,7 @@
       "Price": 70000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "sugoi": {
       "Name": "Sugoi",
@@ -11172,7 +10914,7 @@
       "Price": 140000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "sultan": {
       "Name": "Sultan",
@@ -11180,7 +10922,7 @@
       "Price": 140000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "sultan2": {
       "Name": "Sultan 2",
@@ -11188,7 +10930,7 @@
       "Price": 180000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "surano": {
       "Name": "Surano",
@@ -11196,7 +10938,7 @@
       "Price": 70000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "tampa2": {
       "Name": "Tampa 2",
@@ -11204,7 +10946,7 @@
       "Price": 110000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "tropos": {
       "Name": "Tropos",
@@ -11212,7 +10954,7 @@
       "Price": 130000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "verlierer2": {
       "Name": "Verlierer 2",
@@ -11220,7 +10962,7 @@
       "Price": 180000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "vstr": {
       "Name": "Vstr",
@@ -11228,7 +10970,7 @@
       "Price": 150000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "zr380": {
       "Name": "Zr380",
@@ -11236,7 +10978,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "zr3802": {
       "Name": "Zr380 2",
@@ -11244,7 +10986,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "zr3803": {
       "Name": "Zr380 3",
@@ -11252,7 +10994,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "italirsx": {
       "Name": "Itali RSX",
@@ -11260,7 +11002,7 @@
       "Price": 280000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "veto": {
       "Name": "Veto",
@@ -11268,7 +11010,7 @@
       "Price": 20000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "veto2": {
       "Name": "Veto 2",
@@ -11276,7 +11018,7 @@
       "Price": 20000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "zr350": {
       "Name": "ZR 350",
@@ -11284,7 +11026,7 @@
       "Price": 160000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "calico": {
       "Name": "Calico",
@@ -11292,7 +11034,7 @@
       "Price": 240000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "futo2": {
       "Name": "Futo 2",
@@ -11300,7 +11042,7 @@
       "Price": 110000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "euros": {
       "Name": "Euros",
@@ -11308,7 +11050,7 @@
       "Price": 150000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "jester4": {
       "Name": "Jester 4",
@@ -11316,7 +11058,7 @@
       "Price": 210000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "remus": {
       "Name": "Remus",
@@ -11324,7 +11066,7 @@
       "Price": 170000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "comet6": {
       "Name": "Comet 6",
@@ -11332,7 +11074,7 @@
       "Price": 190000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "comet7": {
       "Name": "Comet 7",
@@ -11340,7 +11082,7 @@
       "Price": 320000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "growler": {
       "Name": "Growler",
@@ -11348,7 +11090,7 @@
       "Price": 200000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "vectre": {
       "Name": "Vectre",
@@ -11356,7 +11098,7 @@
       "Price": 210000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "cypher": {
       "Name": "Cypher",
@@ -11364,7 +11106,7 @@
       "Price": 260000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "sultan3": {
       "Name": "Sultan 3",
@@ -11372,7 +11114,7 @@
       "Price": 250000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "rt3000": {
       "Name": "RT 3000",
@@ -11380,7 +11122,7 @@
       "Price": 140000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "ardent": {
       "Name": "Ardent",
@@ -11388,7 +11130,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "btype": {
       "Name": "Btype",
@@ -11396,7 +11138,7 @@
       "Price": 100000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "btype2": {
       "Name": "Btype 2",
@@ -11404,7 +11146,7 @@
       "Price": 130000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "btype3": {
       "Name": "Btype 3",
@@ -11412,7 +11154,7 @@
       "Price": 140000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "casco": {
       "Name": "Casco",
@@ -11420,7 +11162,7 @@
       "Price": 120000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "cheetah2": {
       "Name": "Cheetah 2",
@@ -11428,7 +11170,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "coquette2": {
       "Name": "Coquette 2",
@@ -11436,7 +11178,7 @@
       "Price": 130000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "deluxo": {
       "Name": "Deluxo",
@@ -11444,7 +11186,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "dynasty": {
       "Name": "Dynasty",
@@ -11452,7 +11194,7 @@
       "Price": 130000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "fagaloa": {
       "Name": "Fagaloa",
@@ -11460,7 +11202,7 @@
       "Price": 130000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "feltzer3": {
       "Name": "Feltzer 3",
@@ -11468,7 +11210,7 @@
       "Price": 120000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "gt500": {
       "Name": "GT 500",
@@ -11476,7 +11218,7 @@
       "Price": 110000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "infernus2": {
       "Name": "Infernus 2",
@@ -11484,7 +11226,7 @@
       "Price": 180000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "jb700": {
       "Name": "JB 700",
@@ -11492,7 +11234,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "jb7002": {
       "Name": "JB 7002",
@@ -11500,7 +11242,7 @@
       "Price": 1000,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "mamba": {
       "Name": "Mamba",
@@ -11508,7 +11250,7 @@
       "Price": 140000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "manana": {
       "Name": "Manana",
@@ -11516,7 +11258,7 @@
       "Price": 60000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "manana2": {
       "Name": "Manana 2",
@@ -11524,7 +11266,7 @@
       "Price": 80000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "michelli": {
       "Name": "Michelli",
@@ -11532,7 +11274,7 @@
       "Price": 90000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "monroe": {
       "Name": "Monroe",
@@ -11540,7 +11282,7 @@
       "Price": 120000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "nebula": {
       "Name": "Nebula",
@@ -11548,7 +11290,7 @@
       "Price": 130000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "peyote": {
       "Name": "Peyote",
@@ -11556,7 +11298,7 @@
       "Price": 60000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "peyote3": {
       "Name": "Peyote 3",
@@ -11564,7 +11306,7 @@
       "Price": 90000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "pigalle": {
       "Name": "Pigalle",
@@ -11572,7 +11314,7 @@
       "Price": 80000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "rapidgt3": {
       "Name": "Rapid GT3",
@@ -11580,7 +11322,7 @@
       "Price": 120000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "retinue": {
       "Name": "Retinue",
@@ -11588,7 +11330,7 @@
       "Price": 100000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "retinue2": {
       "Name": "Retinue 2",
@@ -11596,7 +11338,7 @@
       "Price": 150000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "savestra": {
       "Name": "Savestra",
@@ -11604,7 +11346,7 @@
       "Price": 130000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "stinger": {
       "Name": "Stinger",
@@ -11612,7 +11354,7 @@
       "Price": 100000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "stingergt": {
       "Name": "Stinger GT",
@@ -11620,7 +11362,7 @@
       "Price": 120000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "stromberg": {
       "Name": "Stromberg",
@@ -11628,7 +11370,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "swinger": {
       "Name": "Swinger",
@@ -11636,7 +11378,7 @@
       "Price": 120000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "torero": {
       "Name": "Torero",
@@ -11644,7 +11386,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "tornado": {
       "Name": "Tornado",
@@ -11652,7 +11394,7 @@
       "Price": 70000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "tornado2": {
       "Name": "Tornado 2",
@@ -11660,7 +11402,7 @@
       "Price": 90000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "tornado3": {
       "Name": "Tornado 3",
@@ -11668,7 +11410,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "tornado4": {
       "Name": "Tornado 4",
@@ -11676,7 +11418,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "tornado5": {
       "Name": "Tornado 5",
@@ -11684,7 +11426,7 @@
       "Price": 90000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "tornado6": {
       "Name": "Tornado 6",
@@ -11692,7 +11434,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "turismo2": {
       "Name": "Turismo 2",
@@ -11700,7 +11442,7 @@
       "Price": 180000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "viseris": {
       "Name": "Viseris",
@@ -11708,7 +11450,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "z190": {
       "Name": "Z190",
@@ -11716,7 +11458,7 @@
       "Price": 110000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "ztype": {
       "Name": "Ztype",
@@ -11724,7 +11466,7 @@
       "Price": 250000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "zion3": {
       "Name": "Zion 3",
@@ -11732,7 +11474,7 @@
       "Price": 130000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "cheburek": {
       "Name": "Cheburek",
@@ -11740,7 +11482,7 @@
       "Price": 80000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "toreador": {
       "Name": "Toreador",
@@ -11748,7 +11490,7 @@
       "Price": 10000,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "adder": {
       "Name": "Adder",
@@ -11756,7 +11498,7 @@
       "Price": 190000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Clássicos"
+      "Class": "Car"
     },
     "autarch": {
       "Name": "Autarch",
@@ -11764,7 +11506,7 @@
       "Price": 240000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Clássicos"
+      "Class": "Car"
     },
     "banshee2": {
       "Name": "Banshee 2",
@@ -11772,7 +11514,7 @@
       "Price": 190000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Clássicos"
+      "Class": "Car"
     },
     "bullet": {
       "Name": "Bullet",
@@ -11780,7 +11522,7 @@
       "Price": 150000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Clássicos"
+      "Class": "Car"
     },
     "cheetah": {
       "Name": "Cheetah",
@@ -11788,7 +11530,7 @@
       "Price": 170000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Clássicos"
+      "Class": "Car"
     },
     "cyclone": {
       "Name": "Cyclone",
@@ -11796,7 +11538,7 @@
       "Price": 300000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Clássicos"
+      "Class": "Car"
     },
     "entity2": {
       "Name": "Entity 2",
@@ -11804,7 +11546,7 @@
       "Price": 220000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Clássicos"
+      "Class": "Car"
     },
     "entity3": {
       "Name": "entity3",
@@ -11812,7 +11554,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Clássicos"
+      "Class": "Car"
     },
     "entityxf": {
       "Name": "Entity XF",
@@ -11820,7 +11562,7 @@
       "Price": 250000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Clássicos"
+      "Class": "Car"
     },
     "emerus": {
       "Name": "Emerus",
@@ -11828,7 +11570,7 @@
       "Price": 200000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Clássicos"
+      "Class": "Car"
     },
     "fmj": {
       "Name": "Fmj",
@@ -11836,7 +11578,7 @@
       "Price": 180000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Clássicos"
+      "Class": "Car"
     },
     "furia": {
       "Name": "Furia",
@@ -11844,7 +11586,7 @@
       "Price": 300000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Clássicos"
+      "Class": "Car"
     },
     "gp1": {
       "Name": "Gp1",
@@ -11852,7 +11594,7 @@
       "Price": 200000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Clássicos"
+      "Class": "Car"
     },
     "infernus": {
       "Name": "Infernus",
@@ -11860,7 +11602,7 @@
       "Price": 130000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Clássicos"
+      "Class": "Car"
     },
     "italigtb": {
       "Name": "Italigtb",
@@ -11868,7 +11610,7 @@
       "Price": 200000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Clássicos"
+      "Class": "Car"
     },
     "italigtb2": {
       "Name": "Italigtb 2",
@@ -11876,7 +11618,7 @@
       "Price": 200000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Clássicos"
+      "Class": "Car"
     },
     "krieger": {
       "Name": "Krieger",
@@ -11884,7 +11626,7 @@
       "Price": 250000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Clássicos"
+      "Class": "Car"
     },
     "le7b": {
       "Name": "Le7b",
@@ -11892,7 +11634,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Clássicos"
+      "Class": "Car"
     },
     "nero": {
       "Name": "Nero",
@@ -11900,7 +11642,7 @@
       "Price": 200000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Clássicos"
+      "Class": "Car"
     },
     "nero2": {
       "Name": "Nero 2",
@@ -11908,7 +11650,7 @@
       "Price": 210000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Clássicos"
+      "Class": "Car"
     },
     "osiris": {
       "Name": "Osiris",
@@ -11916,7 +11658,7 @@
       "Price": 230000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Clássicos"
+      "Class": "Car"
     },
     "penetrator": {
       "Name": "Penetrator",
@@ -11924,7 +11666,7 @@
       "Price": 140000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Clássicos"
+      "Class": "Car"
     },
     "pfister811": {
       "Name": "Pfister 811",
@@ -11932,7 +11674,7 @@
       "Price": 210000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Clássicos"
+      "Class": "Car"
     },
     "prototipo": {
       "Name": "Prototipo",
@@ -11940,7 +11682,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Clássicos"
+      "Class": "Car"
     },
     "reaper": {
       "Name": "Reaper",
@@ -11948,7 +11690,7 @@
       "Price": 170000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Clássicos"
+      "Class": "Car"
     },
     "s80": {
       "Name": "S80",
@@ -11956,7 +11698,7 @@
       "Price": 1000,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Clássicos"
+      "Class": "Car"
     },
     "sc1": {
       "Name": "Sc1",
@@ -11964,7 +11706,7 @@
       "Price": 210000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Clássicos"
+      "Class": "Car"
     },
     "scramjet": {
       "Name": "Scramjet",
@@ -11972,7 +11714,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Clássicos"
+      "Class": "Car"
     },
     "sheava": {
       "Name": "Sheava",
@@ -11980,7 +11722,7 @@
       "Price": 200000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Clássicos"
+      "Class": "Car"
     },
     "sultanrs": {
       "Name": "Sultan RS",
@@ -11988,7 +11730,7 @@
       "Price": 200000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Clássicos",
+      "Class": "Car",
       "Item": "Permanent"
     },
     "t20": {
@@ -11997,7 +11739,7 @@
       "Price": 300000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Clássicos",
+      "Class": "Car",
       "Item": 7
     },
     "taipan": {
@@ -12006,7 +11748,7 @@
       "Price": 200000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Clássicos"
+      "Class": "Car"
     },
     "tempesta": {
       "Name": "Tempesta",
@@ -12014,7 +11756,7 @@
       "Price": 170000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Clássicos"
+      "Class": "Car"
     },
     "tezeract": {
       "Name": "Tezeract",
@@ -12022,7 +11764,7 @@
       "Price": 300000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Clássicos"
+      "Class": "Car"
     },
     "thrax": {
       "Name": "Thrax",
@@ -12030,7 +11772,7 @@
       "Price": 210000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Clássicos"
+      "Class": "Car"
     },
     "tigon": {
       "Name": "Tigon",
@@ -12038,7 +11780,7 @@
       "Price": 220000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Clássicos"
+      "Class": "Car"
     },
     "turismor": {
       "Name": "Turismo R",
@@ -12046,7 +11788,7 @@
       "Price": 190000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Clássicos"
+      "Class": "Car"
     },
     "tyrant": {
       "Name": "Tyrant",
@@ -12054,7 +11796,7 @@
       "Price": 210000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Clássicos"
+      "Class": "Car"
     },
     "tyrus": {
       "Name": "Tyrus",
@@ -12062,7 +11804,7 @@
       "Price": 220000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Clássicos"
+      "Class": "Car"
     },
     "vacca": {
       "Name": "Vacca",
@@ -12070,7 +11812,7 @@
       "Price": 180000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Clássicos"
+      "Class": "Car"
     },
     "vagner": {
       "Name": "Vagner",
@@ -12078,7 +11820,7 @@
       "Price": 200000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Clássicos"
+      "Class": "Car"
     },
     "vigilante": {
       "Name": "Vigilante",
@@ -12086,7 +11828,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Clássicos"
+      "Class": "Car"
     },
     "virtue": {
       "Name": "virtue",
@@ -12094,7 +11836,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Clássicos"
+      "Class": "Car"
     },
     "visione": {
       "Name": "Visione",
@@ -12102,7 +11844,7 @@
       "Price": 230000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Clássicos"
+      "Class": "Car"
     },
     "voltic": {
       "Name": "Voltic",
@@ -12110,7 +11852,7 @@
       "Price": 180000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Clássicos"
+      "Class": "Car"
     },
     "voltic2": {
       "Name": "Voltic 2",
@@ -12118,7 +11860,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Clássicos"
+      "Class": "Car"
     },
     "xa21": {
       "Name": "Xa21",
@@ -12126,7 +11868,7 @@
       "Price": 260000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Clássicos"
+      "Class": "Car"
     },
     "zentorno": {
       "Name": "Zentorno",
@@ -12134,7 +11876,7 @@
       "Price": 230000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Clássicos"
+      "Class": "Car"
     },
     "zorrusso": {
       "Name": "Zorrusso",
@@ -12142,7 +11884,7 @@
       "Price": 200000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Clássicos"
+      "Class": "Car"
     },
     "armytanker": {
       "Name": "Armytanker",
@@ -12342,7 +12084,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Trens"
+      "Class": "Train"
     },
     "freightcar": {
       "Name": "Freightcar",
@@ -12350,7 +12092,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Trens"
+      "Class": "Train"
     },
     "freightcont1": {
       "Name": "Freightcont 1",
@@ -12358,7 +12100,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Trens"
+      "Class": "Train"
     },
     "freightcont2": {
       "Name": "Freightcont 2",
@@ -12366,7 +12108,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Trens"
+      "Class": "Train"
     },
     "freightgrain": {
       "Name": "Freightgrain",
@@ -12374,7 +12116,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Trens"
+      "Class": "Train"
     },
     "metrotrain": {
       "Name": "Metrotrain",
@@ -12382,7 +12124,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Trens"
+      "Class": "Train"
     },
     "tankercar": {
       "Name": "Rankercar",
@@ -12390,7 +12132,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Trens"
+      "Class": "Train"
     },
     "airtug": {
       "Name": "Airtug",
@@ -12398,7 +12140,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Utilitários"
+      "Class": "Car"
     },
     "caddy": {
       "Name": "Caddy",
@@ -12406,7 +12148,7 @@
       "Price": 30000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Utilitários"
+      "Class": "Car"
     },
     "caddy2": {
       "Name": "Caddy 2",
@@ -12414,7 +12156,7 @@
       "Price": 25000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Utilitários"
+      "Class": "Car"
     },
     "caddy3": {
       "Name": "Caddy 3",
@@ -12422,7 +12164,7 @@
       "Price": 20000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Utilitários"
+      "Class": "Car"
     },
     "docktug": {
       "Name": "Docktug",
@@ -12430,7 +12172,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Utilitários"
+      "Class": "Car"
     },
     "forklift": {
       "Name": "Forklift",
@@ -12438,7 +12180,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Utilitários"
+      "Class": "Car"
     },
     "mower": {
       "Name": "Mower",
@@ -12446,7 +12188,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Utilitários"
+      "Class": "Car"
     },
     "ripley": {
       "Name": "Ripley",
@@ -12454,7 +12196,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Utilitários"
+      "Class": "Car"
     },
     "sadler": {
       "Name": "Sadler",
@@ -12462,7 +12204,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Utilitários"
+      "Class": "Pickup"
     },
     "sadler2": {
       "Name": "Sadler 2",
@@ -12470,7 +12212,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Utilitários"
+      "Class": "Pickup"
     },
     "scrap": {
       "Name": "Scrap",
@@ -12478,7 +12220,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Utilitários"
+      "Class": "Truck"
     },
     "towtruck": {
       "Name": "Towtruck",
@@ -12486,7 +12228,7 @@
       "Price": 1000,
       "Mode": "Work",
       "Gemstone": 0,
-      "Class": "Utilitários"
+      "Class": "Truck"
     },
     "towtruck2": {
       "Name": "Towtruck 2",
@@ -12494,7 +12236,7 @@
       "Price": 1000,
       "Mode": "Work",
       "Gemstone": 0,
-      "Class": "Utilitários"
+      "Class": "Pickup"
     },
     "tractor": {
       "Name": "Tractor",
@@ -12502,7 +12244,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Utilitários"
+      "Class": "Car"
     },
     "tractor2": {
       "Name": "Tractor 2",
@@ -12510,7 +12252,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Utilitários"
+      "Class": "Car"
     },
     "tractor3": {
       "Name": "Tractor 3",
@@ -12518,7 +12260,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Utilitários"
+      "Class": "Car"
     },
     "utillitruck": {
       "Name": "Utillitruck",
@@ -12526,7 +12268,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Utilitários"
+      "Class": "Truck"
     },
     "utillitruck2": {
       "Name": "Utillitruck 2",
@@ -12534,7 +12276,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Utilitários"
+      "Class": "Truck"
     },
     "utillitruck3": {
       "Name": "Utillitruck 3",
@@ -12542,7 +12284,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Utilitários"
+      "Class": "Pickup"
     },
     "slamtruck": {
       "Name": "Slamtruck",
@@ -12550,7 +12292,7 @@
       "Price": 10000,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Utilitários"
+      "Class": "Truck"
     },
     "bison": {
       "Name": "Bison",
@@ -12558,7 +12300,7 @@
       "Price": 50000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Vans"
+      "Class": "Van"
     },
     "bison2": {
       "Name": "Bison 2",
@@ -12566,7 +12308,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Vans"
+      "Class": "Van"
     },
     "bison3": {
       "Name": "Bison 3",
@@ -12574,7 +12316,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Vans"
+      "Class": "Van"
     },
     "bobcatxl": {
       "Name": "Bobcat XL",
@@ -12582,7 +12324,7 @@
       "Price": 90000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Vans"
+      "Class": "Van"
     },
     "boxville": {
       "Name": "Boxville",
@@ -12590,7 +12332,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Vans"
+      "Class": "Van"
     },
     "boxville2": {
       "Name": "Boxville",
@@ -12606,7 +12348,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Vans"
+      "Class": "Van"
     },
     "boxville4": {
       "Name": "Boxville",
@@ -12614,7 +12356,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Vans"
+      "Class": "Van"
     },
     "boxville5": {
       "Name": "Boxville 5",
@@ -12622,7 +12364,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Vans"
+      "Class": "Van"
     },
     "burrito": {
       "Name": "Burrito",
@@ -12630,7 +12372,7 @@
       "Price": 70000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Vans"
+      "Class": "Van"
     },
     "burrito2": {
       "Name": "Burrito 2",
@@ -12638,7 +12380,7 @@
       "Price": 50000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Vans"
+      "Class": "Van"
     },
     "burrito3": {
       "Name": "Burrito 3",
@@ -12646,7 +12388,7 @@
       "Price": 70000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Vans"
+      "Class": "Van"
     },
     "burrito4": {
       "Name": "Burrito 4",
@@ -12654,7 +12396,7 @@
       "Price": 70000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Vans"
+      "Class": "Van"
     },
     "burrito5": {
       "Name": "Burrito 5",
@@ -12662,7 +12404,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Vans"
+      "Class": "Van"
     },
     "camper": {
       "Name": "Camper",
@@ -12670,7 +12412,7 @@
       "Price": 70000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Vans"
+      "Class": "Van"
     },
     "gburrito": {
       "Name": "Gburrito",
@@ -12678,7 +12420,7 @@
       "Price": 100000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Vans"
+      "Class": "Van"
     },
     "gburrito2": {
       "Name": "Gburrito 2",
@@ -12686,7 +12428,7 @@
       "Price": 1000,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Vans"
+      "Class": "Van"
     },
     "journey": {
       "Name": "Journey",
@@ -12694,7 +12436,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Vans"
+      "Class": "Van"
     },
     "journey2": {
       "Name": "journey2",
@@ -12702,7 +12444,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Vans"
+      "Class": "Van"
     },
     "minivan": {
       "Name": "Minivan",
@@ -12710,7 +12452,7 @@
       "Price": 80000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Vans"
+      "Class": "Van"
     },
     "minivan2": {
       "Name": "Minivan 2",
@@ -12718,7 +12460,7 @@
       "Price": 90000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Vans"
+      "Class": "Van"
     },
     "paradise": {
       "Name": "Paradise",
@@ -12726,7 +12468,7 @@
       "Price": 90000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Vans"
+      "Class": "Van"
     },
     "pony": {
       "Name": "Pony",
@@ -12734,7 +12476,7 @@
       "Price": 70000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Vans"
+      "Class": "Van"
     },
     "pony2": {
       "Name": "Pony 2",
@@ -12742,7 +12484,7 @@
       "Price": 80000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Vans"
+      "Class": "Van"
     },
     "rumpo": {
       "Name": "Rumpo",
@@ -12750,7 +12492,7 @@
       "Price": 70000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Vans"
+      "Class": "Van"
     },
     "rumpo2": {
       "Name": "Rumpo 2",
@@ -12758,7 +12500,7 @@
       "Price": 80000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Vans"
+      "Class": "Van"
     },
     "rumpo3": {
       "Name": "Rumpo 3",
@@ -12766,7 +12508,7 @@
       "Price": 300000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Vans"
+      "Class": "Van"
     },
     "speedo": {
       "Name": "Speedo",
@@ -12774,7 +12516,7 @@
       "Price": 70000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Vans"
+      "Class": "Van"
     },
     "speedo2": {
       "Name": "Speedo 2",
@@ -12782,7 +12524,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Vans"
+      "Class": "Van"
     },
     "speedo4": {
       "Name": "Speedo 4",
@@ -12790,7 +12532,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Vans"
+      "Class": "Van"
     },
     "surfer": {
       "Name": "Surfer",
@@ -12798,7 +12540,7 @@
       "Price": 60000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Vans"
+      "Class": "Van"
     },
     "surfer2": {
       "Name": "Surfer 2",
@@ -12806,7 +12548,7 @@
       "Price": 40000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Vans"
+      "Class": "Van"
     },
     "surfer3": {
       "Name": "surfer3",
@@ -12814,7 +12556,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Vans"
+      "Class": "Van"
     },
     "taco": {
       "Name": "Taco",
@@ -12822,7 +12564,7 @@
       "Price": 2000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Vans"
+      "Class": "Van"
     },
     "youga": {
       "Name": "Youga",
@@ -12830,7 +12572,7 @@
       "Price": 70000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Vans"
+      "Class": "Van"
     },
     "youga2": {
       "Name": "Youga 2",
@@ -12838,7 +12580,7 @@
       "Price": 1000,
       "Mode": "Work",
       "Gemstone": 0,
-      "Class": "Vans"
+      "Class": "Van"
     },
     "youga3": {
       "Name": "Youga 3",
@@ -12846,7 +12588,7 @@
       "Price": 90000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Vans"
+      "Class": "Van"
     },
     "teste01": {
       "Name": "Teste 01",
@@ -12871,7 +12613,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Embarcações"
+      "Class": "Truck"
     },
     "boor": {
       "Name": "boor",
@@ -12879,7 +12621,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Embarcações"
+      "Class": "Boat"
     },
     "patriot3": {
       "Name": "Patriot 3",
@@ -12887,7 +12629,7 @@
       "Price": 320000,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Embarcações"
+      "Class": "Pickup"
     },
     "omnisegt": {
       "Name": "Omni SE GT",
@@ -12895,7 +12637,7 @@
       "Price": 250000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "tenf2": {
       "Name": "Tenf 2",
@@ -12903,7 +12645,7 @@
       "Price": 190000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "sm722": {
       "Name": "Mm722",
@@ -12911,7 +12653,7 @@
       "Price": 170000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Clássicos"
+      "Class": "Car"
     },
     "brioso3": {
       "Name": "Brioso 3",
@@ -12919,7 +12661,7 @@
       "Price": 50000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Compactos"
+      "Class": "Car"
     },
     "lm87": {
       "Name": "Lm87",
@@ -12927,7 +12669,7 @@
       "Price": 170000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Clássicos"
+      "Class": "Car"
     },
     "iwagen": {
       "Name": "Iwagen",
@@ -12935,7 +12677,7 @@
       "Price": 260000,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Embarcações"
+      "Class": "Car"
     },
     "jubilee": {
       "Name": "Jubilee",
@@ -12943,7 +12685,7 @@
       "Price": 150000,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Embarcações"
+      "Class": "Car"
     },
     "reever": {
       "Name": "Reever",
@@ -12951,7 +12693,7 @@
       "Price": 170000,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Embarcações"
+      "Class": "Motorcycle"
     },
     "shinobi": {
       "Name": "Shinobi",
@@ -12959,7 +12701,7 @@
       "Price": 180000,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Embarcações"
+      "Class": "Motorcycle"
     },
     "granger2": {
       "Name": "Granger 2",
@@ -12967,7 +12709,7 @@
       "Price": 200000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "SUVs"
+      "Class": "Car"
     },
     "buffalo4": {
       "Name": "Buffalo 4",
@@ -12975,7 +12717,7 @@
       "Price": 250000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "vigero2": {
       "Name": "Vigero 2",
@@ -12983,7 +12725,7 @@
       "Price": 200000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Clássicos"
+      "Class": "Car"
     },
     "sentinel4": {
       "Name": "Sentinel 4",
@@ -12991,7 +12733,7 @@
       "Price": 140000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "ignus": {
       "Name": "Ignus",
@@ -12999,7 +12741,7 @@
       "Price": 250000,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Embarcações"
+      "Class": "Car"
     },
     "youga4": {
       "Name": "Youga 4",
@@ -13007,7 +12749,7 @@
       "Price": 90000,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Embarcações"
+      "Class": "Van"
     },
     "zeno": {
       "Name": "Zeno",
@@ -13015,7 +12757,7 @@
       "Price": 250000,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Embarcações"
+      "Class": "Car"
     },
     "deity": {
       "Name": "Deity",
@@ -13023,7 +12765,7 @@
       "Price": 300000,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Embarcações"
+      "Class": "Car"
     },
     "kanjosj": {
       "Name": "Kanjo SJ",
@@ -13031,7 +12773,7 @@
       "Price": 60000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Compactos"
+      "Class": "Car"
     },
     "greenwood": {
       "Name": "Greenwood",
@@ -13039,7 +12781,7 @@
       "Price": 60000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Muscles"
+      "Class": "Car"
     },
     "corsita": {
       "Name": "Corsita",
@@ -13047,7 +12789,7 @@
       "Price": 200000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Clássicos"
+      "Class": "Car"
     },
     "cinquemila": {
       "Name": "Cinquemila",
@@ -13055,7 +12797,7 @@
       "Price": 200000,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Embarcações"
+      "Class": "Car"
     },
     "rhinehart": {
       "Name": "Rhinehart",
@@ -13063,7 +12805,7 @@
       "Price": 120000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "SUVs"
+      "Class": "Car"
     },
     "tenf": {
       "Name": "Tenf",
@@ -13071,7 +12813,7 @@
       "Price": 180000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "postlude": {
       "Name": "Postlude",
@@ -13079,7 +12821,7 @@
       "Price": 60000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Esportivos"
+      "Class": "Car"
     },
     "mule5": {
       "Name": "Mule 5",
@@ -13087,7 +12829,7 @@
       "Price": 1000,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Embarcações"
+      "Class": "Truck"
     },
     "baller7": {
       "Name": "Baller 7",
@@ -13095,7 +12837,7 @@
       "Price": 480000,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Embarcações"
+      "Class": "Car"
     },
     "conada": {
       "Name": "Conada",
@@ -13103,7 +12845,7 @@
       "Price": 100,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Embarcações"
+      "Class": "Helicopter"
     },
     "champion": {
       "Name": "Champion",
@@ -13111,7 +12853,7 @@
       "Price": 220000,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Embarcações"
+      "Class": "Car"
     },
     "draugur": {
       "Name": "Draugur",
@@ -13119,7 +12861,7 @@
       "Price": 320000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Off-Roads"
+      "Class": "Car"
     },
     "astron": {
       "Name": "Astron",
@@ -13127,7 +12869,7 @@
       "Price": 220000,
       "Mode": null,
       "Gemstone": 0,
-      "Class": "Embarcações"
+      "Class": "Car"
     },
     "ruiner4": {
       "Name": "Ruiner4",
@@ -13135,7 +12877,7 @@
       "Price": 110000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Muscles"
+      "Class": "Car"
     },
     "weevil2": {
       "Name": "Weevil 2",
@@ -13143,7 +12885,7 @@
       "Price": 120000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Compactos"
+      "Class": "Car"
     },
     "torero2": {
       "Name": "Torero 2",
@@ -13151,40 +12893,13 @@
       "Price": 200000,
       "Mode": "Cars",
       "Gemstone": 0,
-      "Class": "Clássicos"
+      "Class": "Car"
     }
   },
   "levels": [
-    0,
-    270,
-    580,
-    940,
-    1350,
-    1820,
-    2360,
-    2980,
-    3690,
-    4500,
-    5440,
-    6520,
-    7760,
-    9180,
-    10810,
-    12690,
-    14850,
-    17330,
-    20180,
-    23450,
-    27210,
-    31540,
-    36510,
-    42230,
-    48810,
-    56370,
-    65060,
-    75060,
-    86550,
-    99999
+    0, 270, 580, 940, 1350, 1820, 2360, 2980, 3690, 4500, 5440, 6520, 7760,
+    9180, 10810, 12690, 14850, 17330, 20180, 23450, 27210, 31540, 36510, 42230,
+    48810, 56370, 65060, 75060, 86550, 99999
   ],
   "common": "#6fc66a",
   "rare": "#6ac6c5",
